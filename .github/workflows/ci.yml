@@ -1,3 +1,5 @@
+# Runs on every push to main and on all pull requests.
+# Validates that the monorepo builds, tests pass, and TypeScript is clean.
 name: CI
 
 on:
@@ -11,17 +13,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Reads pnpm version from package.json → "packageManager": "pnpm@9.15.4"
       - uses: pnpm/action-setup@v4
-        with:
-          version: 9
 
       - uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: pnpm
 
+      # Fail if lockfile is out of sync with package.json
       - run: pnpm install --frozen-lockfile
 
+      # Build all packages: data → core → react
       - run: pnpm build
+
+      # Unit tests (normalize, search) + integration tests (real gov data)
       - run: pnpm test
+
+      # TypeScript check across all workspace packages
       - run: pnpm typecheck

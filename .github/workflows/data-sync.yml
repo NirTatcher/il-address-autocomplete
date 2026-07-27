@@ -1,3 +1,13 @@
+# Weekly sync of city/street data from data.gov.il (Population & Immigration Authority).
+#
+# What it does:
+#   1. Fetches latest cities + streets from the government CKAN API
+#   2. Rebuilds packages/data/generated/
+#   3. Validates record counts against live CKAN
+#   4. Opens a PR if anything changed (nothing is auto-merged or auto-published)
+#
+# Schedule: every Monday at 06:00 UTC
+# Manual run: Actions tab → Data Sync → Run workflow
 name: Data Sync
 
 on:
@@ -5,6 +15,7 @@ on:
     - cron: "0 6 * * 1"
   workflow_dispatch:
 
+# Required for create-pull-request to open a PR with the updated data
 permissions:
   contents: write
   pull-requests: write
@@ -15,9 +26,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Reads pnpm version from package.json → "packageManager": "pnpm@9.15.4"
       - uses: pnpm/action-setup@v4
-        with:
-          version: 9
 
       - uses: actions/setup-node@v4
         with:
@@ -26,17 +36,23 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      # Download ~1,300 cities and ~152k street records from data.gov.il,
+      # then transform into generated/cities.json + generated/streets/{code}.json
       - name: Fetch and rebuild data
         run: |
           pnpm --filter @il-address/data fetch:gov
           pnpm --filter @il-address/data build
 
+      # Compare local manifest against live CKAN counts + anchor city checks
+      # (Tel Aviv, Jerusalem, Haifa). Fails the job if counts don't match.
       - name: Validate and test
         run: |
           pnpm data:validate
           pnpm test
           pnpm build
 
+      # Only creates a PR when generated files actually changed.
+      # Review and merge manually — no auto-deploy.
       - name: Create PR if data changed
         uses: peter-evans/create-pull-request@v7
         with:
