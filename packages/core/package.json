@@ -1,6 +1,6 @@
 {
   "name": "@il-address/core",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Headless Israeli city and street autocomplete for JavaScript",
   "license": "MIT",
   "keywords": ["israel", "address", "autocomplete", "hebrew", "cities", "streets", "data.gov.il"],

@@ -1,8 +1,9 @@
 # @il-address/react
 
 [![npm version](https://img.shields.io/npm/v/@il-address/react)](https://www.npmjs.com/package/@il-address/react)
-[![npm downloads/week](https://img.shields.io/npm/dw/@il-address/react)](https://www.npmjs.com/package/@il-address/react)
-[![npm downloads/month](https://img.shields.io/npm/dm/@il-address/react)](https://www.npmjs.com/package/@il-address/react)
+![npm](https://img.shields.io/npm/dw/@il-address/react)
+![npm](https://img.shields.io/npm/dm/@il-address/react)
+![npm](https://img.shields.io/npm/dy/@il-address/react)
 
 Headless React hooks for Israeli city & street autocomplete. You own the markup and CSS.
 

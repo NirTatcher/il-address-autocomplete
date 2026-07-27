@@ -1,6 +1,6 @@
 {
   "name": "@il-address/data",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Israeli city and street data for @il-address/core",
   "license": "MIT",
   "repository": {

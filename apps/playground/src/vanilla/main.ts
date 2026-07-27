@@ -7,6 +7,7 @@ import {
 } from "@il-address/core";
 import { renderDemoNav } from "../shared/demo-nav";
 import { formatBuildDate, formatGovDate } from "../shared/dates";
+import { renderDemoLinks } from "../shared/links";
 import "../styles.css";
 
 const SEARCH_LIMIT = 8;
@@ -88,6 +89,9 @@ function renderSelection(city: City | null, street: Street | null): void {
 function main(): void {
   const navHost = document.getElementById("demo-nav");
   if (navHost) navHost.innerHTML = renderDemoNav("vanilla");
+
+  const linksHost = document.getElementById("demo-links");
+  if (linksHost) linksHost.innerHTML = renderDemoLinks("core");
 
   const cityInput = document.getElementById("city-input") as HTMLInputElement;
   const cityList = document.getElementById("city-suggestions") as HTMLUListElement;

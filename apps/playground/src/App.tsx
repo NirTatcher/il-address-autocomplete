@@ -2,6 +2,7 @@ import { getDataManifest } from "@il-address/core";
 import { useAddressAutocomplete } from "@il-address/react";
 import type { City, Street } from "@il-address/core";
 import { DemoNav } from "./DemoNav";
+import { DemoLinks } from "./DemoLinks";
 import { formatBuildDate, formatGovDate } from "./shared/dates";
 
 function SuggestionList<T extends City | Street>({
@@ -65,6 +66,7 @@ export function App() {
           </a>
           .
         </p>
+        <DemoLinks npmPackage="react" />
       </header>
 
       <section className="card">

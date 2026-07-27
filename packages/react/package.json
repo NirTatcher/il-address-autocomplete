@@ -1,6 +1,6 @@
 {
   "name": "@il-address/react",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Headless React hooks for Israeli city and street autocomplete",
   "license": "MIT",
   "keywords": ["israel", "address", "autocomplete", "react", "hebrew", "hooks"],

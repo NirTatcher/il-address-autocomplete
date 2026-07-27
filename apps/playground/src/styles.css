@@ -52,6 +52,30 @@ h1 {
   border-radius: 4px;
 }
 
+.demo-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin: 12px 0 0;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.demo-links a {
+  color: #4338ca;
+  text-decoration: none;
+}
+
+.demo-links a:hover {
+  text-decoration: underline;
+}
+
+.demo-links__sep {
+  color: #94a3b8;
+  font-weight: 400;
+}
+
 .demo-nav {
   display: inline-flex;
   gap: 4px;

@@ -1,8 +1,9 @@
 # @il-address/core
 
 [![npm version](https://img.shields.io/npm/v/@il-address/core)](https://www.npmjs.com/package/@il-address/core)
-[![npm downloads/week](https://img.shields.io/npm/dw/@il-address/core)](https://www.npmjs.com/package/@il-address/core)
-[![npm downloads/month](https://img.shields.io/npm/dm/@il-address/core)](https://www.npmjs.com/package/@il-address/core)
+![npm](https://img.shields.io/npm/dw/@il-address/core)
+![npm](https://img.shields.io/npm/dm/@il-address/core)
+![npm](https://img.shields.io/npm/dy/@il-address/core)
 
 Headless Israeli city & street autocomplete for JavaScript. Works with any framework or plain DOM.
 

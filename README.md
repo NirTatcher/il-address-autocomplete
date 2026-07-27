@@ -2,9 +2,9 @@
 
 [![CI](https://github.com/NirTatcher/il-address-autocomplete/actions/workflows/ci.yml/badge.svg)](https://github.com/NirTatcher/il-address-autocomplete/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@il-address/core)](https://www.npmjs.com/package/@il-address/core)
-[![npm downloads/day](https://img.shields.io/badge/dynamic/json?label=downloads%2Fday&query=downloads&url=https://api.npmjs.org/downloads/point/last-day/@il-address/core&color=blue)](https://www.npmjs.com/package/@il-address/core)
-[![npm downloads/week](https://img.shields.io/npm/dw/@il-address/core)](https://www.npmjs.com/package/@il-address/core)
-[![npm downloads/month](https://img.shields.io/npm/dm/@il-address/core)](https://www.npmjs.com/package/@il-address/core)
+![npm](https://img.shields.io/npm/dw/@il-address/core)
+![npm](https://img.shields.io/npm/dm/@il-address/core)
+![npm](https://img.shields.io/npm/dy/@il-address/core)
 [![license](https://img.shields.io/npm/l/@il-address/core)](https://github.com/NirTatcher/il-address-autocomplete/blob/main/LICENSE)
 
 Headless Israeli city & street autocomplete for JavaScript and React. Data sourced from the official [data.gov.il](https://data.gov.il) CKAN API (Population & Immigration Authority).
@@ -164,7 +164,7 @@ pnpm build && pnpm test
 pnpm --filter @il-address/data pack
 pnpm --filter @il-address/core pack
 pnpm --filter @il-address/react pack
-# In a new folder: npm install react react-dom && npm install ./il-address-data-0.1.0.tgz ./il-address-core-0.1.0.tgz ./il-address-react-0.1.0.tgz
+# In a new folder: npm install react react-dom && npm install ./il-address-data-1.0.0.tgz ./il-address-core-1.0.0.tgz ./il-address-react-1.0.0.tgz
 ```
 
 2. **Publish** (order matters — data first):
@@ -187,20 +187,6 @@ packages/
 apps/
   playground/ # Vite demo
 ```
-
-## Roadmap
-
-- [x] Core search API
-- [x] React headless hooks
-- [x] data.gov.il fetch + build pipeline
-- [x] Data manifest for CI drift checks
-- [x] CI workflow (build + test)
-- [x] npm-publishable packages
-- [x] Weekly data sync workflow
-- [x] Live playground demo (Netlify)
-- [x] Vanilla JS demo
-- [ ] shadcn/ui integration recipes
-- [ ] Pre-built UI components
 
 ## Contributing
 
