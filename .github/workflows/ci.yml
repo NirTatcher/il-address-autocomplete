@@ -25,6 +25,7 @@ jobs:
       - run: pnpm install --frozen-lockfile
 
       # Build all packages: data → core → react
+      # Build core + react (generated data is committed; no raw/ in CI)
       - run: pnpm build
 
       # Unit tests (normalize, search) + integration tests (real gov data)

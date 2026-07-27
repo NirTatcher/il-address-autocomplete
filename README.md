@@ -129,7 +129,8 @@ pnpm data:validate
 
 | Command | Description |
 |---------|-------------|
-| `pnpm build` | Build all packages |
+| `pnpm build` | Build core + react packages |
+| `pnpm data:build` | Transform raw/ → generated/ (after fetch) |
 | `pnpm test` | Run tests |
 | `pnpm typecheck` | TypeScript check |
 | `pnpm dev` | Start playground |

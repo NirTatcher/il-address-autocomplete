@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "pnpm --filter @il-address/data build && pnpm --filter @il-address/core build && pnpm --filter @il-address/react build",
+    "build": "pnpm --filter @il-address/core build && pnpm --filter @il-address/react build",
     "dev": "pnpm --filter playground dev",
     "data:fetch": "pnpm --filter @il-address/data fetch:gov",
     "data:build": "pnpm --filter @il-address/data build",

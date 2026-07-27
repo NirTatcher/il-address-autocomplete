@@ -1,5 +1,5 @@
 import path from "node:path";
-import { writeFile } from "node:fs/promises";
+import { access, writeFile } from "node:fs/promises";
 import type {
   BuiltCity,
   BuiltStreet,
@@ -112,6 +112,24 @@ async function loadSourceMeta(
 async function main(): Promise<void> {
   const citiesPath = path.join(RAW_DIR, "cities.json");
   const streetsPath = path.join(RAW_DIR, "streets.json");
+  const generatedCitiesPath = path.join(GENERATED_DIR, "cities.json");
+
+  // Raw files are gitignored — only exist after `pnpm data:fetch`.
+  // In CI we use the committed generated/ output directly.
+  try {
+    await access(citiesPath);
+    await access(streetsPath);
+  } catch {
+    try {
+      await access(generatedCitiesPath);
+      console.log("Skipping data build: raw/ not found, using committed generated/");
+      return;
+    } catch {
+      throw new Error(
+        "No raw data and no generated data found. Run `pnpm data:sync` first.",
+      );
+    }
+  }
 
   console.log("Building generated data...");
   const rawCities = await readJsonFile<RawCityRecord[]>(citiesPath);
