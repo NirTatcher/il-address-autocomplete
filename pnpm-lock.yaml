@@ -17,6 +17,9 @@ importers:
       '@il-address/core':
         specifier: workspace:*
         version: link:../../packages/core
+      '@il-address/data':
+        specifier: workspace:*
+        version: link:../../packages/data
       '@il-address/react':
         specifier: workspace:*
         version: link:../../packages/react
