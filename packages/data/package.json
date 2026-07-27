@@ -20,9 +20,9 @@
     "README.md"
   ],
   "scripts": {
-    "fetch:gov": "node --experimental-strip-types scripts/fetch-gov-il.ts",
-    "build": "node --experimental-strip-types scripts/build.ts",
-    "validate": "node --experimental-strip-types scripts/validate-data.ts",
+    "fetch:gov": "tsx scripts/fetch-gov-il.ts",
+    "build": "tsx scripts/build.ts",
+    "validate": "tsx scripts/validate-data.ts",
     "typecheck": "tsc --noEmit"
   },
   "publishConfig": {
