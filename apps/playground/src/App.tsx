@@ -2,6 +2,24 @@ import { getDataManifest } from "@il-address/core";
 import { useAddressAutocomplete } from "@il-address/react";
 import type { City, Street } from "@il-address/core";
 
+function formatGovDate(iso: string): string {
+  return new Date(iso).toLocaleDateString("he-IL", {
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+  });
+}
+
+function formatBuildDate(iso: string): string {
+  return new Date(iso).toLocaleString("he-IL", {
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+}
+
 function SuggestionList<T extends City | Street>({
   items,
   highlightedIndex,
@@ -104,9 +122,19 @@ export function App() {
       </section>
 
       <footer className="meta">
-        <span>{manifest.built.cityCount} cities</span>
-        <span>{manifest.built.uniqueStreetCount.toLocaleString()} streets</span>
-        <span>synced {new Date(manifest.built.generatedAt).toLocaleDateString("he-IL")}</span>
+        <p className="meta__counts">
+          <span>{manifest.built.cityCount.toLocaleString("he-IL")} ערים</span>
+          <span>{manifest.built.uniqueStreetCount.toLocaleString("he-IL")} רחובות</span>
+        </p>
+        <p className="meta__built">נבנה: {formatBuildDate(manifest.built.generatedAt)}</p>
+        <p className="meta__freshness">
+          עודכן לאחרונה ב-{" "}
+          <a href="https://data.gov.il" target="_blank" rel="noreferrer">
+            data.gov.il
+          </a>
+          : ערים {formatGovDate(manifest.sources.cities.lastModified)}, רחובות{" "}
+          {formatGovDate(manifest.sources.streets.lastModified)}
+        </p>
       </footer>
     </main>
   );

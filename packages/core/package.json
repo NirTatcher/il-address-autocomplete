@@ -4,6 +4,15 @@
   "description": "Headless Israeli city and street autocomplete for JavaScript",
   "license": "MIT",
   "keywords": ["israel", "address", "autocomplete", "hebrew", "cities", "streets", "data.gov.il"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NirTatcher/il-address-autocomplete.git",
+    "directory": "packages/core"
+  },
+  "homepage": "https://il-address-autocomplete.netlify.app",
+  "bugs": {
+    "url": "https://github.com/NirTatcher/il-address-autocomplete/issues"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",

@@ -4,6 +4,15 @@
   "description": "Headless React hooks for Israeli city and street autocomplete",
   "license": "MIT",
   "keywords": ["israel", "address", "autocomplete", "react", "hebrew", "hooks"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NirTatcher/il-address-autocomplete.git",
+    "directory": "packages/react"
+  },
+  "homepage": "https://il-address-autocomplete.netlify.app",
+  "bugs": {
+    "url": "https://github.com/NirTatcher/il-address-autocomplete/issues"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",

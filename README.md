@@ -2,6 +2,8 @@
 
 Headless Israeli city & street autocomplete for JavaScript and React. Data sourced from the official [data.gov.il](https://data.gov.il) CKAN API (Population & Immigration Authority).
 
+**[Live demo](https://il-address-autocomplete.netlify.app)** · [Playground source](./apps/playground)
+
 ## Install
 
 ```bash
@@ -146,15 +148,25 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ## Publish to npm
 
+1. **Smoke test** — install packed tarballs in a fresh app (outside this monorepo):
+
 ```bash
 pnpm build && pnpm test
+pnpm --filter @il-address/data pack
+pnpm --filter @il-address/core pack
+pnpm --filter @il-address/react pack
+# In a new folder: npm install react react-dom && npm install ./il-address-data-0.1.0.tgz ./il-address-core-0.1.0.tgz ./il-address-react-0.1.0.tgz
+```
 
+2. **Publish** (order matters — data first):
+
+```bash
 pnpm --filter @il-address/data publish --access public
 pnpm --filter @il-address/core publish --access public
 pnpm --filter @il-address/react publish --access public
 ```
 
-Requires an npm org/user named `il-address` (or rename the package scope).
+Requires an npm org named `@il-address` (create at [npmjs.com/org/create](https://www.npmjs.com/org/create)) or rename the package scope.
 
 ## Project structure
 
@@ -176,7 +188,7 @@ apps/
 - [x] CI workflow (build + test)
 - [x] npm-publishable packages
 - [x] Weekly data sync workflow
-- [ ] Live playground demo (Vercel/Netlify)
+- [x] Live playground demo (Netlify)
 - [ ] shadcn/ui integration recipes
 - [ ] Pre-built UI components
 

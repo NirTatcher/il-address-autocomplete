@@ -1,0 +1,6 @@
+[build]
+  command = "pnpm install --frozen-lockfile && pnpm build && pnpm --filter playground build"
+  publish = "apps/playground/dist"
+
+[build.environment]
+  NODE_VERSION = "20"

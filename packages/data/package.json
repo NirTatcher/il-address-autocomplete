@@ -3,6 +3,15 @@
   "version": "0.1.0",
   "description": "Israeli city and street data for @il-address/core",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NirTatcher/il-address-autocomplete.git",
+    "directory": "packages/data"
+  },
+  "homepage": "https://il-address-autocomplete.netlify.app",
+  "bugs": {
+    "url": "https://github.com/NirTatcher/il-address-autocomplete/issues"
+  },
   "type": "module",
   "exports": {
     "./manifest.json": "./manifest.json",
