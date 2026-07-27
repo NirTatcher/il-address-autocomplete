@@ -151,7 +151,7 @@ pnpm data:validate
 ## CI / data freshness
 
 - **Every PR/push:** `ci.yml` runs build, test, typecheck
-- **Weekly (Mondays):** `data-sync.yml` fetches fresh gov data, validates, opens a PR if anything changed
+- **Weekly (Mondays):** `data-sync.yml` fetches fresh gov data, validates, opens a PR only if city/street content changed
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 

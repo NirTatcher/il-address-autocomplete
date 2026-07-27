@@ -109,6 +109,98 @@ async function loadSourceMeta(
   }
 }
 
+type BuiltWithoutTimestamp = Omit<DataManifest["built"], "generatedAt">;
+
+/** Stable fingerprint of published data — excludes generatedAt so rebuilds don't dirty git. */
+function contentFingerprint(
+  cities: BuiltCity[],
+  streetsByCity: Map<number, BuiltStreet[]>,
+  sources: DataManifest["sources"],
+  built: BuiltWithoutTimestamp,
+): string {
+  const streets: Record<string, BuiltStreet[]> = {};
+  for (const cityCode of [...streetsByCity.keys()].sort((a, b) => a - b)) {
+    streets[String(cityCode)] = streetsByCity.get(cityCode) ?? [];
+  }
+
+  const streetCountByCity: Record<string, number> = {};
+  for (const key of Object.keys(built.streetCountByCity).sort(
+    (a, b) => Number(a) - Number(b),
+  )) {
+    streetCountByCity[key] = built.streetCountByCity[key]!;
+  }
+
+  return sha256(
+    JSON.stringify({
+      cities,
+      streets,
+      sources,
+      built: { ...built, streetCountByCity },
+    }),
+  );
+}
+
+async function existingContentFingerprint(): Promise<string | null> {
+  try {
+    const manifest = await readJsonFile<DataManifest>(MANIFEST_PATH);
+    const cities = await readJsonFile<BuiltCity[]>(
+      path.join(GENERATED_DIR, "cities.json"),
+    );
+    const streetsByCity = new Map<number, BuiltStreet[]>();
+
+    for (const key of Object.keys(manifest.built.streetCountByCity)) {
+      const cityCode = Number(key);
+      const streets = await readJsonFile<BuiltStreet[]>(
+        path.join(STREETS_DIR, `${cityCode}.json`),
+      );
+      streetsByCity.set(cityCode, streets);
+    }
+
+    const { generatedAt: _ignored, ...built } = manifest.built;
+    return contentFingerprint(cities, streetsByCity, manifest.sources, built);
+  } catch {
+    return null;
+  }
+}
+
+function buildStreetLoader(cityCodes: number[]): { js: string; dts: string } {
+  const loaderEntries = cityCodes.map(
+    (cityCode) => `  ${cityCode}: () => import("./streets/${cityCode}.json"),`,
+  );
+
+  const js = [
+    `const loaders = {`,
+    ...loaderEntries,
+    `};`,
+    ``,
+    `export async function loadStreetsForCity(cityCode) {`,
+    `  const loader = loaders[cityCode];`,
+    `  if (!loader) return [];`,
+    `  const module = await loader();`,
+    `  return module.default;`,
+    `}`,
+    ``,
+    `export function getAvailableCityCodes() {`,
+    `  return Object.keys(loaders).map(Number);`,
+    `}`,
+    ``,
+  ].join("\n");
+
+  const dts = [
+    `export interface BuiltStreet {`,
+    `  code: number;`,
+    `  nameHe: string;`,
+    `  aliases: string[];`,
+    `}`,
+    ``,
+    `export declare function loadStreetsForCity(cityCode: number): Promise<BuiltStreet[]>;`,
+    `export declare function getAvailableCityCodes(): number[];`,
+    ``,
+  ].join("\n");
+
+  return { js, dts };
+}
+
 async function main(): Promise<void> {
   const citiesPath = path.join(RAW_DIR, "cities.json");
   const streetsPath = path.join(RAW_DIR, "streets.json");
@@ -142,31 +234,49 @@ async function main(): Promise<void> {
 
   const streetsByCity = buildStreetsByCity(rawStreets);
 
+  const streetCountByCity: Record<string, number> = {};
+  let uniqueStreetCount = 0;
+
+  for (const [cityCode, streets] of streetsByCity) {
+    streetCountByCity[String(cityCode)] = streets.length;
+    uniqueStreetCount += streets.length;
+  }
+
+  const sources = {
+    cities: await loadSourceMeta("cities", rawCities.length),
+    streets: await loadSourceMeta("streets", rawStreets.length),
+  };
+
+  const built: BuiltWithoutTimestamp = {
+    cityCount: cities.length,
+    uniqueStreetCount,
+    rawStreetRecordCount: rawStreets.length,
+    streetCountByCity,
+  };
+
+  const nextFingerprint = contentFingerprint(cities, streetsByCity, sources, built);
+  const previousFingerprint = await existingContentFingerprint();
+
+  if (previousFingerprint === nextFingerprint) {
+    console.log("No data changes (cities/streets/sources unchanged); keeping existing generated/");
+    console.log(`  cities: ${cities.length}`);
+    console.log(`  streets: ${uniqueStreetCount} unique across ${streetsByCity.size} cities`);
+    return;
+  }
+
   await ensureDir(GENERATED_DIR);
   await ensureDir(STREETS_DIR);
 
   await writeJsonFile(path.join(GENERATED_DIR, "cities.json"), cities);
 
-  const streetCountByCity: Record<string, number> = {};
-  let uniqueStreetCount = 0;
-
   for (const [cityCode, streets] of streetsByCity) {
-    const fileName = `${cityCode}.json`;
-    await writeJsonFile(path.join(STREETS_DIR, fileName), streets);
-    streetCountByCity[String(cityCode)] = streets.length;
-    uniqueStreetCount += streets.length;
+    await writeJsonFile(path.join(STREETS_DIR, `${cityCode}.json`), streets);
   }
 
   const manifest: DataManifest = {
-    sources: {
-      cities: await loadSourceMeta("cities", rawCities.length),
-      streets: await loadSourceMeta("streets", rawStreets.length),
-    },
+    sources,
     built: {
-      cityCount: cities.length,
-      uniqueStreetCount,
-      rawStreetRecordCount: rawStreets.length,
-      streetCountByCity,
+      ...built,
       generatedAt: new Date().toISOString(),
     },
   };
@@ -174,44 +284,13 @@ async function main(): Promise<void> {
   await writeJsonFile(MANIFEST_PATH, manifest);
 
   const cityCodes = [...streetsByCity.keys()].sort((a, b) => a - b);
-  const loaderEntries = cityCodes.map(
-    (cityCode) => `  ${cityCode}: () => import("./streets/${cityCode}.json"),`,
-  );
-
-  const loaderJs = [
-    `const loaders = {`,
-    ...loaderEntries,
-    `};`,
-    ``,
-    `export async function loadStreetsForCity(cityCode) {`,
-    `  const loader = loaders[cityCode];`,
-    `  if (!loader) return [];`,
-    `  const module = await loader();`,
-    `  return module.default;`,
-    `}`,
-    ``,
-    `export function getAvailableCityCodes() {`,
-    `  return Object.keys(loaders).map(Number);`,
-    `}`,
-    ``,
-  ].join("\n");
-
-  const loaderDts = [
-    `export interface BuiltStreet {`,
-    `  code: number;`,
-    `  nameHe: string;`,
-    `  aliases: string[];`,
-    `}`,
-    ``,
-    `export declare function loadStreetsForCity(cityCode: number): Promise<BuiltStreet[]>;`,
-    `export declare function getAvailableCityCodes(): number[];`,
-    ``,
-  ].join("\n");
+  const { js: loaderJs, dts: loaderDts } = buildStreetLoader(cityCodes);
 
   await writeFile(path.join(GENERATED_DIR, "street-loader.js"), loaderJs, "utf8");
   await writeFile(path.join(GENERATED_DIR, "street-loader.d.ts"), loaderDts, "utf8");
 
   const citiesChecksum = sha256(JSON.stringify(cities));
+  console.log(`  data changed — wrote new generated/ + manifest`);
   console.log(`  cities: ${cities.length} (${citiesChecksum.slice(0, 8)}…)`);
   console.log(`  streets: ${uniqueStreetCount} unique across ${streetsByCity.size} cities`);
   console.log(`  manifest: ${MANIFEST_PATH}`);
