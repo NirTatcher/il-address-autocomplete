@@ -1,8 +1,15 @@
 # IL Address Autocomplete
 
+[![CI](https://github.com/NirTatcher/il-address-autocomplete/actions/workflows/ci.yml/badge.svg)](https://github.com/NirTatcher/il-address-autocomplete/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@il-address/core)](https://www.npmjs.com/package/@il-address/core)
+[![npm downloads/day](https://img.shields.io/badge/dynamic/json?label=downloads%2Fday&query=downloads&url=https://api.npmjs.org/downloads/point/last-day/@il-address/core&color=blue)](https://www.npmjs.com/package/@il-address/core)
+[![npm downloads/week](https://img.shields.io/npm/dw/@il-address/core)](https://www.npmjs.com/package/@il-address/core)
+[![npm downloads/month](https://img.shields.io/npm/dm/@il-address/core)](https://www.npmjs.com/package/@il-address/core)
+[![license](https://img.shields.io/npm/l/@il-address/core)](https://github.com/NirTatcher/il-address-autocomplete/blob/main/LICENSE)
+
 Headless Israeli city & street autocomplete for JavaScript and React. Data sourced from the official [data.gov.il](https://data.gov.il) CKAN API (Population & Immigration Authority).
 
-**[Live demo](https://il-address-autocomplete.netlify.app)** · [Playground source](./apps/playground)
+**[Live demo](https://il-address-autocomplete.netlify.app)** · [Vanilla JS demo](https://il-address-autocomplete.netlify.app/vanilla.html) · [Playground source](./apps/playground)
 
 ## Install
 
@@ -86,7 +93,9 @@ function AddressForm() {
 }
 ```
 
-Hooks are **headless** — you own the markup and styling. See [`apps/playground`](./apps/playground) for a full example.
+Hooks are **headless** — you own the markup and styling.
+
+**Live examples:** [React demo](https://il-address-autocomplete.netlify.app) · [Vanilla JS demo](https://il-address-autocomplete.netlify.app/vanilla.html) · [source](./apps/playground)
 
 ## Data model
 
@@ -189,6 +198,7 @@ apps/
 - [x] npm-publishable packages
 - [x] Weekly data sync workflow
 - [x] Live playground demo (Netlify)
+- [x] Vanilla JS demo
 - [ ] shadcn/ui integration recipes
 - [ ] Pre-built UI components
 

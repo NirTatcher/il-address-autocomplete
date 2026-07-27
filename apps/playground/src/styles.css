@@ -45,6 +45,45 @@ h1 {
   color: #475569;
 }
 
+.subtitle code {
+  font-size: 0.9em;
+  background: #eef2ff;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.demo-nav {
+  display: inline-flex;
+  gap: 4px;
+  margin-bottom: 24px;
+  padding: 4px;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 999px;
+}
+
+.demo-nav__link {
+  padding: 8px 16px;
+  border-radius: 999px;
+  color: #475569;
+  text-decoration: none;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.demo-nav__link:hover {
+  color: #4f46e5;
+}
+
+.demo-nav__link--active {
+  background: #eef2ff;
+  color: #4338ca;
+}
+
+.hidden {
+  display: none;
+}
+
 .card {
   background: #fff;
   border: 1px solid #e2e8f0;

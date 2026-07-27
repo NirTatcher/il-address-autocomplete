@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IL Address Autocomplete — Vanilla JS Demo</title>
+  </head>
+  <body>
+    <main class="page">
+      <div id="demo-nav"></div>
+
+      <header class="hero">
+        <p class="eyebrow">@il-address/core</p>
+        <h1>כתובת בישראל — Vanilla JS</h1>
+        <p class="subtitle">
+          Plain DOM wiring with <code>searchCities</code> and <code>searchStreets</code>.
+          Data from
+          <a href="https://data.gov.il" target="_blank" rel="noreferrer">data.gov.il</a>.
+        </p>
+      </header>
+
+      <section class="card">
+        <label class="field">
+          <span class="label">עיר</span>
+          <input id="city-input" class="input" placeholder="הקלד שם עיר" autocomplete="off" />
+          <ul id="city-suggestions" class="suggestions hidden" role="listbox"></ul>
+        </label>
+
+        <label class="field">
+          <span class="label">רחוב</span>
+          <input
+            id="street-input"
+            class="input"
+            placeholder="בחר עיר קודם"
+            autocomplete="off"
+            disabled
+          />
+          <ul id="street-suggestions" class="suggestions hidden" role="listbox"></ul>
+        </label>
+
+        <div class="selection">
+          <h2>בחירה נוכחית</h2>
+          <pre id="selection"></pre>
+        </div>
+      </section>
+
+      <footer id="meta" class="meta"></footer>
+    </main>
+
+    <script type="module" src="/src/vanilla/main.ts"></script>
+  </body>
+</html>

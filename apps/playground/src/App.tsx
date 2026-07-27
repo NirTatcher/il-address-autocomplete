@@ -1,24 +1,8 @@
 import { getDataManifest } from "@il-address/core";
 import { useAddressAutocomplete } from "@il-address/react";
 import type { City, Street } from "@il-address/core";
-
-function formatGovDate(iso: string): string {
-  return new Date(iso).toLocaleDateString("he-IL", {
-    day: "numeric",
-    month: "short",
-    year: "numeric",
-  });
-}
-
-function formatBuildDate(iso: string): string {
-  return new Date(iso).toLocaleString("he-IL", {
-    day: "numeric",
-    month: "short",
-    year: "numeric",
-    hour: "2-digit",
-    minute: "2-digit",
-  });
-}
+import { DemoNav } from "./DemoNav";
+import { formatBuildDate, formatGovDate } from "./shared/dates";
 
 function SuggestionList<T extends City | Street>({
   items,
@@ -69,11 +53,13 @@ export function App() {
 
   return (
     <main className="page">
+      <DemoNav active="react" />
+
       <header className="hero">
-        <p className="eyebrow">@il-address/core + @il-address/react</p>
-        <h1>כתובת בישראל — Autocomplete</h1>
+        <p className="eyebrow">@il-address/react</p>
+        <h1>כתובת בישראל — React</h1>
         <p className="subtitle">
-          Headless Israeli city &amp; street autocomplete. Data from{" "}
+          Headless hooks with keyboard navigation. Data from{" "}
           <a href="https://data.gov.il" target="_blank" rel="noreferrer">
             data.gov.il
           </a>
