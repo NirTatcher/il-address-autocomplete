@@ -1,0 +1,49 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "בת חן",
+    "aliases": [
+      "ש בת חן"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "גפן",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הדס",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "זית",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "ערבה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "רותם",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "רימון",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "תאנה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "תמר",
+    "aliases": []
+  }
+]

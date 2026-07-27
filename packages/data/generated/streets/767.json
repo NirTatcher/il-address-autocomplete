@@ -1,0 +1,101 @@
+[
+  {
+    "code": 114,
+    "nameHe": "אשר",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "אתרוג",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "בנימין",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "גד",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "דן",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "הדס",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הותיקים",
+    "aliases": [
+      "ותיקים"
+    ]
+  },
+  {
+    "code": 100,
+    "nameHe": "הראשונים",
+    "aliases": [
+      "ראשונים"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "הרב מכלוף יאנה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "זבולון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "יהודה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "יוסף",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "יששכר",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "לוי",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "נפתלי",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "פורת",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "רואבן",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "שבטי ישראל",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "שמעון",
+    "aliases": []
+  }
+]

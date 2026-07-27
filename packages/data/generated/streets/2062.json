@@ -1,0 +1,32 @@
+[
+  {
+    "code": 101,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "החיטה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "תאשור",
+    "aliases": []
+  }
+]

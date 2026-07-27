@@ -1,0 +1,115 @@
+[
+  {
+    "code": 111,
+    "nameHe": "אילון",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "אלונים",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "בית אורן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "גבעת אלה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "גנוסר",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "דליה",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "דן",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "דפנה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הגליל",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "הגשר",
+    "aliases": [
+      "גשר"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הזורעים",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "הירדן",
+    "aliases": [
+      "עמק הירדן"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "הכרמל",
+    "aliases": [
+      "כרמל"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "העמק",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "חניתה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "מחניים",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "מסדה",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "מעיין צבי",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "נווה איתן",
+    "aliases": [
+      "נוה איתן"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "עין גב",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "שער הגולן",
+    "aliases": []
+  }
+]

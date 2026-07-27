@@ -1,0 +1,376 @@
+[
+  {
+    "code": 156,
+    "nameHe": "אבני החושן",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "אוהל מועד",
+    "aliases": []
+  },
+  {
+    "code": 151,
+    "nameHe": "אורים ותומים",
+    "aliases": []
+  },
+  {
+    "code": 163,
+    "nameHe": "אחיה",
+    "aliases": []
+  },
+  {
+    "code": 150,
+    "nameHe": "אלקנה",
+    "aliases": []
+  },
+  {
+    "code": 146,
+    "nameHe": "ארגמן",
+    "aliases": []
+  },
+  {
+    "code": 154,
+    "nameHe": "ארון הברית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ארץ חפץ",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "אש הקודש",
+    "aliases": [
+      "אש קודש"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "ברכת האילנות",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "גאולים",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "גאולת הארץ",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "גורל הנחלות",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "האגוז",
+    "aliases": [
+      "אגוז"
+    ]
+  },
+  {
+    "code": 162,
+    "nameHe": "האפוד",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הארז",
+    "aliases": [
+      "ארז"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "הביכורים",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 307,
+    "nameHe": "הדביר",
+    "aliases": [
+      "דביר"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "ההדס",
+    "aliases": [
+      "הדס"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "החבצלת",
+    "aliases": [
+      "חבצלת"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "הכרם",
+    "aliases": []
+  },
+  {
+    "code": 304,
+    "nameHe": "הלבנון",
+    "aliases": [
+      "לבנון"
+    ]
+  },
+  {
+    "code": 139,
+    "nameHe": "המסילה העולה",
+    "aliases": []
+  },
+  {
+    "code": 149,
+    "nameHe": "המעמר",
+    "aliases": []
+  },
+  {
+    "code": 144,
+    "nameHe": "הפרוכת",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "הקטורת",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "הר אפרים",
+    "aliases": []
+  },
+  {
+    "code": 306,
+    "nameHe": "הראל",
+    "aliases": []
+  },
+  {
+    "code": 164,
+    "nameHe": "הרואה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הרימון",
+    "aliases": [
+      "רימון"
+    ]
+  },
+  {
+    "code": 142,
+    "nameHe": "השני",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "התאנה",
+    "aliases": [
+      "תאנה"
+    ]
+  },
+  {
+    "code": 143,
+    "nameHe": "התכלת",
+    "aliases": []
+  },
+  {
+    "code": 302,
+    "nameHe": "התמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "התפוח",
+    "aliases": [
+      "תפוח"
+    ]
+  },
+  {
+    "code": 135,
+    "nameHe": "טו באב",
+    "aliases": []
+  },
+  {
+    "code": 161,
+    "nameHe": "י באייר",
+    "aliases": []
+  },
+  {
+    "code": 303,
+    "nameHe": "כרמל",
+    "aliases": [
+      "הכרמל"
+    ]
+  },
+  {
+    "code": 132,
+    "nameHe": "מחול הכרם",
+    "aliases": []
+  },
+  {
+    "code": 148,
+    "nameHe": "מלאכות המשכן",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "מעלה הארון",
+    "aliases": []
+  },
+  {
+    "code": 153,
+    "nameHe": "מעלה הברית",
+    "aliases": []
+  },
+  {
+    "code": 157,
+    "nameHe": "מעלה החושן",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "מעלה הכרם",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "מעלה המחול",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "מעלה העדות",
+    "aliases": []
+  },
+  {
+    "code": 145,
+    "nameHe": "מעלה הקטורת",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "מעלה השני",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "מקורות",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "משכן העדות",
+    "aliases": []
+  },
+  {
+    "code": 152,
+    "nameHe": "משעול ההר",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "משעול החינוך",
+    "aliases": []
+  },
+  {
+    "code": 301,
+    "nameHe": "נווה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "נחלה",
+    "aliases": [
+      "הנחלה"
+    ]
+  },
+  {
+    "code": 147,
+    "nameHe": "עד כי יבוא שילה",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "עדי עד",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "עולי הרגל",
+    "aliases": []
+  },
+  {
+    "code": 159,
+    "nameHe": "עצי שיטים",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "קידה",
+    "aliases": []
+  },
+  {
+    "code": 7001,
+    "nameHe": "שבות רחל",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "שילה",
+    "aliases": [
+      "נחל גבעת אדומה"
+    ]
+  },
+  {
+    "code": 6502,
+    "nameHe": "שכ הנחלות",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ עלי הכהן",
+    "aliases": [
+      "עלי הכהן"
+    ]
+  },
+  {
+    "code": 6501,
+    "nameHe": "שכ רמת שמואל",
+    "aliases": []
+  },
+  {
+    "code": 305,
+    "nameHe": "שלם",
+    "aliases": []
+  },
+  {
+    "code": 158,
+    "nameHe": "תפילת חנה",
+    "aliases": []
+  }
+]

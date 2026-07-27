@@ -1,0 +1,95 @@
+[
+  {
+    "code": 107,
+    "nameHe": "דוכיפת",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "דרור",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הארבל",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "המוביל",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "הררית",
+    "aliases": [
+      "מצפה הררית"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "יונק הדבש",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "יחד",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "כנרת",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "כרמל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "נטופה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "סמטת החרמון",
+    "aliases": [
+      "החרמון",
+      "חרמון",
+      "סמ החרמון"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "סמטת הים",
+    "aliases": [
+      "הים",
+      "סמ הים"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "עגורים",
+    "aliases": [
+      "העגורים"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "צופית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "רכס מירון",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "שחף",
+    "aliases": [
+      "השחף"
+    ]
+  }
+]

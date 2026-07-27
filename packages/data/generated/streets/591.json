@@ -1,0 +1,130 @@
+[
+  {
+    "code": 112,
+    "nameHe": "אלה",
+    "aliases": [
+      "האלה"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "ברקן",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "גומא",
+    "aliases": [
+      "הגומא"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "דולב",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "האגוז",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "האשל",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "השקמה",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "התאנה",
+    "aliases": [
+      "תאנה"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "התדהר",
+    "aliases": [
+      "תדהר"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "התמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "עשרת",
+    "aliases": [
+      "גדרות",
+      "ש עירוני",
+      "ש רסקו",
+      "שורק",
+      "שקמה"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "ריזה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "שקד",
+    "aliases": [
+      "השקד"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "תלתן",
+    "aliases": []
+  }
+]

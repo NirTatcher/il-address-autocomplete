@@ -1,0 +1,1027 @@
+[
+  {
+    "code": 148,
+    "nameHe": "א זהרא",
+    "aliases": []
+  },
+  {
+    "code": 189,
+    "nameHe": "א ראזי",
+    "aliases": [
+      "אלראזי"
+    ]
+  },
+  {
+    "code": 146,
+    "nameHe": "א רחמה",
+    "aliases": []
+  },
+  {
+    "code": 164,
+    "nameHe": "א שאפי",
+    "aliases": []
+  },
+  {
+    "code": 176,
+    "nameHe": "א שוהדא",
+    "aliases": [
+      "א- שוהדא"
+    ]
+  },
+  {
+    "code": 143,
+    "nameHe": "א- זיתון",
+    "aliases": [
+      "א זיתון"
+    ]
+  },
+  {
+    "code": 202,
+    "nameHe": "א- נוזהה",
+    "aliases": [
+      "א נוזהה"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "א- סולטאני",
+    "aliases": [
+      "א סולטאני",
+      "סולטאני"
+    ]
+  },
+  {
+    "code": 205,
+    "nameHe": "א- רדואן",
+    "aliases": [
+      "א רדואן"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "א-נור",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "א-נסר",
+    "aliases": [
+      "א נסר"
+    ]
+  },
+  {
+    "code": 226,
+    "nameHe": "א-ספא",
+    "aliases": [
+      "א ספא"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "א-רבאט",
+    "aliases": []
+  },
+  {
+    "code": 219,
+    "nameHe": "א-רוודא",
+    "aliases": [
+      "א רוודא"
+    ]
+  },
+  {
+    "code": 201,
+    "nameHe": "א-רמלה",
+    "aliases": [
+      "א רמלה",
+      "א- רמלה"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "א-רשיד",
+    "aliases": [
+      "א רשיד",
+      "אל רשיד"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "א-תוובה",
+    "aliases": [
+      "א תוובה"
+    ]
+  },
+  {
+    "code": 155,
+    "nameHe": "אבו בכר",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "אבו חניפה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "אבו עמרן",
+    "aliases": []
+  },
+  {
+    "code": 335,
+    "nameHe": "אבן אלערבי",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "אבן חזם",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "אבן חלדון",
+    "aliases": []
+  },
+  {
+    "code": 334,
+    "nameHe": "אבן סירין",
+    "aliases": []
+  },
+  {
+    "code": 336,
+    "nameHe": "אבן קת'יר",
+    "aliases": [
+      "אבן כתיר",
+      "אבן קתיר"
+    ]
+  },
+  {
+    "code": 216,
+    "nameHe": "אבן רושד",
+    "aliases": []
+  },
+  {
+    "code": 209,
+    "nameHe": "אבן תיימייה",
+    "aliases": []
+  },
+  {
+    "code": 340,
+    "nameHe": "אברהים ח'ליל אללה",
+    "aliases": [
+      "אברהים חליל אללה"
+    ]
+  },
+  {
+    "code": 151,
+    "nameHe": "אוחוד",
+    "aliases": []
+  },
+  {
+    "code": 6733,
+    "nameHe": "אזור שרובו בדואים",
+    "aliases": [
+      "ליד ביס הבדואי"
+    ]
+  },
+  {
+    "code": 339,
+    "nameHe": "אחמד בן חנבל",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "אחמד שוויקי",
+    "aliases": []
+  },
+  {
+    "code": 338,
+    "nameHe": "אל אוח'ווה",
+    "aliases": [
+      "אל אוחווה"
+    ]
+  },
+  {
+    "code": 213,
+    "nameHe": "אל אמל",
+    "aliases": []
+  },
+  {
+    "code": 220,
+    "nameHe": "אל אנדלוס",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "אל אנסאר",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "אל אסרא",
+    "aliases": []
+  },
+  {
+    "code": 169,
+    "nameHe": "אל אקצא",
+    "aliases": [
+      "אל אקצה"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "אל ארד",
+    "aliases": []
+  },
+  {
+    "code": 301,
+    "nameHe": "אל ארז",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "אל בורק",
+    "aliases": [
+      "אלבוראק"
+    ]
+  },
+  {
+    "code": 157,
+    "nameHe": "אל ביאדר",
+    "aliases": []
+  },
+  {
+    "code": 211,
+    "nameHe": "אל בלאד",
+    "aliases": []
+  },
+  {
+    "code": 188,
+    "nameHe": "אל ג'לאני",
+    "aliases": [
+      "אל גלאני"
+    ]
+  },
+  {
+    "code": 218,
+    "nameHe": "אל הודא",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "אל היג'רה",
+    "aliases": [
+      "אל היגרה"
+    ]
+  },
+  {
+    "code": 323,
+    "nameHe": "אל וואחה",
+    "aliases": []
+  },
+  {
+    "code": 163,
+    "nameHe": "אל וחדה",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "אל וטן",
+    "aliases": []
+  },
+  {
+    "code": 180,
+    "nameHe": "אל חליל",
+    "aliases": []
+  },
+  {
+    "code": 245,
+    "nameHe": "אל חנדק",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "אל חנסא",
+    "aliases": [
+      "אל ח'נסא",
+      "אל חנסה"
+    ]
+  },
+  {
+    "code": 140,
+    "nameHe": "אל חק",
+    "aliases": []
+  },
+  {
+    "code": 172,
+    "nameHe": "אל חרם",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "אל ירמוכ",
+    "aliases": [
+      "אל ירמוך"
+    ]
+  },
+  {
+    "code": 158,
+    "nameHe": "אל כראמה",
+    "aliases": []
+  },
+  {
+    "code": 318,
+    "nameHe": "אל לוז",
+    "aliases": []
+  },
+  {
+    "code": 222,
+    "nameHe": "אל מג'דל",
+    "aliases": [
+      "אל מגדל"
+    ]
+  },
+  {
+    "code": 217,
+    "nameHe": "אל מג'זרה",
+    "aliases": [
+      "אל מגזרה"
+    ]
+  },
+  {
+    "code": 161,
+    "nameHe": "אל מדינה",
+    "aliases": []
+  },
+  {
+    "code": 159,
+    "nameHe": "אל מוהאריגון",
+    "aliases": [
+      "אל מוהאריג'ון"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "אל מורוג",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "אל מחפור",
+    "aliases": []
+  },
+  {
+    "code": 200,
+    "nameHe": "אל מיזאן",
+    "aliases": []
+  },
+  {
+    "code": 227,
+    "nameHe": "אל מנאר",
+    "aliases": []
+  },
+  {
+    "code": 145,
+    "nameHe": "אל מנשייה",
+    "aliases": []
+  },
+  {
+    "code": 242,
+    "nameHe": "אל מרווה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "אל ע'זאלי",
+    "aliases": [
+      "אל גזאלי",
+      "אל עזאלי"
+    ]
+  },
+  {
+    "code": 141,
+    "nameHe": "אל עוודה",
+    "aliases": []
+  },
+  {
+    "code": 320,
+    "nameHe": "אל עפוו",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "אל עקאד",
+    "aliases": []
+  },
+  {
+    "code": 351,
+    "nameHe": "אל פל",
+    "aliases": [
+      "אל פול"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "אל פתח",
+    "aliases": []
+  },
+  {
+    "code": 171,
+    "nameHe": "אל קודס",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "אל קסאם",
+    "aliases": []
+  },
+  {
+    "code": 365,
+    "nameHe": "אל קריה",
+    "aliases": []
+  },
+  {
+    "code": 303,
+    "nameHe": "אל תופאח",
+    "aliases": []
+  },
+  {
+    "code": 362,
+    "nameHe": "אלאנפאל",
+    "aliases": []
+  },
+  {
+    "code": 376,
+    "nameHe": "אלבאבור",
+    "aliases": []
+  },
+  {
+    "code": 308,
+    "nameHe": "אלבהאא",
+    "aliases": []
+  },
+  {
+    "code": 329,
+    "nameHe": "אלבולבול",
+    "aliases": []
+  },
+  {
+    "code": 373,
+    "nameHe": "אלבלוט",
+    "aliases": []
+  },
+  {
+    "code": 357,
+    "nameHe": "אלבראעם",
+    "aliases": []
+  },
+  {
+    "code": 360,
+    "nameHe": "אלג'בל",
+    "aliases": [
+      "אלגבל"
+    ]
+  },
+  {
+    "code": 383,
+    "nameHe": "אלג'ולאן",
+    "aliases": [
+      "אלגולאן"
+    ]
+  },
+  {
+    "code": 380,
+    "nameHe": "אלג'ורי",
+    "aliases": [
+      "אלגורי"
+    ]
+  },
+  {
+    "code": 377,
+    "nameHe": "אלג'ליל",
+    "aliases": [
+      "אלגליל"
+    ]
+  },
+  {
+    "code": 389,
+    "nameHe": "אלג'נאין",
+    "aliases": [
+      "אלגנאין"
+    ]
+  },
+  {
+    "code": 322,
+    "nameHe": "אלגאר",
+    "aliases": []
+  },
+  {
+    "code": 382,
+    "nameHe": "אלגרוב",
+    "aliases": []
+  },
+  {
+    "code": 352,
+    "nameHe": "אלדהאר",
+    "aliases": []
+  },
+  {
+    "code": 349,
+    "nameHe": "אלדיוואן",
+    "aliases": []
+  },
+  {
+    "code": 321,
+    "nameHe": "אלהודהוד",
+    "aliases": []
+  },
+  {
+    "code": 326,
+    "nameHe": "אלהלאל",
+    "aliases": []
+  },
+  {
+    "code": 353,
+    "nameHe": "אלוורד",
+    "aliases": []
+  },
+  {
+    "code": 306,
+    "nameHe": "אלזעתר",
+    "aliases": []
+  },
+  {
+    "code": 359,
+    "nameHe": "אלחבק",
+    "aliases": []
+  },
+  {
+    "code": 333,
+    "nameHe": "אלחמראא",
+    "aliases": []
+  },
+  {
+    "code": 388,
+    "nameHe": "אליאקוט",
+    "aliases": []
+  },
+  {
+    "code": 358,
+    "nameHe": "אליסמין",
+    "aliases": []
+  },
+  {
+    "code": 327,
+    "nameHe": "אלמג'ד",
+    "aliases": [
+      "אלמגד"
+    ]
+  },
+  {
+    "code": 342,
+    "nameHe": "אלמדיאן",
+    "aliases": []
+  },
+  {
+    "code": 332,
+    "nameHe": "אלמונא",
+    "aliases": []
+  },
+  {
+    "code": 384,
+    "nameHe": "אלמעלב",
+    "aliases": []
+  },
+  {
+    "code": 348,
+    "nameHe": "אלמעראג'",
+    "aliases": [
+      "אלמעראג"
+    ]
+  },
+  {
+    "code": 381,
+    "nameHe": "אלמערפה",
+    "aliases": []
+  },
+  {
+    "code": 343,
+    "nameHe": "אלמקתבא",
+    "aliases": []
+  },
+  {
+    "code": 371,
+    "nameHe": "אלמרח",
+    "aliases": []
+  },
+  {
+    "code": 312,
+    "nameHe": "אלנבע",
+    "aliases": []
+  },
+  {
+    "code": 311,
+    "nameHe": "אלנסים",
+    "aliases": []
+  },
+  {
+    "code": 304,
+    "nameHe": "אלנסרין",
+    "aliases": []
+  },
+  {
+    "code": 387,
+    "nameHe": "אלנקאא",
+    "aliases": []
+  },
+  {
+    "code": 344,
+    "nameHe": "אלסאחאר",
+    "aliases": []
+  },
+  {
+    "code": 364,
+    "nameHe": "אלסוק",
+    "aliases": []
+  },
+  {
+    "code": 314,
+    "nameHe": "אלסיאד",
+    "aliases": []
+  },
+  {
+    "code": 374,
+    "nameHe": "אלסלאח",
+    "aliases": []
+  },
+  {
+    "code": 378,
+    "nameHe": "אלסמארה",
+    "aliases": [
+      "אלסאמרה"
+    ]
+  },
+  {
+    "code": 309,
+    "nameHe": "אלסנאא",
+    "aliases": []
+  },
+  {
+    "code": 356,
+    "nameHe": "אלסנאבל",
+    "aliases": []
+  },
+  {
+    "code": 395,
+    "nameHe": "אלסנדיאן",
+    "aliases": []
+  },
+  {
+    "code": 372,
+    "nameHe": "אלסנובר",
+    "aliases": []
+  },
+  {
+    "code": 354,
+    "nameHe": "אלספסאף",
+    "aliases": []
+  },
+  {
+    "code": 315,
+    "nameHe": "אלסרוו",
+    "aliases": []
+  },
+  {
+    "code": 337,
+    "nameHe": "אלעדל",
+    "aliases": []
+  },
+  {
+    "code": 350,
+    "nameHe": "אלעטאא",
+    "aliases": []
+  },
+  {
+    "code": 313,
+    "nameHe": "אלפאנוס",
+    "aliases": []
+  },
+  {
+    "code": 347,
+    "nameHe": "אלפוראת",
+    "aliases": []
+  },
+  {
+    "code": 325,
+    "nameHe": "אלקוות'ר",
+    "aliases": [
+      "אלקוותר"
+    ]
+  },
+  {
+    "code": 370,
+    "nameHe": "אלקנארי",
+    "aliases": []
+  },
+  {
+    "code": 341,
+    "nameHe": "אלראשדון",
+    "aliases": []
+  },
+  {
+    "code": 307,
+    "nameHe": "אלריחאן",
+    "aliases": []
+  },
+  {
+    "code": 391,
+    "nameHe": "אלשאם",
+    "aliases": []
+  },
+  {
+    "code": 305,
+    "nameHe": "אלשג'רה",
+    "aliases": [
+      "אלש'גרה"
+    ]
+  },
+  {
+    "code": 379,
+    "nameHe": "אלשוויטא",
+    "aliases": [
+      "אלשוואטי"
+    ]
+  },
+  {
+    "code": 392,
+    "nameHe": "אשביליה",
+    "aliases": []
+  },
+  {
+    "code": 361,
+    "nameHe": "בגדאד",
+    "aliases": []
+  },
+  {
+    "code": 166,
+    "nameHe": "בדר",
+    "aliases": []
+  },
+  {
+    "code": 178,
+    "nameHe": "בילאל",
+    "aliases": []
+  },
+  {
+    "code": 363,
+    "nameHe": "בירות",
+    "aliases": []
+  },
+  {
+    "code": 394,
+    "nameHe": "גרנאטא",
+    "aliases": []
+  },
+  {
+    "code": 181,
+    "nameHe": "דיר יאסין",
+    "aliases": []
+  },
+  {
+    "code": 330,
+    "nameHe": "דמשק",
+    "aliases": []
+  },
+  {
+    "code": 6720,
+    "nameHe": "הגרעין הישן",
+    "aliases": [
+      "מרכז הכפר"
+    ]
+  },
+  {
+    "code": 366,
+    "nameHe": "הדקלים",
+    "aliases": []
+  },
+  {
+    "code": 367,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 386,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 385,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 6710,
+    "nameHe": "השכונה החדשה",
+    "aliases": []
+  },
+  {
+    "code": 368,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 369,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 310,
+    "nameHe": "ודיע סרסור",
+    "aliases": []
+  },
+  {
+    "code": 345,
+    "nameHe": "זין",
+    "aliases": []
+  },
+  {
+    "code": 152,
+    "nameHe": "חאלד בן אל וליד",
+    "aliases": []
+  },
+  {
+    "code": 302,
+    "nameHe": "חבאיב",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "חטין",
+    "aliases": [
+      "חיטין"
+    ]
+  },
+  {
+    "code": 375,
+    "nameHe": "חיפה",
+    "aliases": [
+      "חיפא"
+    ]
+  },
+  {
+    "code": 231,
+    "nameHe": "חמזה",
+    "aliases": []
+  },
+  {
+    "code": 316,
+    "nameHe": "חנדלה",
+    "aliases": []
+  },
+  {
+    "code": 147,
+    "nameHe": "חסאן בן תאבת",
+    "aliases": []
+  },
+  {
+    "code": 6730,
+    "nameHe": "טאהא",
+    "aliases": [
+      "שכ טאהא"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "יאפא",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר קאסם",
+    "aliases": []
+  },
+  {
+    "code": 390,
+    "nameHe": "לשבונה",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "מאלכ בן אנס",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "מכה",
+    "aliases": []
+  },
+  {
+    "code": 331,
+    "nameHe": "מרים אלמג'דליה",
+    "aliases": [
+      "מרים אלמגדליה"
+    ]
+  },
+  {
+    "code": 6711,
+    "nameHe": "משפחת עיסא",
+    "aliases": [
+      "עיסא"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "סלאח א-דין",
+    "aliases": [
+      "סלאח א דין"
+    ]
+  },
+  {
+    "code": 346,
+    "nameHe": "ספד",
+    "aliases": []
+  },
+  {
+    "code": 244,
+    "nameHe": "עבד אל כרים קאסם",
+    "aliases": []
+  },
+  {
+    "code": 319,
+    "nameHe": "עדן",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "עומר בן אל חטאב",
+    "aliases": [
+      "עמר אבן אלחטאב"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "עומר בן עבד אל עזיז",
+    "aliases": []
+  },
+  {
+    "code": 150,
+    "nameHe": "עותמן אל עפאן",
+    "aliases": []
+  },
+  {
+    "code": 317,
+    "nameHe": "עכא",
+    "aliases": [
+      "עכה",
+      "עכו"
+    ]
+  },
+  {
+    "code": 174,
+    "nameHe": "עלי בן אבו טאלב",
+    "aliases": []
+  },
+  {
+    "code": 355,
+    "nameHe": "עמאן",
+    "aliases": []
+  },
+  {
+    "code": 6731,
+    "nameHe": "צרצור",
+    "aliases": [
+      "שכ צרצור"
+    ]
+  },
+  {
+    "code": 324,
+    "nameHe": "קבאא",
+    "aliases": []
+  },
+  {
+    "code": 328,
+    "nameHe": "ראס אלח'רוב",
+    "aliases": [
+      "ראס אלחרוב"
+    ]
+  },
+  {
+    "code": 6732,
+    "nameHe": "שכ הבדואים הדרומית",
+    "aliases": []
+  },
+  {
+    "code": 6734,
+    "nameHe": "שכ הבדואים המזרחית",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "תבוכ",
+    "aliases": []
+  },
+  {
+    "code": 230,
+    "nameHe": "תמרינדי",
+    "aliases": []
+  }
+]

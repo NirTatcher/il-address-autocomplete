@@ -1,0 +1,76 @@
+[
+  {
+    "code": 111,
+    "nameHe": "אנפה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "דוכיפת",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הדרור",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "השחף",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "זמיר",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "חסידה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "ירחיב",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "נחליאלי",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "סמ חופית",
+    "aliases": [
+      "סמטת חופית"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "סמ צופית",
+    "aliases": [
+      "סמטת צופית"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "סנונית",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "עפרוני",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "פשוש",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "שקנאי",
+    "aliases": []
+  }
+]

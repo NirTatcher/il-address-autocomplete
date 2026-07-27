@@ -1,0 +1,192 @@
+[
+  {
+    "code": 123,
+    "nameHe": "בית הבד",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "דרך המשואות",
+    "aliases": [
+      "דרך משואות",
+      "המשואות"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "דרך יריחו",
+    "aliases": [
+      "יריחו"
+    ]
+  },
+  {
+    "code": 125,
+    "nameHe": "האחזות נחל",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הביכורים",
+    "aliases": [
+      "ביכורים"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הבציר",
+    "aliases": [
+      "בציר"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "הגת",
+    "aliases": [
+      "גת"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "היין",
+    "aliases": [
+      "יין"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "היקב",
+    "aliases": [
+      "יקב"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "הכרם",
+    "aliases": [
+      "כרם"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "המנורה",
+    "aliases": [
+      "מנורה"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "המסיק",
+    "aliases": [
+      "מסיק"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הנסכים",
+    "aliases": [
+      "נסכים"
+    ]
+  },
+  {
+    "code": 127,
+    "nameHe": "הר חצור",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "הר קידה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "התירוש",
+    "aliases": [
+      "תירוש"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "יב באלול",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "יצהר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כוכב השחר",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "כתית",
+    "aliases": [
+      "הכתית"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "מול נבו",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "מנחות",
+    "aliases": [
+      "המנחות"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "משכן שילה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "נוף הירדן",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "נחל ייטב",
+    "aliases": [
+      "נחל יטב"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "נחלת אפרים",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "נר התמיד",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "סלע הרימון",
+    "aliases": [
+      "סלע רימון"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "ענבי הגפן",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "עת הזמיר",
+    "aliases": []
+  }
+]

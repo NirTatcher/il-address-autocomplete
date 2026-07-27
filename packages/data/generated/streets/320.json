@@ -1,0 +1,155 @@
+[
+  {
+    "code": 102,
+    "nameHe": "הבאר",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הבנים",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הגן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "ההרחבה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הזורעים",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "המחלבה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "המחרשה",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הממשיכים",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "העליה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר ורבורג",
+    "aliases": [
+      "ורבורג"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "סמ האפרסמון",
+    "aliases": [
+      "האפרסמון"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "סמ האפרסק",
+    "aliases": [
+      "האפרסק"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "סמ הגפן",
+    "aliases": [
+      "הגפן"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "סמ הדגן",
+    "aliases": [
+      "הדגן"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "סמ הזית",
+    "aliases": [
+      "הזית"
+    ]
+  },
+  {
+    "code": 125,
+    "nameHe": "סמ החיטה",
+    "aliases": [
+      "החיטה"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "סמ החרוב",
+    "aliases": [
+      "החרוב"
+    ]
+  },
+  {
+    "code": 127,
+    "nameHe": "סמ הרימון",
+    "aliases": [
+      "הרימון"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "סמ השיבולת",
+    "aliases": [
+      "השיבולת"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "סמ השעורה",
+    "aliases": [
+      "השעורה"
+    ]
+  },
+  {
+    "code": 130,
+    "nameHe": "סמ התאנה",
+    "aliases": [
+      "התאנה"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "סמ התבואה",
+    "aliases": [
+      "התבואה"
+    ]
+  },
+  {
+    "code": 132,
+    "nameHe": "סמ התפוח",
+    "aliases": [
+      "התפוח"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "שכ קרוונים",
+    "aliases": []
+  }
+]

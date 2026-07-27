@@ -1,0 +1,86 @@
+[
+  {
+    "code": 102,
+    "nameHe": "האסיף",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הבציר",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הגדיד",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הגורן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הזורע",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "החורש",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "היוגב",
+    "aliases": [
+      "יוגב"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "הכורם",
+    "aliases": [
+      "כורם"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "המייסדים",
+    "aliases": [
+      "האיכרים"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "המסיק",
+    "aliases": [
+      "מסיק"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הנוטע",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הקטיף",
+    "aliases": [
+      "קטיף"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "הקציר",
+    "aliases": [
+      "קציר"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "שפיר",
+    "aliases": [
+      "שפירא"
+    ]
+  }
+]

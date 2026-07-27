@@ -1,0 +1,106 @@
+[
+  {
+    "code": 113,
+    "nameHe": "אריאל",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "דרך השלום",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "האחווה",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הדביר",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "הראל",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "התעשייה",
+    "aliases": [
+      "התעשיה",
+      "תעשייה"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "ידידיה",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "כליל החורש",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "כלילת יופי",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "מוריה",
+    "aliases": [
+      "המוריה"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "מעלה מכמש",
+    "aliases": [
+      "מכמש"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "נופי מכמש",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "סלעית",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שדרות ירושלים",
+    "aliases": [
+      "שד ירושלים"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "שדרות ציון",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "שלם",
+    "aliases": []
+  }
+]

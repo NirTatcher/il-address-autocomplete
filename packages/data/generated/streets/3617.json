@@ -1,0 +1,357 @@
+[
+  {
+    "code": 130,
+    "nameHe": "אולפנא",
+    "aliases": [
+      "אולפנה"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "אמונים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "אצל",
+    "aliases": [
+      "האצל"
+    ]
+  },
+  {
+    "code": 161,
+    "nameHe": "אשר",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "בינה ודעת",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "בני יעקב",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "גבעת צבי",
+    "aliases": []
+  },
+  {
+    "code": 159,
+    "nameHe": "גד",
+    "aliases": []
+  },
+  {
+    "code": 156,
+    "nameHe": "דינה",
+    "aliases": []
+  },
+  {
+    "code": 157,
+    "nameHe": "דן",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "דרך ארץ ימיני",
+    "aliases": [
+      "ארץ ימיני"
+    ]
+  },
+  {
+    "code": 136,
+    "nameHe": "דרך החיים",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "דרך חנן",
+    "aliases": [
+      "דרך חנן פורת"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "הדבש",
+    "aliases": [
+      "דבש"
+    ]
+  },
+  {
+    "code": 132,
+    "nameHe": "הדובדבן",
+    "aliases": [
+      "דובדבן"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "ההגנה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 140,
+    "nameHe": "הכרם",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "המטע",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "המייסדים",
+    "aliases": [
+      "המיסדים"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הסלע",
+    "aliases": [
+      "סלע"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "הפלמח",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "הצבר",
+    "aliases": [
+      "צבר"
+    ]
+  },
+  {
+    "code": 134,
+    "nameHe": "הראשונים",
+    "aliases": [
+      "ראשונים"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "השומר",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "השקד",
+    "aliases": [
+      "שקד"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "התאנה",
+    "aliases": [
+      "תאנה"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "התעשיה",
+    "aliases": []
+  },
+  {
+    "code": 163,
+    "nameHe": "זבולון",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "ט' באייר",
+    "aliases": [
+      "ט באייר"
+    ]
+  },
+  {
+    "code": 154,
+    "nameHe": "יהודה",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "יוסף",
+    "aliases": []
+  },
+  {
+    "code": 162,
+    "nameHe": "יששכר",
+    "aliases": []
+  },
+  {
+    "code": 152,
+    "nameHe": "לוי",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "לחי",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "מורג",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "מעלה בני עקיבא",
+    "aliases": [
+      "בני עקיבא"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "מקימי הגדר",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "משעול הר אפרים",
+    "aliases": [
+      "הר אפרים"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "נילי",
+    "aliases": []
+  },
+  {
+    "code": 158,
+    "nameHe": "נפתלי",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "סמ בנימין",
+    "aliases": [
+      "סמטת בנימין"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "עופרה",
+    "aliases": [
+      "עפרה"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "פנינת חן",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "צהל",
+    "aliases": []
+  },
+  {
+    "code": 151,
+    "nameHe": "ראובן",
+    "aliases": []
+  },
+  {
+    "code": 6501,
+    "nameHe": "ש קרוונים",
+    "aliases": [
+      "עופרה )קרוונים(",
+      "קרוונים",
+      "שכ קרוונים"
+    ]
+  },
+  {
+    "code": 150,
+    "nameHe": "שבטי ישראל",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "שדה עופרים",
+    "aliases": []
+  },
+  {
+    "code": 6507,
+    "nameHe": "שכ ביתר",
+    "aliases": []
+  },
+  {
+    "code": 6506,
+    "nameHe": "שכ הכרם",
+    "aliases": [
+      "ש הכרם"
+    ]
+  },
+  {
+    "code": 6504,
+    "nameHe": "שכ הצבר",
+    "aliases": [
+      "ש הצבר",
+      "ש צבר",
+      "שכ צבר"
+    ]
+  },
+  {
+    "code": 7001,
+    "nameHe": "שכ עמונה",
+    "aliases": [
+      "עמונה"
+    ]
+  },
+  {
+    "code": 6505,
+    "nameHe": "שכ פנינת חן",
+    "aliases": [
+      "ש פנינת חן"
+    ]
+  },
+  {
+    "code": 6502,
+    "nameHe": "שכ צמרת",
+    "aliases": [
+      "צמרת",
+      "ש צמרת"
+    ]
+  },
+  {
+    "code": 6503,
+    "nameHe": "שכ שדה עופרים",
+    "aliases": [
+      "ש שדה עופרים"
+    ]
+  },
+  {
+    "code": 153,
+    "nameHe": "שמעון",
+    "aliases": []
+  }
+]

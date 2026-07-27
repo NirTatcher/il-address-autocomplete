@@ -1,0 +1,112 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "בית זית",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "בריכות היער",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "גבעת ברושים",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "דרך הגבעה",
+    "aliases": [
+      "הגבעה"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "דרך הזיתים",
+    "aliases": [
+      "הזיתים"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "דרך הצבר",
+    "aliases": [
+      "הצבר"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "דרך השקד",
+    "aliases": [
+      "השקד"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "האגם",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הברוש",
+    "aliases": [
+      "ברוש"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הפסגה",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "מעלה הערבה",
+    "aliases": [
+      "הערבה"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "מעלה השיטה",
+    "aliases": [
+      "השיטה"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "נתיב האורנים",
+    "aliases": [
+      "האורנים"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "נתיב האפרסק",
+    "aliases": [
+      "האפרסק"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "עין כרם",
+    "aliases": [
+      "דרך עין כרם"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "code": 101,
+    "nameHe": "ארבל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "גלבוע",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "גלעד",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "גריזים",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הר ההר",
+    "aliases": [
+      "ההר"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "חורב",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "כרמל",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "מירון",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "נבו",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "סיני",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "עצמון",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "פארן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "פסגות",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "תבור",
+    "aliases": []
+  }
+]

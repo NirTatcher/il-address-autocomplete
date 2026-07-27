@@ -1,0 +1,168 @@
+[
+  {
+    "code": 125,
+    "nameHe": "דליות",
+    "aliases": [
+      "נחל דליות"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "דרך הצבי",
+    "aliases": [
+      "הצבי"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "הגיתית",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הדרור",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "החליל",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "הכינור",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הנבל",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "הפעמון",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "יהלום",
+    "aliases": [
+      "היהלום"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "יקיר",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "מבוא חמה",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "מעלה השחר",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "משעול החורש",
+    "aliases": [
+      "החורש"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "משעול התקוה",
+    "aliases": [
+      "התקוה",
+      "התקווה"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "נהר הירדן",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "נחל דולב",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "נחל דותן",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "נחל הבשור",
+    "aliases": [
+      "נחל בשור"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "נחל עוז",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "נחל צין",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "נחל שילה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "נחל תרצה",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "שד ראשונים",
+    "aliases": [
+      "הראשונים",
+      "ראשונים",
+      "שד הראשונים"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "שוהם",
+    "aliases": [
+      "שהם"
+    ]
+  }
+]

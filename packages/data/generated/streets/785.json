@@ -1,0 +1,75 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "אחיהוד",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "הדקל",
+    "aliases": [
+      "דקל"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "החרוב",
+    "aliases": [
+      "חרוב"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הצאלון",
+    "aliases": [
+      "צאלון"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "הרימון",
+    "aliases": [
+      "רימון"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "השקד",
+    "aliases": [
+      "שקד"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "התאנה",
+    "aliases": [
+      "תאנה"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "התמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "שביל החלב",
+    "aliases": []
+  }
+]

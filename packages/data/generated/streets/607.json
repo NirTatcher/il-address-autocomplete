@@ -1,0 +1,82 @@
+[
+  {
+    "code": 109,
+    "nameHe": "בר יוחאי",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הבנים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הזוהר",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "המעיין",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הרב צבי נריה",
+    "aliases": [
+      "הרב נריה צבי",
+      "נריה צבי",
+      "צבי נריה"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "התנאים",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "חטיבה שבע",
+    "aliases": [
+      "חטיבה 7"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "מירון",
+    "aliases": [
+      "הר מירון",
+      "ישיבת מירון",
+      "מרון"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "מעלה הרשבי",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "משחררי מירון",
+    "aliases": []
+  }
+]

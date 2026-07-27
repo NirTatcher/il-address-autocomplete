@@ -1,0 +1,73 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אבני החושן",
+    "aliases": [
+      "אבני חושן"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "אודם",
+    "aliases": [
+      "האודם"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "יהלום",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "ישפה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "לשם",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "נופך",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נחליאל",
+    "aliases": [
+      "נאוה"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "פטדה",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "שבו",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "שוהם",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "תרשיש",
+    "aliases": []
+  }
+]

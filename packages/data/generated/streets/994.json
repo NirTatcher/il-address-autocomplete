@@ -1,0 +1,57 @@
+[
+  {
+    "code": 102,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הורדים",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הטווס",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "היונה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "המלאכה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "העם",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "השלום",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "התקווה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "מנשית זבדה",
+    "aliases": [
+      "מנשית א זבדה",
+      "מנשית א-זבדה",
+      "סעאידה זבדה",
+      "סעאידה מנשית זבדה"
+    ]
+  }
+]

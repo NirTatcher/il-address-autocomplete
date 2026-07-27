@@ -1,0 +1,88 @@
+[
+  {
+    "code": 110,
+    "nameHe": "אשבורן",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "גבים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הר ארחות",
+    "aliases": [
+      "אורחות",
+      "הר אורחות"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הר כרכום",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הר נטפים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הר רמון",
+    "aliases": [
+      "הר רימון"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "הר שגיא",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הר שחורת",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "נקרות",
+    "aliases": [
+      "הנקרות"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "ספיר",
+    "aliases": [
+      "מרכז ספיר"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "עומר",
+    "aliases": [
+      "העומר"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "עין רחל",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "צין",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "קצרה",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "שלהב",
+    "aliases": []
+  }
+]

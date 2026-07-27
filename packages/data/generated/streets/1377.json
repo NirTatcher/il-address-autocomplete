@@ -1,0 +1,54 @@
+[
+  {
+    "code": 109,
+    "nameHe": "אפריון",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "גוש קטיף",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "דביר",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הלבנון",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "כפר דרום",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "נווה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "קריית מלך",
+    "aliases": [
+      "קרית מלך"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "שבי דרום",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "תלפיות",
+    "aliases": []
+  }
+]

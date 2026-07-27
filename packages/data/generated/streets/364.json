@@ -1,0 +1,98 @@
+[
+  {
+    "code": 109,
+    "nameHe": "ארץ קדם",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "דרך שמשון",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הבז האדום",
+    "aliases": [
+      "בז אדום"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "הגתות",
+    "aliases": [
+      "גתות"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "החיוואי",
+    "aliases": [
+      "חיוואי"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "הירגזי",
+    "aliases": [
+      "ירגזי"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "הכחל",
+    "aliases": [
+      "כחל"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "יערת הדבש",
+    "aliases": [
+      "יערת דבש"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "כפיר אריה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר אוריה",
+    "aliases": [
+      "אוריה"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "כרם השועלים",
+    "aliases": [
+      "כרם שועלים"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "כרמי תמנתה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "מעלה אוריה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "סלע עיטם",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "קציר חיטים",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "שבט דן",
+    "aliases": []
+  }
+]

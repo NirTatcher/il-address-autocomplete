@@ -1,0 +1,129 @@
+[
+  {
+    "code": 107,
+    "nameHe": "ביתר",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "האגם",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "האורנים",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "האלונים",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הבנים",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "הברושים",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "הדולב",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הזיתים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "החקלאים",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הנחל",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הערבות",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הראשונים",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "חוסן",
+    "aliases": [
+      "חסן"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "יהדות מרוקו",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "כליל החורש",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "מורן החורש",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "עולי סין",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "שביל חרות",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "שביל קקל",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "שלום שארלי שלוש",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "שלמה בן יוסף",
+    "aliases": []
+  }
+]

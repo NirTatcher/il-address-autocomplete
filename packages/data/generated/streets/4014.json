@@ -1,0 +1,133 @@
+[
+  {
+    "code": 106,
+    "nameHe": "בית הבד",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "דבש",
+    "aliases": [
+      "הדבש"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "דולמן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "דרך הבשן",
+    "aliases": [
+      "דרך בשן",
+      "הבשן"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הבזלת",
+    "aliases": [
+      "בזלת"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הכרם",
+    "aliases": [
+      "כרם"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "המטע",
+    "aliases": [
+      "מטע"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "המייסדים",
+    "aliases": [
+      "מייסדים"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "המסיק",
+    "aliases": [
+      "מסיק"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "המרעה",
+    "aliases": [
+      "מרעה"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "הקיבוץ",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הרעות",
+    "aliases": [
+      "רעות"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "ואהבת",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "זמורה",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "חרמון",
+    "aliases": [
+      "החרמון",
+      "הר חרמון"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "נחל סמך",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נטור",
+    "aliases": [
+      "נחל נטור"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "עין קשתות",
+    "aliases": [
+      "עין הקשתות"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "שביל החלב",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "שביל הלולים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "שריג",
+    "aliases": []
+  }
+]

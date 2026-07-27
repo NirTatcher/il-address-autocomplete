@@ -1,0 +1,145 @@
+[
+  {
+    "code": 122,
+    "nameHe": "אגמית",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "ברבור",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "דוכיפת",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "דרור",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "האנפה",
+    "aliases": [
+      "אנפה"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "זיזית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "זמיר",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "חוגלה",
+    "aliases": [
+      "החוגלה",
+      "חגלה",
+      "לילית"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "חוחית",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "חופית",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "יסעור",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "כחל",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "נחליאלי",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "סייפן",
+    "aliases": [
+      "הסייפן",
+      "סיפן"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "סלעית",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "סנונית",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "עגור",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "עיט",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "עין שריד",
+    "aliases": [
+      "ש עין שריד"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "עפרוני",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "פשוש",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "צופית",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "צוקית",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "שחף",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "שלדג",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "שקנאי",
+    "aliases": [
+      "השקנאי"
+    ]
+  }
+]

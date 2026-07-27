@@ -1,0 +1,101 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אביחיל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "בית האריזה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "בני גאולים",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "דרך המשולש",
+    "aliases": [
+      "המשולש"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הבנים",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "ההדרים",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "הזורע",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הפיקוסים",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הפרחים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הפרסה",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "חישתיל",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר ידידיה",
+    "aliases": [
+      "ידידיה"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "מול הים",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "על עבודת האדמה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "עמק חפר",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "צבעוני השרון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "שער הכפר",
+    "aliases": []
+  }
+]

@@ -1,0 +1,9172 @@
+[
+  {
+    "code": 967,
+    "nameHe": "אבו ג'ווייעד (שבט)",
+    "nameEn": "ABU JUWEI'ID",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 472,
+    "nameHe": "אבו גוש",
+    "nameEn": "ABU GHOSH",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 473,
+    "nameHe": "אבו סנאן",
+    "nameEn": "ABU SINAN",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 935,
+    "nameHe": "אבו סריחאן (שבט)",
+    "nameEn": "ABU SUREIHAN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 958,
+    "nameHe": "אבו עבדון (שבט)",
+    "nameEn": "ABU ABDUN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1042,
+    "nameHe": "אבו עמאר (שבט)",
+    "nameEn": "ABU AMMAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 932,
+    "nameHe": "אבו עמרה (שבט)",
+    "nameEn": "ABU AMRE",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 968,
+    "nameHe": "אבו קורינאת (שבט)",
+    "nameEn": "ABU QUREINAT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1342,
+    "nameHe": "אבו קרינאת (יישוב)",
+    "nameEn": "ABU QUREINAT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 966,
+    "nameHe": "אבו רובייעה (שבט)",
+    "nameEn": "ABU RUBEI'A",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 961,
+    "nameHe": "אבו רוקייק (שבט)",
+    "nameEn": "ABU RUQAYYEQ",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1375,
+    "nameHe": "אבו תלול",
+    "nameEn": "ABU TULUL",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 652,
+    "nameHe": "אבטין",
+    "nameEn": "IBTIN",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 1275,
+    "nameHe": "אבטליון",
+    "nameEn": "AVTALYON",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 679,
+    "nameHe": "אביאל",
+    "nameEn": "AVI'EL",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 1115,
+    "nameHe": "אביבים",
+    "nameEn": "AVIVIM",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 819,
+    "nameHe": "אביגדור",
+    "nameEn": "AVIGEDOR",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 3869,
+    "nameHe": "אביגיל",
+    "nameEn": "AVIGAYIL",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 3905,
+    "nameHe": "אביה",
+    "nameEn": "AVIYA",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 175,
+    "nameHe": "אביחיל",
+    "nameEn": "AVIHAYIL",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 2052,
+    "nameHe": "אביטל",
+    "nameEn": "AVITAL",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1070,
+    "nameHe": "אביעזר",
+    "nameEn": "AVI'EZER",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1220,
+    "nameHe": "אבירים",
+    "nameEn": "ABBIRIM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 182,
+    "nameHe": "אבן יהודה",
+    "nameEn": "EVEN YEHUDA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1081,
+    "nameHe": "אבן מנחם",
+    "nameEn": "EVEN MENAHEM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 783,
+    "nameHe": "אבן ספיר",
+    "nameEn": "EVEN SAPPIR",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 400,
+    "nameHe": "אבן שמואל",
+    "nameEn": "EVEN SHEMU'EL",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 4011,
+    "nameHe": "אבני איתן",
+    "nameEn": "AVNE ETAN",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 3793,
+    "nameHe": "אבני חפץ",
+    "nameEn": "AVNE HEFEZ",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 1311,
+    "nameHe": "אבשלום",
+    "nameEn": "AVSHALOM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3759,
+    "nameHe": "אדורה",
+    "nameEn": "ADORA",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 3987,
+    "nameHe": "אדוריים",
+    "nameEn": "ADORAYIM",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 113,
+    "nameHe": "אדירים",
+    "nameEn": "ADDIRIM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1068,
+    "nameHe": "אדמית",
+    "nameEn": "ADAMIT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1123,
+    "nameHe": "אדרת",
+    "nameEn": "ADDERET",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 3786,
+    "nameHe": "אובנת",
+    "nameEn": "OVNAT",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 446,
+    "nameHe": "אודים",
+    "nameEn": "UDIM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 4010,
+    "nameHe": "אודם",
+    "nameEn": "ODEM",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1046,
+    "nameHe": "אוהד",
+    "nameEn": "OHAD",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 2710,
+    "nameHe": "אום אל-פחם",
+    "nameEn": "UMM AL-FAHM",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 2024,
+    "nameHe": "אום אל-קוטוף",
+    "nameEn": "UMM AL-QUTUF",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 1358,
+    "nameHe": "אום בטין",
+    "nameEn": "UMM BATIN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1108,
+    "nameHe": "אומן",
+    "nameEn": "OMEN",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 680,
+    "nameHe": "אומץ",
+    "nameEn": "OMEZ",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 31,
+    "nameHe": "אופקים",
+    "nameEn": "OFAQIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1294,
+    "nameHe": "אור הגנוז",
+    "nameEn": "OR HAGANUZ",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 67,
+    "nameHe": "אור הנר",
+    "nameEn": "OR HANER",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 2400,
+    "nameHe": "אור יהודה",
+    "nameEn": "OR YEHUDA",
+    "regionCode": 52,
+    "regionName": "רמת גן"
+  },
+  {
+    "code": 1020,
+    "nameHe": "אור עקיבא",
+    "nameEn": "OR AQIVA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 780,
+    "nameHe": "אורה",
+    "nameEn": "ORA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 2012,
+    "nameHe": "אורות",
+    "nameEn": "OROT",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 4013,
+    "nameHe": "אורטל",
+    "nameEn": "ORTAL",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 403,
+    "nameHe": "אורים",
+    "nameEn": "URIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 882,
+    "nameHe": "אורנים",
+    "nameEn": "ORANIM",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 3760,
+    "nameHe": "אורנית",
+    "nameEn": "ORANIT",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 278,
+    "nameHe": "אושה",
+    "nameEn": "USHA",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 565,
+    "nameHe": "אזור",
+    "nameEn": "AZOR",
+    "regionCode": 53,
+    "regionName": "חולון"
+  },
+  {
+    "code": 1157,
+    "nameHe": "אחווה",
+    "nameEn": "AHAWA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 821,
+    "nameHe": "אחוזם",
+    "nameEn": "AHUZZAM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1330,
+    "nameHe": "אחוזת ברק",
+    "nameEn": "AHUZZAT BARAQ",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3875,
+    "nameHe": "אחיה",
+    "nameEn": "AHIYA",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 785,
+    "nameHe": "אחיהוד",
+    "nameEn": "AHIHUD",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 850,
+    "nameHe": "אחיטוב",
+    "nameEn": "AHITUV",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 804,
+    "nameHe": "אחיסמך",
+    "nameEn": "AHISAMAKH",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 797,
+    "nameHe": "אחיעזר",
+    "nameEn": "AHI'EZER",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 965,
+    "nameHe": "אטרש (שבט)",
+    "nameEn": "ATRASH",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3891,
+    "nameHe": "איבי הנחל",
+    "nameEn": "IBBE HANAHAL",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 338,
+    "nameHe": "איבים",
+    "nameEn": "IBBIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 716,
+    "nameHe": "אייל",
+    "nameEn": "EYAL",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 77,
+    "nameHe": "איילת השחר",
+    "nameEn": "AYYELET HASHAHAR",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 294,
+    "nameHe": "אילון",
+    "nameEn": "ELON",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1126,
+    "nameHe": "אילות",
+    "nameEn": "ELOT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 49,
+    "nameHe": "אילניה",
+    "nameEn": "ILANIYYA",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 2600,
+    "nameHe": "אילת",
+    "nameEn": "ELAT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1336,
+    "nameHe": "אירוס",
+    "nameEn": "IRUS",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 3762,
+    "nameHe": "איתמר",
+    "nameEn": "ITAMAR",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 37,
+    "nameHe": "איתן",
+    "nameEn": "ETAN",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 886,
+    "nameHe": "איתנים",
+    "nameEn": "ETANIM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 478,
+    "nameHe": "אכסאל",
+    "nameEn": "IKSAL",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1359,
+    "nameHe": "אל סייד",
+    "nameEn": "AL SAYYID",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1339,
+    "nameHe": "אל-עזי",
+    "nameEn": "AL-AZY",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1316,
+    "nameHe": "אל-עריאן",
+    "nameEn": "AL-ARYAN",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 4003,
+    "nameHe": "אל-רום",
+    "nameEn": "EL-ROM",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1145,
+    "nameHe": "אלומה",
+    "nameEn": "ALUMMA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 330,
+    "nameHe": "אלומות",
+    "nameEn": "ALUMMOT",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 3898,
+    "nameHe": "אלון",
+    "nameEn": "ALLON",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1182,
+    "nameHe": "אלון הגליל",
+    "nameEn": "ALLON HAGALIL",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3579,
+    "nameHe": "אלון מורה",
+    "nameEn": "ELON MORE",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 3604,
+    "nameHe": "אלון שבות",
+    "nameEn": "ALLON SHEVUT",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 429,
+    "nameHe": "אלוני אבא",
+    "nameEn": "ALLONE ABBA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 4017,
+    "nameHe": "אלוני הבשן",
+    "nameEn": "ALLONE HABASHAN",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 868,
+    "nameHe": "אלוני יצחק",
+    "nameEn": "ALLONE YIZHAQ",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 285,
+    "nameHe": "אלונים",
+    "nameEn": "ALLONIM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 4002,
+    "nameHe": "אלי-עד",
+    "nameEn": "ELI-AD",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1365,
+    "nameHe": "אליאב",
+    "nameEn": "ELIAV",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 41,
+    "nameHe": "אליכין",
+    "nameEn": "ELYAKHIN",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1248,
+    "nameHe": "אליפז",
+    "nameEn": "ELIFAZ",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 730,
+    "nameHe": "אליפלט",
+    "nameEn": "ELIFELET",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 682,
+    "nameHe": "אליקים",
+    "nameEn": "ELYAQIM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 204,
+    "nameHe": "אלישיב",
+    "nameEn": "ELYASHIV",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 841,
+    "nameHe": "אלישמע",
+    "nameEn": "ELISHAMA",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 1125,
+    "nameHe": "אלמגור",
+    "nameEn": "ALMAGOR",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 3556,
+    "nameHe": "אלמוג",
+    "nameEn": "ALMOG",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1309,
+    "nameHe": "אלעד",
+    "nameEn": "EL'AD",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 3618,
+    "nameHe": "אלעזר",
+    "nameEn": "EL'AZAR",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 3750,
+    "nameHe": "אלפי מנשה",
+    "nameEn": "ALFE MENASHE",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 603,
+    "nameHe": "אלקוש",
+    "nameEn": "ELQOSH",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3560,
+    "nameHe": "אלקנה",
+    "nameEn": "ELQANA",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 772,
+    "nameHe": "אמונים",
+    "nameEn": "EMUNIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1064,
+    "nameHe": "אמירים",
+    "nameEn": "AMIRIM",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 1253,
+    "nameHe": "אמנון",
+    "nameEn": "AMNUN",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 23,
+    "nameHe": "אמציה",
+    "nameEn": "AMAZYA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 4012,
+    "nameHe": "אניעם",
+    "nameEn": "ANI'AM",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 960,
+    "nameHe": "אסד (שבט)",
+    "nameEn": "ASAD",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3906,
+    "nameHe": "אסיף",
+    "nameEn": "ASIF",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 3754,
+    "nameHe": "אספר",
+    "nameEn": "ASEFAR",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 529,
+    "nameHe": "אעבלין",
+    "nameEn": "I'BILLIN",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 963,
+    "nameHe": "אעצם (שבט)",
+    "nameEn": "A'SAM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 959,
+    "nameHe": "אפיניש (שבט)",
+    "nameEn": "AFEINISH",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 4301,
+    "nameHe": "אפיק",
+    "nameEn": "AFIQ",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 176,
+    "nameHe": "אפיקים",
+    "nameEn": "AFIQIM",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 313,
+    "nameHe": "אפק",
+    "nameEn": "AFEQ",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3650,
+    "nameHe": "אפרת",
+    "nameEn": "EFRAT",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 701,
+    "nameHe": "ארבל",
+    "nameEn": "ARBEL",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 3598,
+    "nameHe": "ארגמן",
+    "nameEn": "ARGAMAN",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 714,
+    "nameHe": "ארז",
+    "nameEn": "EREZ",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 3570,
+    "nameHe": "אריאל",
+    "nameEn": "ARI'EL",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 1324,
+    "nameHe": "ארסוף",
+    "nameEn": "ARSUF",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 71,
+    "nameHe": "אשבול",
+    "nameEn": "ESHBOL",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1276,
+    "nameHe": "אשבל",
+    "nameEn": "NAHAL ESHBAL",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 70,
+    "nameHe": "אשדוד",
+    "nameEn": "ASHDOD",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 199,
+    "nameHe": "אשדות יעקב (איחוד)",
+    "nameEn": "ASHDOT YA'AQOV(IHUD)",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 188,
+    "nameHe": "אשדות יעקב (מאוחד)",
+    "nameEn": "ASHDOT YA'AQOV(ME'UH",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1188,
+    "nameHe": "אשחר",
+    "nameEn": "ESHHAR",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3722,
+    "nameHe": "אשכולות",
+    "nameEn": "ESHKOLOT",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 2021,
+    "nameHe": "אשל הנשיא",
+    "nameEn": "ESHEL HANASI",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1152,
+    "nameHe": "אשלים",
+    "nameEn": "ASHALIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 7100,
+    "nameHe": "אשקלון",
+    "nameEn": "ASHQELON",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1256,
+    "nameHe": "אשרת",
+    "nameEn": "ASHERAT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 740,
+    "nameHe": "אשתאול",
+    "nameEn": "ESHTA'OL",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1298,
+    "nameHe": "אתגר",
+    "nameEn": "ETGAR",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 6000,
+    "nameHe": "באקה אל-גרביה",
+    "nameEn": "BAQA AL-GHARBIYYE",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 21,
+    "nameHe": "באר אורה",
+    "nameEn": "BE'ER ORA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1376,
+    "nameHe": "באר גנים",
+    "nameEn": "BEER GANNIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 155,
+    "nameHe": "באר טוביה",
+    "nameEn": "BE'ER TUVEYA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 2530,
+    "nameHe": "באר יעקב",
+    "nameEn": "BE'ER YA'AQOV",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1278,
+    "nameHe": "באר מילכה",
+    "nameEn": "BE'ER MILKA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 9000,
+    "nameHe": "באר שבע",
+    "nameEn": "BE'ER SHEVA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 450,
+    "nameHe": "בארות יצחק",
+    "nameEn": "BE'EROT YIZHAQ",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 697,
+    "nameHe": "בארותיים",
+    "nameEn": "BE'EROTAYIM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 399,
+    "nameHe": "בארי",
+    "nameEn": "BE'ERI",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 559,
+    "nameHe": "בוסתן הגליל",
+    "nameEn": "BUSTAN HAGALIL",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 482,
+    "nameHe": "בועיינה-נוג'ידאת",
+    "nameEn": "BU'EINE-NUJEIDAT",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 4001,
+    "nameHe": "בוקעאתא",
+    "nameEn": "BUQ'ATA",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 698,
+    "nameHe": "בורגתה",
+    "nameEn": "BURGETA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 2043,
+    "nameHe": "בחן",
+    "nameEn": "BAHAN",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 762,
+    "nameHe": "בטחה",
+    "nameEn": "BITHA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 234,
+    "nameHe": "ביצרון",
+    "nameEn": "BIZZARON",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 998,
+    "nameHe": "ביר אל-מכסור",
+    "nameEn": "BIR EL-MAKSUR",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1348,
+    "nameHe": "ביר הדאג'",
+    "nameEn": "BIR HADAGE",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 368,
+    "nameHe": "ביריה",
+    "nameEn": "BIRIYYA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 317,
+    "nameHe": "בית אורן",
+    "nameEn": "BET OREN",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3574,
+    "nameHe": "בית אל",
+    "nameEn": "BET EL",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 562,
+    "nameHe": "בית אלעזרי",
+    "nameEn": "BET EL'AZARI",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 95,
+    "nameHe": "בית אלפא",
+    "nameEn": "BET ALFA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3652,
+    "nameHe": "בית אריה",
+    "nameEn": "BET ARYE",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1076,
+    "nameHe": "בית ברל",
+    "nameEn": "BET BERL",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 480,
+    "nameHe": "בית ג'ן",
+    "nameEn": "BEIT JANN",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 619,
+    "nameHe": "בית גוברין",
+    "nameEn": "BET GUVRIN",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 571,
+    "nameHe": "בית גמליאל",
+    "nameEn": "BET GAMLI'EL",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 466,
+    "nameHe": "בית דגן",
+    "nameEn": "BET DAGAN",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 723,
+    "nameHe": "בית הגדי",
+    "nameEn": "BET HAGADDI",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 373,
+    "nameHe": "בית הלוי",
+    "nameEn": "BET HALEVI",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 322,
+    "nameHe": "בית הלל",
+    "nameEn": "BET HILLEL",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 572,
+    "nameHe": "בית העמק",
+    "nameEn": "BET HAEMEQ",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3645,
+    "nameHe": "בית הערבה",
+    "nameEn": "BET HAARAVA",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 242,
+    "nameHe": "בית השיטה",
+    "nameEn": "BET HASHITTA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 353,
+    "nameHe": "בית זיד",
+    "nameEn": "BET ZEID",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 710,
+    "nameHe": "בית זית",
+    "nameEn": "BET ZAYIT",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 143,
+    "nameHe": "בית זרע",
+    "nameEn": "BET ZERA",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 3864,
+    "nameHe": "בית חוגלה",
+    "nameEn": "BET HOGLA",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 3575,
+    "nameHe": "בית חורון",
+    "nameEn": "BET HORON",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 877,
+    "nameHe": "בית חירות",
+    "nameEn": "BET HERUT",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 2033,
+    "nameHe": "בית חלקיה",
+    "nameEn": "BET HILQIYYA",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 159,
+    "nameHe": "בית חנן",
+    "nameEn": "BET HANAN",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 800,
+    "nameHe": "בית חנניה",
+    "nameEn": "BET HANANYA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 1050,
+    "nameHe": "בית חשמונאי",
+    "nameEn": "BET HASHMONAY",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 288,
+    "nameHe": "בית יהושע",
+    "nameEn": "BET YEHOSHUA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 265,
+    "nameHe": "בית יוסף",
+    "nameEn": "BET YOSEF",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 200,
+    "nameHe": "בית ינאי",
+    "nameEn": "BET YANNAY",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 326,
+    "nameHe": "בית יצחק-שער חפר",
+    "nameEn": "BET YIZHAQ-SH. HEFER",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 3745,
+    "nameHe": "בית יתיר",
+    "nameEn": "BET YATTIR",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 430,
+    "nameHe": "בית לחם הגלילית",
+    "nameEn": "BET LEHEM HAGELILIT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 751,
+    "nameHe": "בית מאיר",
+    "nameEn": "BET ME'IR",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 784,
+    "nameHe": "בית נחמיה",
+    "nameEn": "BET NEHEMYA",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 16,
+    "nameHe": "בית ניר",
+    "nameEn": "BET NIR",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 672,
+    "nameHe": "בית נקופה",
+    "nameEn": "BET NEQOFA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 202,
+    "nameHe": "בית עובד",
+    "nameEn": "BET OVED",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 301,
+    "nameHe": "בית עוזיאל",
+    "nameEn": "BET UZZI'EL",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 756,
+    "nameHe": "בית עזרא",
+    "nameEn": "BET EZRA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 604,
+    "nameHe": "בית עריף",
+    "nameEn": "BET ARIF",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 212,
+    "nameHe": "בית צבי",
+    "nameEn": "BET ZEVI",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 598,
+    "nameHe": "בית קמה",
+    "nameEn": "BET QAMA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 365,
+    "nameHe": "בית קשת",
+    "nameEn": "BET QESHET",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 848,
+    "nameHe": "בית רבן",
+    "nameEn": "BET RABBAN",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 1162,
+    "nameHe": "בית רימון",
+    "nameEn": "BET RIMMON",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 9200,
+    "nameHe": "בית שאן",
+    "nameEn": "BET SHE'AN",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 2610,
+    "nameHe": "בית שמש",
+    "nameEn": "BET SHEMESH",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 248,
+    "nameHe": "בית שערים",
+    "nameEn": "BET SHE'ARIM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 747,
+    "nameHe": "בית שקמה",
+    "nameEn": "BET SHIQMA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 252,
+    "nameHe": "ביתן אהרן",
+    "nameEn": "BITAN AHARON",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 3780,
+    "nameHe": "ביתר עילית",
+    "nameEn": "BETAR ILLIT",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 94,
+    "nameHe": "בלפוריה",
+    "nameEn": "BALFURIYYA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 760,
+    "nameHe": "בן זכאי",
+    "nameEn": "BEN ZAKKAY",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 712,
+    "nameHe": "בן עמי",
+    "nameEn": "BEN AMMI",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1084,
+    "nameHe": "בן שמן (כפר נוער)",
+    "nameEn": "BEN SHEMEN(K.NO'AR)",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 2013,
+    "nameHe": "בן שמן (מושב)",
+    "nameEn": "BEN SHEMEN (MOSHAV)",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 6100,
+    "nameHe": "בני ברק",
+    "nameEn": "BENE BERAQ",
+    "regionCode": 52,
+    "regionName": "רמת גן"
+  },
+  {
+    "code": 1368,
+    "nameHe": "בני דקלים",
+    "nameEn": "BNE DKALIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 592,
+    "nameHe": "בני דרום",
+    "nameEn": "BENE DAROM",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 386,
+    "nameHe": "בני דרור",
+    "nameEn": "BENE DEROR",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 4015,
+    "nameHe": "בני יהודה",
+    "nameEn": "BENE YEHUDA",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1363,
+    "nameHe": "בני נצרים",
+    "nameEn": "BENE NEZARIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 448,
+    "nameHe": "בני עטרות",
+    "nameEn": "BENE ATAROT",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 1066,
+    "nameHe": "בני עיש",
+    "nameEn": "BENE AYISH",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 418,
+    "nameHe": "בני ציון",
+    "nameEn": "BENE ZIYYON",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 588,
+    "nameHe": "בני ראם",
+    "nameEn": "BENE RE'EM",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 685,
+    "nameHe": "בניה",
+    "nameEn": "BENAYA",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 9800,
+    "nameHe": "בנימינה-גבעת עדה",
+    "nameEn": "BINYAMINA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 1326,
+    "nameHe": "בסמה",
+    "nameEn": "BASMA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 944,
+    "nameHe": "בסמת טבעון",
+    "nameEn": "BASMAT TAB'UN",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 483,
+    "nameHe": "בענה",
+    "nameEn": "BI NE",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 389,
+    "nameHe": "בצרה",
+    "nameEn": "BAZRA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 589,
+    "nameHe": "בצת",
+    "nameEn": "BEZET",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 864,
+    "nameHe": "בקוע",
+    "nameEn": "BEQOA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 3612,
+    "nameHe": "בקעות",
+    "nameEn": "BEQA'OT",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 823,
+    "nameHe": "בר גיורא",
+    "nameEn": "BAR GIYYORA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1191,
+    "nameHe": "בר יוחאי",
+    "nameEn": "BAR YOHAY",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3499,
+    "nameHe": "בר כוכבא",
+    "nameEn": "BAR KOKHVA",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 3744,
+    "nameHe": "ברוכין",
+    "nameEn": "BRUKHIN",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 428,
+    "nameHe": "ברור חיל",
+    "nameEn": "BEROR HAYIL",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 2060,
+    "nameHe": "ברוש",
+    "nameEn": "BEROSH",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3757,
+    "nameHe": "ברוש הבקעה",
+    "nameEn": "BROSH HABIK'A",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 3710,
+    "nameHe": "ברכה",
+    "nameEn": "BERAKHA",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 746,
+    "nameHe": "ברכיה",
+    "nameEn": "BEREKHYA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 667,
+    "nameHe": "ברעם",
+    "nameEn": "BAR'AM",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 141,
+    "nameHe": "ברק",
+    "nameEn": "BARAQ",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 617,
+    "nameHe": "ברקאי",
+    "nameEn": "BARQAY",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3654,
+    "nameHe": "ברקן",
+    "nameEn": "BARQAN",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 2038,
+    "nameHe": "ברקת",
+    "nameEn": "BAREQET",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 1323,
+    "nameHe": "בת הדר",
+    "nameEn": "BAT HADAR",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1361,
+    "nameHe": "בת חן",
+    "nameEn": "BAT HEN",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1319,
+    "nameHe": "בת חפר",
+    "nameEn": "BAT HEFER",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 6200,
+    "nameHe": "בת ים",
+    "nameEn": "BAT YAM",
+    "regionCode": 53,
+    "regionName": "חולון"
+  },
+  {
+    "code": 3794,
+    "nameHe": "בת עין",
+    "nameEn": "BAT AYIN",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 33,
+    "nameHe": "בת שלמה",
+    "nameEn": "BAT SHELOMO",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3897,
+    "nameHe": "בתרון",
+    "nameEn": "BITRON",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1292,
+    "nameHe": "ג'דיידה-מכר",
+    "nameEn": "JUDEIDE-MAKER",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 485,
+    "nameHe": "ג'ולס",
+    "nameEn": "JULIS",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 627,
+    "nameHe": "ג'לג'וליה",
+    "nameEn": "JALJULYE",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 976,
+    "nameHe": "ג'נאביב (שבט)",
+    "nameEn": "JUNNABIB",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 541,
+    "nameHe": "ג'סר א-זרקא",
+    "nameEn": "JISR AZ-ZARQA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 487,
+    "nameHe": "ג'ש (גוש חלב)",
+    "nameEn": "JISH(GUSH HALAV)",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 628,
+    "nameHe": "ג'ת",
+    "nameEn": "JAAT",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 872,
+    "nameHe": "גאולי תימן",
+    "nameEn": "GE'ULE TEMAN",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 379,
+    "nameHe": "גאולים",
+    "nameEn": "GE'ULIM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 853,
+    "nameHe": "גאליה",
+    "nameEn": "GE'ALYA",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 352,
+    "nameHe": "גבולות",
+    "nameEn": "GEVULOT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 424,
+    "nameHe": "גבים",
+    "nameEn": "GEVIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 86,
+    "nameHe": "גבע",
+    "nameEn": "GEVA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3763,
+    "nameHe": "גבע בנימין",
+    "nameEn": "GEVA BINYAMIN",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 683,
+    "nameHe": "גבע כרמל",
+    "nameEn": "GEVA KARMEL",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 2014,
+    "nameHe": "גבעולים",
+    "nameEn": "GIV'OLIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3644,
+    "nameHe": "גבעון החדשה",
+    "nameEn": "GIV'ON HAHADASHA",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 3783,
+    "nameHe": "גבעות",
+    "nameEn": "GVA'OT",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 1344,
+    "nameHe": "גבעות בר",
+    "nameEn": "GEVA'OT BAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3862,
+    "nameHe": "גבעות הרואה",
+    "nameEn": "GIV'OT HARO'E",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1362,
+    "nameHe": "גבעות עדן",
+    "nameEn": "GIV'OT EDEN",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1293,
+    "nameHe": "גבעת אבני",
+    "nameEn": "GIV'AT AVNI",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1288,
+    "nameHe": "גבעת אלה",
+    "nameEn": "GIV'AT ELA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 147,
+    "nameHe": "גבעת ברנר",
+    "nameEn": "GIV'AT BRENNER",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 870,
+    "nameHe": "גבעת השלושה",
+    "nameEn": "GIV'AT HASHELOSHA",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 3730,
+    "nameHe": "גבעת זאב",
+    "nameEn": "GIV'AT ZE'EV",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 2018,
+    "nameHe": "גבעת חיים (איחוד)",
+    "nameEn": "GIV'AT HAYYIM (IHUD)",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 173,
+    "nameHe": "גבעת חיים (מאוחד)",
+    "nameEn": "GIV'AT HAYYIM(ME'UHA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 207,
+    "nameHe": "גבעת חן",
+    "nameEn": "GIV'AT HEN",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 4021,
+    "nameHe": "גבעת יואב",
+    "nameEn": "GIV'AT YO'AV",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 787,
+    "nameHe": "גבעת יערים",
+    "nameEn": "GIV'AT YE'ARIM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 919,
+    "nameHe": "גבעת ישעיהו",
+    "nameEn": "GIV'AT YESHA'YAHU",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 802,
+    "nameHe": "גבעת כח",
+    "nameEn": "GIV'AT KOAH",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 360,
+    "nameHe": "גבעת נילי",
+    "nameEn": "GIV'AT NILI",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 703,
+    "nameHe": "גבעת עוז",
+    "nameEn": "GIV'AT OZ",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 681,
+    "nameHe": "גבעת שמואל",
+    "nameEn": "GIV'AT SHEMU'EL",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 566,
+    "nameHe": "גבעת שמש",
+    "nameEn": "GIV'AT SHEMESH",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1077,
+    "nameHe": "גבעת שפירא",
+    "nameEn": "GIV'AT SHAPPIRA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 793,
+    "nameHe": "גבעתי",
+    "nameEn": "GIV'ATI",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 6300,
+    "nameHe": "גבעתיים",
+    "nameEn": "GIV'ATAYIM",
+    "regionCode": 52,
+    "regionName": "רמת גן"
+  },
+  {
+    "code": 342,
+    "nameHe": "גברעם",
+    "nameEn": "GEVAR'AM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 133,
+    "nameHe": "גבת",
+    "nameEn": "GEVAT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 35,
+    "nameHe": "גדות",
+    "nameEn": "GADOT",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 145,
+    "nameHe": "גדיש",
+    "nameEn": "GADISH",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 442,
+    "nameHe": "גדעונה",
+    "nameEn": "GID'ONA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 2550,
+    "nameHe": "גדרה",
+    "nameEn": "GEDERA",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 3893,
+    "nameHe": "גודר",
+    "nameEn": "GODER",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 852,
+    "nameHe": "גונן",
+    "nameEn": "GONEN",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 755,
+    "nameHe": "גורן",
+    "nameEn": "GOREN",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1219,
+    "nameHe": "גורנות הגליל",
+    "nameEn": "GORNOT HAGALIL",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 457,
+    "nameHe": "גזית",
+    "nameEn": "GAZIT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 370,
+    "nameHe": "גזר",
+    "nameEn": "GEZER",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 706,
+    "nameHe": "גיאה",
+    "nameEn": "GE'A",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 196,
+    "nameHe": "גיבתון",
+    "nameEn": "GIBBETON",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 1043,
+    "nameHe": "גיזו",
+    "nameEn": "GIZO",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1204,
+    "nameHe": "גילון",
+    "nameEn": "GILON",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 736,
+    "nameHe": "גילת",
+    "nameEn": "GILAT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 262,
+    "nameHe": "גינוסר",
+    "nameEn": "GINNOSAR",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 92,
+    "nameHe": "גיניגר",
+    "nameEn": "GINNEGAR",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 863,
+    "nameHe": "גינתון",
+    "nameEn": "GINNATON",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1206,
+    "nameHe": "גיתה",
+    "nameEn": "GITTA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3613,
+    "nameHe": "גיתית",
+    "nameEn": "GITTIT",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 393,
+    "nameHe": "גלאון",
+    "nameEn": "GAL'ON",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 3606,
+    "nameHe": "גלגל",
+    "nameEn": "GILGAL",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 346,
+    "nameHe": "גליל ים",
+    "nameEn": "GELIL YAM",
+    "regionCode": 51,
+    "regionName": "תל אביב"
+  },
+  {
+    "code": 369,
+    "nameHe": "גלעד (אבן יצחק)",
+    "nameEn": "EVEN YIZHAQ(GAL'ED)",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 745,
+    "nameHe": "גמזו",
+    "nameEn": "GIMZO",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1072,
+    "nameHe": "גן הדרום",
+    "nameEn": "GAN HADAROM",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 225,
+    "nameHe": "גן השומרון",
+    "nameEn": "GAN HASHOMERON",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 239,
+    "nameHe": "גן חיים",
+    "nameEn": "GAN HAYYIM",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 734,
+    "nameHe": "גן יאשיה",
+    "nameEn": "GAN YOSHIYYA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 166,
+    "nameHe": "גן יבנה",
+    "nameEn": "GAN YAVNE",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 1274,
+    "nameHe": "גן נר",
+    "nameEn": "GAN NER",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 311,
+    "nameHe": "גן שורק",
+    "nameEn": "GAN SOREQ",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 144,
+    "nameHe": "גן שלמה",
+    "nameEn": "GAN SHELOMO",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 72,
+    "nameHe": "גן שמואל",
+    "nameEn": "GAN SHEMU'EL",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 836,
+    "nameHe": "גנות",
+    "nameEn": "GANNOT",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 549,
+    "nameHe": "גנות הדר",
+    "nameEn": "GANNOT HADAR",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1103,
+    "nameHe": "גני הדר",
+    "nameEn": "GANNE HADAR",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1371,
+    "nameHe": "גני טל",
+    "nameEn": "GANNE TAL",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 862,
+    "nameHe": "גני יוחנן",
+    "nameEn": "GANNE YOHANAN",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 3823,
+    "nameHe": "גני מודיעין",
+    "nameEn": "GANNE MODIIN",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 218,
+    "nameHe": "גני עם",
+    "nameEn": "GANNE AM",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 229,
+    "nameHe": "גני תקווה",
+    "nameEn": "GANNE TIQWA",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 3758,
+    "nameHe": "גנים",
+    "nameEn": "GANNIM",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 842,
+    "nameHe": "געש",
+    "nameEn": "GA'ASH",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 463,
+    "nameHe": "געתון",
+    "nameEn": "GA'TON",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 39,
+    "nameHe": "גפן",
+    "nameEn": "GEFEN",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1129,
+    "nameHe": "גרופית",
+    "nameEn": "GEROFIT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 4022,
+    "nameHe": "גשור",
+    "nameEn": "GESHUR",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 305,
+    "nameHe": "גשר",
+    "nameEn": "GESHER",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 574,
+    "nameHe": "גשר הזיו",
+    "nameEn": "GESHER HAZIW",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 340,
+    "nameHe": "גת (קיבוץ)",
+    "nameEn": "GAT(QIBBUZ)",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 128,
+    "nameHe": "גת רימון",
+    "nameEn": "GAT RIMMON",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 494,
+    "nameHe": "דאלית אל-כרמל",
+    "nameEn": "DALIYAT AL-KARMEL",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 146,
+    "nameHe": "דבורה",
+    "nameEn": "DEVORA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 489,
+    "nameHe": "דבוריה",
+    "nameEn": "DABBURYE",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 849,
+    "nameHe": "דביר",
+    "nameEn": "DVIR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 407,
+    "nameHe": "דברת",
+    "nameEn": "DAVERAT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 62,
+    "nameHe": "דגניה א'",
+    "nameEn": "DEGANYA ALEF",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 79,
+    "nameHe": "דגניה ב'",
+    "nameEn": "DEGANYA BET",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1067,
+    "nameHe": "דובב",
+    "nameEn": "DOVEV",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3747,
+    "nameHe": "דולב",
+    "nameEn": "DOLEV",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 738,
+    "nameHe": "דור",
+    "nameEn": "DOR",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 336,
+    "nameHe": "דורות",
+    "nameEn": "DOROT",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 475,
+    "nameHe": "דחי",
+    "nameEn": "DAHI",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 490,
+    "nameHe": "דייר אל-אסד",
+    "nameEn": "DEIR AL-ASAD",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 492,
+    "nameHe": "דייר חנא",
+    "nameEn": "DEIR HANNA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 493,
+    "nameHe": "דייר ראפאת",
+    "nameEn": "DEIR RAFAT",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 2200,
+    "nameHe": "דימונה",
+    "nameEn": "DIMONA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 2063,
+    "nameHe": "דישון",
+    "nameEn": "DISHON",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 300,
+    "nameHe": "דליה",
+    "nameEn": "DALIYYA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 431,
+    "nameHe": "דלתון",
+    "nameEn": "DALTON",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 1317,
+    "nameHe": "דמיידה",
+    "nameEn": "DEMEIDE",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 303,
+    "nameHe": "דן",
+    "nameEn": "DAN",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 302,
+    "nameHe": "דפנה",
+    "nameEn": "DAFNA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 1241,
+    "nameHe": "דקל",
+    "nameEn": "DEQEL",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1349,
+    "nameHe": "דריג'את",
+    "nameEn": "DERIG'AT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 702,
+    "nameHe": "האון",
+    "nameEn": "HAON",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 675,
+    "nameHe": "הבונים",
+    "nameEn": "HABONIM",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 356,
+    "nameHe": "הגושרים",
+    "nameEn": "HAGOSHERIM",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 191,
+    "nameHe": "הדר עם",
+    "nameEn": "HADAR AM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 9700,
+    "nameHe": "הוד השרון",
+    "nameEn": "HOD HASHARON",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 726,
+    "nameHe": "הודיה",
+    "nameEn": "HODIYYA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1322,
+    "nameHe": "הודיות",
+    "nameEn": "HODAYOT",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1169,
+    "nameHe": "הוואשלה (שבט)",
+    "nameEn": "HAWASHLA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 956,
+    "nameHe": "הוזייל (שבט)",
+    "nameEn": "HUZAYYEL",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1186,
+    "nameHe": "הושעיה",
+    "nameEn": "HOSHA'AYA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 250,
+    "nameHe": "הזורע",
+    "nameEn": "HAZOREA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 307,
+    "nameHe": "הזורעים",
+    "nameEn": "HAZORE'IM",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 434,
+    "nameHe": "החותרים",
+    "nameEn": "HAHOTERIM",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 684,
+    "nameHe": "היוגב",
+    "nameEn": "HAYOGEV",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1208,
+    "nameHe": "הילה",
+    "nameEn": "HILLA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 377,
+    "nameHe": "המעפיל",
+    "nameEn": "HAMA'PIL",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 677,
+    "nameHe": "הסוללים",
+    "nameEn": "HASOLELIM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 423,
+    "nameHe": "העוגן",
+    "nameEn": "HAOGEN",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 3769,
+    "nameHe": "הר אדר",
+    "nameEn": "HAR ADAR",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 3603,
+    "nameHe": "הר גילה",
+    "nameEn": "HAR GILLO",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 1261,
+    "nameHe": "הר עמשא",
+    "nameEn": "HAR AMASA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 464,
+    "nameHe": "הראל",
+    "nameEn": "HAR'EL",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1249,
+    "nameHe": "הרדוף",
+    "nameEn": "HARDUF",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 6400,
+    "nameHe": "הרצליה",
+    "nameEn": "HERZELIYYA",
+    "regionCode": 51,
+    "regionName": "תל אביב"
+  },
+  {
+    "code": 1203,
+    "nameHe": "הררית",
+    "nameEn": "HARARIT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3639,
+    "nameHe": "ורד יריחו",
+    "nameEn": "WERED YERIHO",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1133,
+    "nameHe": "ורדון",
+    "nameEn": "WARDON",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 2742,
+    "nameHe": "זבארגה (שבט)",
+    "nameEn": "ZABARGA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 815,
+    "nameHe": "זבדיאל",
+    "nameEn": "ZAVDI'EL",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 44,
+    "nameHe": "זוהר",
+    "nameEn": "ZOHAR",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 584,
+    "nameHe": "זיקים",
+    "nameEn": "ZIQIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 788,
+    "nameHe": "זיתן",
+    "nameEn": "ZETAN",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 9300,
+    "nameHe": "זכרון יעקב",
+    "nameEn": "ZIKHRON YA'AQOV",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 799,
+    "nameHe": "זכריה",
+    "nameEn": "ZEKHARYA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1290,
+    "nameHe": "זמר",
+    "nameEn": "ZEMER",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1065,
+    "nameHe": "זמרת",
+    "nameEn": "ZIMRAT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 816,
+    "nameHe": "זנוח",
+    "nameEn": "ZANOAH",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 2064,
+    "nameHe": "זרועה",
+    "nameEn": "ZERU'A",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 975,
+    "nameHe": "זרזיר",
+    "nameEn": "ZARZIR",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 818,
+    "nameHe": "זרחיה",
+    "nameEn": "ZERAHYA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1321,
+    "nameHe": "ח'ואלד",
+    "nameEn": "KHAWALED",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 986,
+    "nameHe": "ח'ואלד (שבט)",
+    "nameEn": "KHAWALED",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 235,
+    "nameHe": "חבצלת השרון",
+    "nameEn": "HAVAZZELET HASHARON",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1110,
+    "nameHe": "חבר",
+    "nameEn": "HEVER",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3400,
+    "nameHe": "חברון",
+    "nameEn": null,
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 717,
+    "nameHe": "חגור",
+    "nameEn": "HAGOR",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 3764,
+    "nameHe": "חגי",
+    "nameEn": "HAGGAI",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 205,
+    "nameHe": "חגלה",
+    "nameEn": "HOGLA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 4026,
+    "nameHe": "חד-נס",
+    "nameEn": "HAD-NES",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 618,
+    "nameHe": "חדיד",
+    "nameEn": "HADID",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 6500,
+    "nameHe": "חדרה",
+    "nameEn": "HADERA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 948,
+    "nameHe": "חוג'ייראת (ד'הרה)",
+    "nameEn": "HUJEIRAT (DAHRA)",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 160,
+    "nameHe": "חולדה",
+    "nameEn": "HULDA",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 6600,
+    "nameHe": "חולון",
+    "nameEn": "HOLON",
+    "regionCode": 53,
+    "regionName": "חולון"
+  },
+  {
+    "code": 1239,
+    "nameHe": "חולית",
+    "nameEn": "HOLIT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 253,
+    "nameHe": "חולתה",
+    "nameEn": "HULATA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3642,
+    "nameHe": "חומש",
+    "nameEn": "HOMESH",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 662,
+    "nameHe": "חוסן",
+    "nameEn": "HOSEN",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1332,
+    "nameHe": "חוסנייה",
+    "nameEn": "HUSSNIYYA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 115,
+    "nameHe": "חופית",
+    "nameEn": "HOFIT",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 374,
+    "nameHe": "חוקוק",
+    "nameEn": "HUQOQ",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1303,
+    "nameHe": "חורה",
+    "nameEn": "HURA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 496,
+    "nameHe": "חורפיש",
+    "nameEn": "HURFEISH",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 355,
+    "nameHe": "חורשים",
+    "nameEn": "HORESHIM",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 1047,
+    "nameHe": "חזון",
+    "nameEn": "HAZON",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 219,
+    "nameHe": "חיבת ציון",
+    "nameEn": "HIBBAT ZIYYON",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 3643,
+    "nameHe": "חיננית",
+    "nameEn": "HINNANIT",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 4000,
+    "nameHe": "חיפה",
+    "nameEn": "HAIFA",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 162,
+    "nameHe": "חירות",
+    "nameEn": "HERUT",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1272,
+    "nameHe": "חלוץ",
+    "nameEn": "HALUZ",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 820,
+    "nameHe": "חלץ",
+    "nameEn": "HELEZ",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 993,
+    "nameHe": "חמאם",
+    "nameEn": "HAMAM",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 801,
+    "nameHe": "חמד",
+    "nameEn": "HEMED",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 343,
+    "nameHe": "חמדיה",
+    "nameEn": "HAMADYA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3646,
+    "nameHe": "חמדת",
+    "nameEn": "NAHAL HEMDAT",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 3609,
+    "nameHe": "חמרה",
+    "nameEn": "HAMRA",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 807,
+    "nameHe": "חניאל",
+    "nameEn": "HANNI'EL",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 280,
+    "nameHe": "חניתה",
+    "nameEn": "HANITA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1257,
+    "nameHe": "חנתון",
+    "nameEn": "HANNATON",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 4005,
+    "nameHe": "חספין",
+    "nameEn": "HASPIN",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 363,
+    "nameHe": "חפץ חיים",
+    "nameEn": "HAFEZ HAYYIM",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 90,
+    "nameHe": "חפצי-בה",
+    "nameEn": "HEFZI-BAH",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 700,
+    "nameHe": "חצב",
+    "nameEn": "HAZAV",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 13,
+    "nameHe": "חצבה",
+    "nameEn": "HAZEVA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 2034,
+    "nameHe": "חצור הגלילית",
+    "nameEn": "HAZOR HAGELILIT",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 406,
+    "nameHe": "חצור-אשדוד",
+    "nameEn": "HAZOR-ASHDOD",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 397,
+    "nameHe": "חצרים",
+    "nameEn": "HAZERIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 422,
+    "nameHe": "חרב לאת",
+    "nameEn": "HEREV LE'ET",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1024,
+    "nameHe": "חרוצים",
+    "nameEn": "HARUZIM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1247,
+    "nameHe": "חריש",
+    "nameEn": "HARISH",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3717,
+    "nameHe": "חרמש",
+    "nameEn": "HERMESH",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 3870,
+    "nameHe": "חרשה",
+    "nameEn": "HARESHA",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1209,
+    "nameHe": "חרשים",
+    "nameEn": "HARASHIM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3770,
+    "nameHe": "חשמונאים",
+    "nameEn": "HASHMONA'IM",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 6700,
+    "nameHe": "טבריה",
+    "nameEn": "TIBERIAS",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 962,
+    "nameHe": "טובא-זנגריה",
+    "nameEn": "TUBA-ZANGARIYYE",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 498,
+    "nameHe": "טורעאן",
+    "nameEn": "TUR'AN",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 2730,
+    "nameHe": "טייבה",
+    "nameEn": "TAYIBE",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 497,
+    "nameHe": "טייבה (בעמק)",
+    "nameEn": "TAYIBE(BAEMEQ)",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 2720,
+    "nameHe": "טירה",
+    "nameEn": "TIRE",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 663,
+    "nameHe": "טירת יהודה",
+    "nameEn": "TIRAT YEHUDA",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 2100,
+    "nameHe": "טירת כרמל",
+    "nameEn": "TIRAT KARMEL",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 268,
+    "nameHe": "טירת צבי",
+    "nameEn": "TIRAT ZEVI",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3873,
+    "nameHe": "טל מנשה",
+    "nameEn": "TAL MENASHE",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 462,
+    "nameHe": "טל שחר",
+    "nameEn": "TAL SHAHAR",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1181,
+    "nameHe": "טל-אל",
+    "nameEn": "TAL-EL",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1177,
+    "nameHe": "טללים",
+    "nameEn": "TELALIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3788,
+    "nameHe": "טלמון",
+    "nameEn": "TALMON",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 8900,
+    "nameHe": "טמרה",
+    "nameEn": "TAMRA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 547,
+    "nameHe": "טמרה (יזרעאל)",
+    "nameEn": "TAMRA (YIZRE'EL)",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3743,
+    "nameHe": "טנא",
+    "nameEn": "TENE",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 1214,
+    "nameHe": "טפחות",
+    "nameEn": "TEFAHOT",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1295,
+    "nameHe": "יאנוח-ג'ת",
+    "nameEn": "YANUH-JAT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1232,
+    "nameHe": "יבול",
+    "nameEn": "YEVUL",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 46,
+    "nameHe": "יבנאל",
+    "nameEn": "YAVNE'EL",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 2660,
+    "nameHe": "יבנה",
+    "nameEn": "YAVNE",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 96,
+    "nameHe": "יגור",
+    "nameEn": "YAGUR",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 798,
+    "nameHe": "יגל",
+    "nameEn": "YAGEL",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 577,
+    "nameHe": "יד בנימין",
+    "nameEn": "YAD BINYAMIN",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 1134,
+    "nameHe": "יד השמונה",
+    "nameEn": "YAD HASHEMONA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 758,
+    "nameHe": "יד חנה",
+    "nameEn": "YAD HANNA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 358,
+    "nameHe": "יד מרדכי",
+    "nameEn": "YAD MORDEKHAY",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 775,
+    "nameHe": "יד נתן",
+    "nameEn": "YAD NATAN",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 64,
+    "nameHe": "יד רמבם",
+    "nameEn": "YAD RAMBAM",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1144,
+    "nameHe": "ידידה",
+    "nameEn": "YEDIDA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 9400,
+    "nameHe": "יהוד-מונוסון",
+    "nameEn": "YEHUD-MONOSON",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 1158,
+    "nameHe": "יהל",
+    "nameEn": "YAHEL",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 2009,
+    "nameHe": "יובל",
+    "nameEn": "YUVAL",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 1226,
+    "nameHe": "יובלים",
+    "nameEn": "YUVALIM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1112,
+    "nameHe": "יודפת",
+    "nameEn": "YODEFAT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3896,
+    "nameHe": "יונדב",
+    "nameEn": "YONADAV",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 4007,
+    "nameHe": "יונתן",
+    "nameEn": "YONATAN",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 803,
+    "nameHe": "יושיביה",
+    "nameEn": "YOSHIVYA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 452,
+    "nameHe": "יזרעאל",
+    "nameEn": "YIZRE'EL",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 409,
+    "nameHe": "יחיעם",
+    "nameEn": "YEHI'AM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 866,
+    "nameHe": "יטבתה",
+    "nameEn": "YOTVATA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3607,
+    "nameHe": "ייטב",
+    "nameEn": "YITAV",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 811,
+    "nameHe": "יכיני",
+    "nameEn": "YAKHINI",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 753,
+    "nameHe": "ינוב",
+    "nameEn": "YANUV",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 2011,
+    "nameHe": "ינון",
+    "nameEn": "YINNON",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 29,
+    "nameHe": "יסוד המעלה",
+    "nameEn": "YESUD HAMA'ALA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 440,
+    "nameHe": "יסודות",
+    "nameEn": "YESODOT",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 575,
+    "nameHe": "יסעור",
+    "nameEn": "YAS'UR",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1138,
+    "nameHe": "יעד",
+    "nameEn": "YA'AD",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1117,
+    "nameHe": "יעל",
+    "nameEn": "YA'EL",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1044,
+    "nameHe": "יעף",
+    "nameEn": "YE'AF",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 795,
+    "nameHe": "יערה",
+    "nameEn": "YA'ARA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 499,
+    "nameHe": "יפיע",
+    "nameEn": "YAFI",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 3566,
+    "nameHe": "יפית",
+    "nameEn": "YAFIT",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 134,
+    "nameHe": "יפעת",
+    "nameEn": "YIF'AT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 453,
+    "nameHe": "יפתח",
+    "nameEn": "YIFTAH",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3749,
+    "nameHe": "יצהר",
+    "nameEn": "YIZHAR",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 759,
+    "nameHe": "יציץ",
+    "nameEn": "YAZIZ",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 417,
+    "nameHe": "יקום",
+    "nameEn": "YAQUM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 3647,
+    "nameHe": "יקיר",
+    "nameEn": "YAQIR",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 241,
+    "nameHe": "יקנעם (מושבה)",
+    "nameEn": "YOQNE'AM(MOSHAVA)",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 240,
+    "nameHe": "יקנעם עילית",
+    "nameEn": "YOQNE'AM ILLIT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 623,
+    "nameHe": "יראון",
+    "nameEn": "YIR'ON",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 2026,
+    "nameHe": "ירדנה",
+    "nameEn": "YARDENA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 831,
+    "nameHe": "ירוחם",
+    "nameEn": "YEROHAM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3000,
+    "nameHe": "ירושלים",
+    "nameEn": "JERUSALEM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 718,
+    "nameHe": "ירחיב",
+    "nameEn": "YARHIV",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 502,
+    "nameHe": "ירכא",
+    "nameEn": "YIRKA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 183,
+    "nameHe": "ירקונה",
+    "nameEn": "YARQONA",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 916,
+    "nameHe": "ישע",
+    "nameEn": "YESHA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 805,
+    "nameHe": "ישעי",
+    "nameEn": "YISH'I",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 828,
+    "nameHe": "ישרש",
+    "nameEn": "YASHRESH",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1227,
+    "nameHe": "יתד",
+    "nameEn": "YATED",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 504,
+    "nameHe": "כאבול",
+    "nameEn": "KABUL",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 505,
+    "nameHe": "כאוכב אבו אל-היג'א",
+    "nameEn": "KAOKAB ABU AL-HIJA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 576,
+    "nameHe": "כברי",
+    "nameEn": "KABRI",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 371,
+    "nameHe": "כדורי",
+    "nameEn": "KADOORIE",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 3729,
+    "nameHe": "כדים",
+    "nameEn": "KADDIM",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 1338,
+    "nameHe": "כדיתה",
+    "nameEn": "KADDITA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3564,
+    "nameHe": "כוכב השחר",
+    "nameEn": "KOKHAV HASHAHAR",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1224,
+    "nameHe": "כוכב יאיר-צור יגאל",
+    "nameEn": "KOCHAV YAIR TSUR YI",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 3779,
+    "nameHe": "כוכב יעקב",
+    "nameEn": "KOKHAV YA'AQOV",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 824,
+    "nameHe": "כוכב מיכאל",
+    "nameEn": "KOKHAV MIKHA'EL",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1252,
+    "nameHe": "כורזים",
+    "nameEn": "KORAZIM",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 1210,
+    "nameHe": "כחל",
+    "nameEn": "KAHAL",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 1367,
+    "nameHe": "כחלה",
+    "nameEn": "KOCHLEA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 840,
+    "nameHe": "כיסופים",
+    "nameEn": "KISSUFIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1153,
+    "nameHe": "כישור",
+    "nameEn": "KISHOR",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1183,
+    "nameHe": "כליל",
+    "nameEn": "KELIL",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1229,
+    "nameHe": "כלנית",
+    "nameEn": "KALLANIT",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1331,
+    "nameHe": "כמאנה",
+    "nameEn": null,
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1291,
+    "nameHe": "כמהין",
+    "nameEn": "KEMEHIN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1201,
+    "nameHe": "כמון",
+    "nameEn": "KAMMON",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 2006,
+    "nameHe": "כנות",
+    "nameEn": "KANNOT",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 4028,
+    "nameHe": "כנף",
+    "nameEn": "KANAF",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 3902,
+    "nameHe": "כנפי שחר",
+    "nameEn": "KANFE SHAHAR",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 63,
+    "nameHe": "כנרת (מושבה)",
+    "nameEn": "KINNERET(MOSHAVA)",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 57,
+    "nameHe": "כנרת (קבוצה)",
+    "nameEn": "KINNERET(QEVUZA)",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1059,
+    "nameHe": "כסיפה",
+    "nameEn": "KUSEIFE",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 859,
+    "nameHe": "כסלון",
+    "nameEn": "KESALON",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1296,
+    "nameHe": "כסרא-סמיע",
+    "nameEn": "KISRA-SUMEI",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 978,
+    "nameHe": "כעביה-טבאש-חג'אג'רה",
+    "nameEn": "KA'ABIYYE-TABBASH-HA",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 857,
+    "nameHe": "כפר אביב",
+    "nameEn": "KEFAR AVIV",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 3638,
+    "nameHe": "כפר אדומים",
+    "nameEn": "KEFAR ADUMMIM",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 364,
+    "nameHe": "כפר אוריה",
+    "nameEn": "KEFAR URIYYA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 690,
+    "nameHe": "כפר אחים",
+    "nameEn": "KEFAR AHIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 220,
+    "nameHe": "כפר ביאליק",
+    "nameEn": "KEFAR BIALIK",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 177,
+    "nameHe": "כפר בילו",
+    "nameEn": "KEFAR BILU",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 357,
+    "nameHe": "כפר בלום",
+    "nameEn": "KEFAR BLUM",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 2010,
+    "nameHe": "כפר בן נון",
+    "nameEn": "KEFAR BIN NUN",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 633,
+    "nameHe": "כפר ברא",
+    "nameEn": "KAFAR BARA",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 132,
+    "nameHe": "כפר ברוך",
+    "nameEn": "KEFAR BARUKH",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 106,
+    "nameHe": "כפר גדעון",
+    "nameEn": "KEFAR GID'ON",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 427,
+    "nameHe": "כפר גלים",
+    "nameEn": "KEFAR GALLIM",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 310,
+    "nameHe": "כפר גליקסון",
+    "nameEn": "KEFAR GLIKSON",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 76,
+    "nameHe": "כפר גלעדי",
+    "nameEn": "KEFAR GIL'ADI",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 707,
+    "nameHe": "כפר דניאל",
+    "nameEn": "KEFAR DANIYYEL",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 3796,
+    "nameHe": "כפר האורנים",
+    "nameEn": "KEFAR HAORANIM",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 192,
+    "nameHe": "כפר החורש",
+    "nameEn": "KEFAR HAHORESH",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 254,
+    "nameHe": "כפר המכבי",
+    "nameEn": "KEFAR HAMAKKABI",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 582,
+    "nameHe": "כפר הנגיד",
+    "nameEn": "KEFAR HANAGID",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 890,
+    "nameHe": "כפר הנוער הדתי",
+    "nameEn": "KEFAR HANO'AR HADATI",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 443,
+    "nameHe": "כפר הנשיא",
+    "nameEn": "KEFAR HANASI",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 187,
+    "nameHe": "כפר הס",
+    "nameEn": "KEFAR HESS",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 217,
+    "nameHe": "כפר הראה",
+    "nameEn": "KEFAR HARO'E",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 888,
+    "nameHe": "כפר הריף",
+    "nameEn": "KEFAR HARIF",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 190,
+    "nameHe": "כפר ויתקין",
+    "nameEn": "KEFAR VITKIN",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 320,
+    "nameHe": "כפר ורבורג",
+    "nameEn": "KEFAR WARBURG",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1263,
+    "nameHe": "כפר ורדים",
+    "nameEn": "KEFAR WERADIM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1325,
+    "nameHe": "כפר זוהרים",
+    "nameEn": "KEFAR ZOHARIM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 786,
+    "nameHe": "כפר זיתים",
+    "nameEn": "KEFAR ZETIM",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 696,
+    "nameHe": "כפר חבד",
+    "nameEn": "KEFAR HABAD",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 609,
+    "nameHe": "כפר חושן",
+    "nameEn": "KEFAR HOSHEN",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 255,
+    "nameHe": "כפר חיטים",
+    "nameEn": "KEFAR HITTIM",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 193,
+    "nameHe": "כפר חיים",
+    "nameEn": "KEFAR HAYYIM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1297,
+    "nameHe": "כפר חנניה",
+    "nameEn": "KEFAR HANANYA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 112,
+    "nameHe": "כפר חסידים א'",
+    "nameEn": "KEFAR HASIDIM ALEF",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 889,
+    "nameHe": "כפר חסידים ב'",
+    "nameEn": "KEFAR HASIDIM BET",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 4004,
+    "nameHe": "כפר חרוב",
+    "nameEn": "KEFAR HARUV",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 673,
+    "nameHe": "כפר טרומן",
+    "nameEn": "KEFAR TRUMAN",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 507,
+    "nameHe": "כפר יאסיף",
+    "nameEn": "KAFAR YASIF",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 233,
+    "nameHe": "כפר ידידיה",
+    "nameEn": "YEDIDYA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 140,
+    "nameHe": "כפר יהושע",
+    "nameEn": "KEFAR YEHOSHUA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 168,
+    "nameHe": "כפר יונה",
+    "nameEn": "KEFAR YONA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 85,
+    "nameHe": "כפר יחזקאל",
+    "nameEn": "KEFAR YEHEZQEL",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 170,
+    "nameHe": "כפר יעבץ",
+    "nameEn": "KEFAR YA'BEZ",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 508,
+    "nameHe": "כפר כמא",
+    "nameEn": "KAFAR KAMA",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 509,
+    "nameHe": "כפר כנא",
+    "nameEn": "KAFAR KANNA",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 387,
+    "nameHe": "כפר מונש",
+    "nameEn": "KEFAR MONASH",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1095,
+    "nameHe": "כפר מימון",
+    "nameEn": "KEFAR MAYMON",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 98,
+    "nameHe": "כפר מלל",
+    "nameEn": "KEFAR MALAL",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 510,
+    "nameHe": "כפר מנדא",
+    "nameEn": "KAFAR MANDA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 274,
+    "nameHe": "כפר מנחם",
+    "nameEn": "KEFAR MENAHEM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 297,
+    "nameHe": "כפר מסריק",
+    "nameEn": "KEFAR MASARYK",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 512,
+    "nameHe": "כפר מצר",
+    "nameEn": "KAFAR MISR",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 764,
+    "nameHe": "כפר מרדכי",
+    "nameEn": "KEFAR MORDEKHAY",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 316,
+    "nameHe": "כפר נטר",
+    "nameEn": "KEFAR NETTER",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 345,
+    "nameHe": "כפר סאלד",
+    "nameEn": "KEFAR SZOLD",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 6900,
+    "nameHe": "כפר סבא",
+    "nameEn": "KEFAR SAVA",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 107,
+    "nameHe": "כפר סילבר",
+    "nameEn": "KEFAR SILVER",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 249,
+    "nameHe": "כפר סירקין",
+    "nameEn": "KEFAR SIRKIN",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 875,
+    "nameHe": "כפר עבודה",
+    "nameEn": "KEFAR AVODA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 845,
+    "nameHe": "כפר עזה",
+    "nameEn": "KEFAR AZZA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 3488,
+    "nameHe": "כפר עציון",
+    "nameEn": "KEFAR EZYON",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 189,
+    "nameHe": "כפר פינס",
+    "nameEn": "KEFAR PINES",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 634,
+    "nameHe": "כפר קאסם",
+    "nameEn": "KAFAR QASEM",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 388,
+    "nameHe": "כפר קיש",
+    "nameEn": "KEFAR KISH",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 654,
+    "nameHe": "כפר קרע",
+    "nameEn": "KAFAR QARA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 579,
+    "nameHe": "כפר ראש הנקרה",
+    "nameEn": "KEFAR ROSH HANIQRA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1130,
+    "nameHe": "כפר רוזנואלד (זרעית)",
+    "nameEn": "KEFAR ROZENWALD(ZAR.",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 295,
+    "nameHe": "כפר רופין",
+    "nameEn": "KEFAR RUPPIN",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1166,
+    "nameHe": "כפר רות",
+    "nameEn": "KEFAR RUT",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 605,
+    "nameHe": "כפר שמאי",
+    "nameEn": "KEFAR SHAMMAY",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 743,
+    "nameHe": "כפר שמואל",
+    "nameEn": "KEFAR SHEMU'EL",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 267,
+    "nameHe": "כפר שמריהו",
+    "nameEn": "KEFAR SHEMARYAHU",
+    "regionCode": 51,
+    "regionName": "תל אביב"
+  },
+  {
+    "code": 47,
+    "nameHe": "כפר תבור",
+    "nameEn": "KEFAR TAVOR",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 3572,
+    "nameHe": "כפר תפוח",
+    "nameEn": "KEFAR TAPPUAH",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 1285,
+    "nameHe": "כרכום",
+    "nameEn": "KARKOM",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1094,
+    "nameHe": "כרם ביבנה (ישיבה)",
+    "nameEn": "KEREM BEYAVNE",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 664,
+    "nameHe": "כרם בן זמרה",
+    "nameEn": "KEREM BEN ZIMRA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 88,
+    "nameHe": "כרם בן שמן",
+    "nameEn": "KEREM BEN SHEMEN",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 580,
+    "nameHe": "כרם מהרל",
+    "nameEn": "KEREM MAHARAL",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3889,
+    "nameHe": "כרם רעים",
+    "nameEn": "KEREM RE'IM",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1085,
+    "nameHe": "כרם שלום",
+    "nameEn": "KEREM SHALOM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1264,
+    "nameHe": "כרמי יוסף",
+    "nameEn": "KARME YOSEF",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 3766,
+    "nameHe": "כרמי צור",
+    "nameEn": "KARME ZUR",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 1374,
+    "nameHe": "כרמי קטיף",
+    "nameEn": "KARME QATIF",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1139,
+    "nameHe": "כרמיאל",
+    "nameEn": "KARMI'EL",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 768,
+    "nameHe": "כרמיה",
+    "nameEn": "KARMIYYA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1198,
+    "nameHe": "כרמים",
+    "nameEn": "KERAMIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3656,
+    "nameHe": "כרמל",
+    "nameEn": "KARMEL",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 1207,
+    "nameHe": "לבון",
+    "nameEn": "LAVON",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 585,
+    "nameHe": "לביא",
+    "nameEn": "LAVI",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1230,
+    "nameHe": "לבנים",
+    "nameEn": "LIVNIM",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 2023,
+    "nameHe": "להב",
+    "nameEn": "LAHAV",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 380,
+    "nameHe": "להבות הבשן",
+    "nameEn": "LAHAVOT HABASHAN",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 715,
+    "nameHe": "להבות חביבה",
+    "nameEn": "LAHAVOT HAVIVA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 1271,
+    "nameHe": "להבים",
+    "nameEn": "LEHAVIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 7000,
+    "nameHe": "לוד",
+    "nameEn": "LOD",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 52,
+    "nameHe": "לוזית",
+    "nameEn": "LUZIT",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 595,
+    "nameHe": "לוחמי הגיטאות",
+    "nameEn": "LOHAME HAGETA'OT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1171,
+    "nameHe": "לוטם",
+    "nameEn": "LOTEM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1255,
+    "nameHe": "לוטן",
+    "nameEn": "LOTAN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3901,
+    "nameHe": "לחי",
+    "nameEn": "LEHI",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 674,
+    "nameHe": "לימן",
+    "nameEn": "LIMAN",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 24,
+    "nameHe": "לכיש",
+    "nameEn": "LAKHISH",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1310,
+    "nameHe": "לפיד",
+    "nameEn": "LAPPID",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1173,
+    "nameHe": "לפידות",
+    "nameEn": "LAPPIDOT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1060,
+    "nameHe": "לקיה",
+    "nameEn": "LAQYE",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3892,
+    "nameHe": "לשם",
+    "nameEn": "LESHEM",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 2055,
+    "nameHe": "מאור",
+    "nameEn": "MA'OR",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 102,
+    "nameHe": "מאיר שפיה",
+    "nameEn": "ME'IR SHEFEYA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 771,
+    "nameHe": "מבוא ביתר",
+    "nameEn": "MEVO BETAR",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 3569,
+    "nameHe": "מבוא דותן",
+    "nameEn": "MEVO DOTAN",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 3709,
+    "nameHe": "מבוא חורון",
+    "nameEn": "MEVO HORON",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 4204,
+    "nameHe": "מבוא חמה",
+    "nameEn": "MEVO HAMMA",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1141,
+    "nameHe": "מבוא מודיעים",
+    "nameEn": "MEVO MODI'IM",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1318,
+    "nameHe": "מבואות ים",
+    "nameEn": "MEVO'OT YAM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 3825,
+    "nameHe": "מבואות יריחו",
+    "nameEn": "MEVO'OT YERIHO",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1080,
+    "nameHe": "מבועים",
+    "nameEn": "MABBU'IM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 829,
+    "nameHe": "מבטחים",
+    "nameEn": "MIVTAHIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 573,
+    "nameHe": "מבקיעים",
+    "nameEn": "MAVQI'IM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1015,
+    "nameHe": "מבשרת ציון",
+    "nameEn": "MEVASSERET ZIYYON",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 516,
+    "nameHe": "מג'ד אל-כרום",
+    "nameEn": "MAJD AL-KURUM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 4201,
+    "nameHe": "מג'דל שמס",
+    "nameEn": "MAJDAL SHAMS",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 481,
+    "nameHe": "מגאר",
+    "nameEn": "MUGHAR",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 689,
+    "nameHe": "מגדים",
+    "nameEn": "MEGADIM",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 65,
+    "nameHe": "מגדל",
+    "nameEn": "MIGDAL",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 874,
+    "nameHe": "מגדל העמק",
+    "nameEn": "MIGDAL HAEMEQ",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3561,
+    "nameHe": "מגדל עוז",
+    "nameEn": "MIGDAL OZ",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 3751,
+    "nameHe": "מגדלים",
+    "nameEn": "MIGDALIM",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 586,
+    "nameHe": "מגידו",
+    "nameEn": "MEGIDDO",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 375,
+    "nameHe": "מגל",
+    "nameEn": "MAGGAL",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 695,
+    "nameHe": "מגן",
+    "nameEn": "MAGEN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1155,
+    "nameHe": "מגן שאול",
+    "nameEn": "MAGEN SHA'UL",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3871,
+    "nameHe": "מגרון",
+    "nameEn": "MIGRON",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 722,
+    "nameHe": "מגשימים",
+    "nameEn": "MAGSHIMIM",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 2029,
+    "nameHe": "מדרך עוז",
+    "nameEn": "MIDRAKH OZ",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1140,
+    "nameHe": "מדרשת בן גוריון",
+    "nameEn": "MIDRESHET BEN GURION",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 897,
+    "nameHe": "מדרשת רופין",
+    "nameEn": "MIDRESHET RUPPIN",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 3797,
+    "nameHe": "מודיעין עילית",
+    "nameEn": "MODI'IN ILLIT",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1200,
+    "nameHe": "מודיעין-מכבים-רעות",
+    "nameEn": "MODI'IN-MAKKABBIM-RE",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 269,
+    "nameHe": "מולדת",
+    "nameEn": "MOLEDET",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 208,
+    "nameHe": "מוצא עילית",
+    "nameEn": "MOZA ILLIT",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 635,
+    "nameHe": "מוקייבלה",
+    "nameEn": "MUQEIBLE",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1163,
+    "nameHe": "מורן",
+    "nameEn": "MORAN",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1178,
+    "nameHe": "מורשת",
+    "nameEn": "MORESHET",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 606,
+    "nameHe": "מזור",
+    "nameEn": "MAZOR",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 28,
+    "nameHe": "מזכרת בתיה",
+    "nameEn": "MAZKERET BATYA",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 104,
+    "nameHe": "מזרע",
+    "nameEn": "MIZRA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 517,
+    "nameHe": "מזרעה",
+    "nameEn": "MAZRA'A",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3599,
+    "nameHe": "מחולה",
+    "nameEn": "MEHOLA",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1411,
+    "nameHe": "מחנה הילה",
+    "nameEn": "MAHANE HILLA",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 1418,
+    "nameHe": "מחנה טלי",
+    "nameEn": "MAHANE TALI",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1413,
+    "nameHe": "מחנה יהודית",
+    "nameEn": "MAHANE YEHUDIT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1416,
+    "nameHe": "מחנה יוכבד",
+    "nameEn": "MAHANE YOKHVED",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1415,
+    "nameHe": "מחנה יפה",
+    "nameEn": "MAHANE YAFA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1196,
+    "nameHe": "מחנה יתיר",
+    "nameEn": "MAHANE YATTIR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1414,
+    "nameHe": "מחנה מרים",
+    "nameEn": "MAHANE MIRYAM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1412,
+    "nameHe": "מחנה תל נוף",
+    "nameEn": "MAHANE TEL NOF",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 308,
+    "nameHe": "מחניים",
+    "nameEn": "MAHANAYIM",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 776,
+    "nameHe": "מחסיה",
+    "nameEn": "MAHSEYA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 43,
+    "nameHe": "מטולה",
+    "nameEn": "METULA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 822,
+    "nameHe": "מטע",
+    "nameEn": "MATTA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1128,
+    "nameHe": "מי עמי",
+    "nameEn": "ME AMMI",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 2054,
+    "nameHe": "מיטב",
+    "nameEn": "METAV",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1154,
+    "nameHe": "מיטל",
+    "nameEn": "METAL",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 649,
+    "nameHe": "מייסר",
+    "nameEn": "MEISER",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 4019,
+    "nameHe": "מיצר",
+    "nameEn": "MEZAR",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1282,
+    "nameHe": "מירב",
+    "nameEn": "MERAV",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 607,
+    "nameHe": "מירון",
+    "nameEn": "MERON",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 731,
+    "nameHe": "מישר",
+    "nameEn": "MESHAR",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 1268,
+    "nameHe": "מיתר",
+    "nameEn": "METAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3614,
+    "nameHe": "מכורה",
+    "nameEn": "MEKHORA",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1343,
+    "nameHe": "מכחול",
+    "nameEn": "MAKCHUL",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 382,
+    "nameHe": "מכמורת",
+    "nameEn": "MIKHMORET",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1202,
+    "nameHe": "מכמנים",
+    "nameEn": "MIKHMANNIM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 164,
+    "nameHe": "מלאה",
+    "nameEn": "MELE'A",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3863,
+    "nameHe": "מלאכי השלום",
+    "nameEn": "MAL'AKHE HASHLOM",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 2044,
+    "nameHe": "מלילות",
+    "nameEn": "MELILOT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 596,
+    "nameHe": "מלכיה",
+    "nameEn": "MALKIYYA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 2030,
+    "nameHe": "מנוחה",
+    "nameEn": "MENUHA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1174,
+    "nameHe": "מנוף",
+    "nameEn": "MANOF",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1205,
+    "nameHe": "מנות",
+    "nameEn": "MANOT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 48,
+    "nameHe": "מנחמיה",
+    "nameEn": "MENAHEMYA",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 347,
+    "nameHe": "מנרה",
+    "nameEn": "MENNARA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 994,
+    "nameHe": "מנשית זבדה",
+    "nameEn": "MANSHIYYET ZABDA",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 1258,
+    "nameHe": "מסד",
+    "nameEn": "MASSAD",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 263,
+    "nameHe": "מסדה",
+    "nameEn": "MASSADA",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 298,
+    "nameHe": "מסילות",
+    "nameEn": "MESILLOT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 742,
+    "nameHe": "מסילת ציון",
+    "nameEn": "MESILLAT ZIYYON",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 748,
+    "nameHe": "מסלול",
+    "nameEn": "MASLUL",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 4203,
+    "nameHe": "מסעדה",
+    "nameEn": "MAS'ADE",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 939,
+    "nameHe": "מסעודין אל-עזאזמה",
+    "nameEn": "MAS'UDIN AL-'AZAZME",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 197,
+    "nameHe": "מעברות",
+    "nameEn": "MA'BAROT",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1082,
+    "nameHe": "מעגלים",
+    "nameEn": "MA'GALIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 678,
+    "nameHe": "מעגן",
+    "nameEn": "MA'AGAN",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 694,
+    "nameHe": "מעגן מיכאל",
+    "nameEn": "MA'AGAN MIKHA'EL",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3879,
+    "nameHe": "מעוז",
+    "nameEn": "MA'OZ",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 272,
+    "nameHe": "מעוז חיים",
+    "nameEn": "MA'OZ HAYYIM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3657,
+    "nameHe": "מעון",
+    "nameEn": "MA'ON",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 570,
+    "nameHe": "מעונה",
+    "nameEn": "ME'ONA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 518,
+    "nameHe": "מעיליא",
+    "nameEn": "MI'ELYA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 416,
+    "nameHe": "מעין ברוך",
+    "nameEn": "MA'YAN BARUKH",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 290,
+    "nameHe": "מעין צבי",
+    "nameEn": "MA'YAN ZEVI",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3616,
+    "nameHe": "מעלה אדומים",
+    "nameEn": "MA'ALE ADUMMIM",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 3608,
+    "nameHe": "מעלה אפרים",
+    "nameEn": "MA'ALE EFRAYIM",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1127,
+    "nameHe": "מעלה גלבוע",
+    "nameEn": "MA'ALE GILBOA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 4008,
+    "nameHe": "מעלה גמלא",
+    "nameEn": "MA'ALE GAMLA",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 286,
+    "nameHe": "מעלה החמישה",
+    "nameEn": "MA'ALE HAHAMISHA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 3752,
+    "nameHe": "מעלה לבונה",
+    "nameEn": "MA'ALE LEVONA",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 3651,
+    "nameHe": "מעלה מכמש",
+    "nameEn": "MA'ALE MIKHMAS",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1327,
+    "nameHe": "מעלה עירון",
+    "nameEn": "MA'ALE IRON",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3653,
+    "nameHe": "מעלה עמוס",
+    "nameEn": "MA'ALE AMOS",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 1063,
+    "nameHe": "מעלות-תרשיחא",
+    "nameEn": "MA'ALOT-TARSHIHA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 344,
+    "nameHe": "מענית",
+    "nameEn": "MA'ANIT",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 230,
+    "nameHe": "מעש",
+    "nameEn": "MA'AS",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 668,
+    "nameHe": "מפלסים",
+    "nameEn": "MEFALLESIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 325,
+    "nameHe": "מצובה",
+    "nameEn": "MAZZUVA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3903,
+    "nameHe": "מצוקי ארץ",
+    "nameEn": "METSUKE ERETS",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 757,
+    "nameHe": "מצליח",
+    "nameEn": "MAZLIAH",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 58,
+    "nameHe": "מצפה",
+    "nameEn": "MIZPA",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1222,
+    "nameHe": "מצפה אביב",
+    "nameEn": "MIZPE AVIV",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1370,
+    "nameHe": "מצפה אילן",
+    "nameEn": "MITSPE ILAN",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3899,
+    "nameHe": "מצפה זיף",
+    "nameEn": "MITSPE ZIF",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 3576,
+    "nameHe": "מצפה יריחו",
+    "nameEn": "MIZPE YERIHO",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1190,
+    "nameHe": "מצפה נטופה",
+    "nameEn": "MIZPE NETOFA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 99,
+    "nameHe": "מצפה רמון",
+    "nameEn": "MIZPE RAMON",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3610,
+    "nameHe": "מצפה שלם",
+    "nameEn": "MIZPE SHALEM",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 648,
+    "nameHe": "מצר",
+    "nameEn": "MEZER",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 22,
+    "nameHe": "מקווה ישראל",
+    "nameEn": "MIQWE YISRA'EL",
+    "regionCode": 53,
+    "regionName": "חולון"
+  },
+  {
+    "code": 843,
+    "nameHe": "מרגליות",
+    "nameEn": "MARGALIYYOT",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 4101,
+    "nameHe": "מרום גולן",
+    "nameEn": "MEROM GOLAN",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1340,
+    "nameHe": "מרחב עם",
+    "nameEn": "MERHAV AM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 97,
+    "nameHe": "מרחביה (מושב)",
+    "nameEn": "MERHAVYA(MOSHAV)",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 66,
+    "nameHe": "מרחביה (קיבוץ)",
+    "nameEn": "MERHAVYA(QIBBUZ)",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1098,
+    "nameHe": "מרכז שפירא",
+    "nameEn": "MERKAZ SHAPPIRA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 421,
+    "nameHe": "משאבי שדה",
+    "nameEn": "MASH'ABBE SADE",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 765,
+    "nameHe": "משגב דב",
+    "nameEn": "MISGAV DOV",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 378,
+    "nameHe": "משגב עם",
+    "nameEn": "MISGAV AM",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 520,
+    "nameHe": "משהד",
+    "nameEn": "MESHHED",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 3605,
+    "nameHe": "משואה",
+    "nameEn": "MASSU'A",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 620,
+    "nameHe": "משואות יצחק",
+    "nameEn": "MASSUOT YIZHAQ",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 3785,
+    "nameHe": "משכיות",
+    "nameEn": "MASKIYYOT",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 670,
+    "nameHe": "משמר איילון",
+    "nameEn": "MISHMAR AYYALON",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 563,
+    "nameHe": "משמר דוד",
+    "nameEn": "MISHMAR DAWID",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 732,
+    "nameHe": "משמר הירדן",
+    "nameEn": "MISHMAR HAYARDEN",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 395,
+    "nameHe": "משמר הנגב",
+    "nameEn": "MISHMAR HANEGEV",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 130,
+    "nameHe": "משמר העמק",
+    "nameEn": "MISHMAR HAEMEQ",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 729,
+    "nameHe": "משמר השבעה",
+    "nameEn": "MISHMAR HASHIV'A",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 194,
+    "nameHe": "משמר השרון",
+    "nameEn": "MISHMAR HASHARON",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 3865,
+    "nameHe": "משמר יהודה",
+    "nameEn": "MISHMAR YEHUDA",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 213,
+    "nameHe": "משמרות",
+    "nameEn": "MISHMAROT",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 425,
+    "nameHe": "משמרת",
+    "nameEn": "MISHMERET",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 791,
+    "nameHe": "משען",
+    "nameEn": "MASH'EN",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1315,
+    "nameHe": "מתן",
+    "nameEn": "MATTAN",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 1184,
+    "nameHe": "מתת",
+    "nameEn": "MATTAT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3648,
+    "nameHe": "מתתיהו",
+    "nameEn": "MATTITYAHU",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 4551,
+    "nameHe": "נאות גולן",
+    "nameEn": "NE'OT GOLAN",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1124,
+    "nameHe": "נאות הכיכר",
+    "nameEn": "NE'OT HAKIKKAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 408,
+    "nameHe": "נאות מרדכי",
+    "nameEn": "NE'OT MORDEKHAY",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 1197,
+    "nameHe": "נאות סמדר",
+    "nameEn": "SHIZZAFON",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 524,
+    "nameHe": "נאעורה",
+    "nameEn": "NA'URA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 396,
+    "nameHe": "נבטים",
+    "nameEn": "NEVATIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 315,
+    "nameHe": "נגבה",
+    "nameEn": "NEGBA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 3724,
+    "nameHe": "נגוהות",
+    "nameEn": "NEGOHOT",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 309,
+    "nameHe": "נהורה",
+    "nameEn": "NEHORA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 80,
+    "nameHe": "נהלל",
+    "nameEn": "NAHALAL",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 9100,
+    "nameHe": "נהריה",
+    "nameEn": "NAHARIYYA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 4304,
+    "nameHe": "נוב",
+    "nameEn": "NOV",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 55,
+    "nameHe": "נוגה",
+    "nameEn": "NOGAH",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 3573,
+    "nameHe": "נוה צוף",
+    "nameEn": "NEVE TSUF",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1366,
+    "nameHe": "נווה",
+    "nameEn": "NAVE",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 926,
+    "nameHe": "נווה אבות",
+    "nameEn": "NEWE AVOT",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 590,
+    "nameHe": "נווה אור",
+    "nameEn": "NEWE UR",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 4303,
+    "nameHe": "נווה אטיב",
+    "nameEn": "NEWE ATIV",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 405,
+    "nameHe": "נווה אילן",
+    "nameEn": "NEWE ILAN",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 296,
+    "nameHe": "נווה איתן",
+    "nameEn": "NEWE ETAN",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3877,
+    "nameHe": "נווה גדיד",
+    "nameEn": "NEVE GADID",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 3725,
+    "nameHe": "נווה דניאל",
+    "nameEn": "NEWE DANIYYEL",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 1057,
+    "nameHe": "נווה זוהר",
+    "nameEn": "NEWE ZOHAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1314,
+    "nameHe": "נווה זיו",
+    "nameEn": "NEWE ZIV",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1279,
+    "nameHe": "נווה חריף",
+    "nameEn": "NEWE HARIF",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 312,
+    "nameHe": "נווה ים",
+    "nameEn": "NEWE YAM",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 686,
+    "nameHe": "נווה ימין",
+    "nameEn": "NEWE YAMIN",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 858,
+    "nameHe": "נווה ירק",
+    "nameEn": "NEWE YARAQ",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 827,
+    "nameHe": "נווה מבטח",
+    "nameEn": "NEWE MIVTAH",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1071,
+    "nameHe": "נווה מיכאל",
+    "nameEn": "NEWE MIKHA'EL",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1259,
+    "nameHe": "נווה שלום",
+    "nameEn": "NEWE SHALOM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 15,
+    "nameHe": "נועם",
+    "nameEn": "NO'AM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1333,
+    "nameHe": "נוף איילון",
+    "nameEn": "NOF AYYALON",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1061,
+    "nameHe": "נוף הגליל",
+    "nameEn": "NOF HAGALIL",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 3876,
+    "nameHe": "נופי פרת",
+    "nameEn": "NOFE PRAT",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 3790,
+    "nameHe": "נופים",
+    "nameEn": "NOFIM",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 1284,
+    "nameHe": "נופית",
+    "nameEn": "NOFIT",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 257,
+    "nameHe": "נופך",
+    "nameEn": "NOFEKH",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 3726,
+    "nameHe": "נוקדים",
+    "nameEn": "NOQEDIM",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 447,
+    "nameHe": "נורדיה",
+    "nameEn": "NORDIYYA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 833,
+    "nameHe": "נורית",
+    "nameEn": "NURIT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3887,
+    "nameHe": "נזר שומרון",
+    "nameEn": "NEZER SHOMRON",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 59,
+    "nameHe": "נחושה",
+    "nameEn": "NEHUSHA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 844,
+    "nameHe": "נחל עוז",
+    "nameEn": "NAHAL OZ",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 2045,
+    "nameHe": "נחלה",
+    "nameEn": "NAHALA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 3767,
+    "nameHe": "נחליאל",
+    "nameEn": "NAHALI'EL",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 449,
+    "nameHe": "נחלים",
+    "nameEn": "NEHALIM",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 809,
+    "nameHe": "נחם",
+    "nameEn": "NAHAM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 522,
+    "nameHe": "נחף",
+    "nameEn": "NAHEF",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 433,
+    "nameHe": "נחשולים",
+    "nameEn": "NAHSHOLIM",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 777,
+    "nameHe": "נחשון",
+    "nameEn": "NAHSHON",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 705,
+    "nameHe": "נחשונים",
+    "nameEn": "NAHSHONIM",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 1147,
+    "nameHe": "נטועה",
+    "nameEn": "NETU'A",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 4014,
+    "nameHe": "נטור",
+    "nameEn": "NATUR",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1369,
+    "nameHe": "נטע",
+    "nameEn": "NETA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 174,
+    "nameHe": "נטעים",
+    "nameEn": "NETA'IM",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 1254,
+    "nameHe": "נטף",
+    "nameEn": "NATAF",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 523,
+    "nameHe": "ניין",
+    "nameEn": "NEIN",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3655,
+    "nameHe": "נילי",
+    "nameEn": "NILI",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 351,
+    "nameHe": "ניצן",
+    "nameEn": "NIZZAN",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1419,
+    "nameHe": "ניצן ב'",
+    "nameEn": "NIZZAN B",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1195,
+    "nameHe": "ניצנה (קהילת חינוך)",
+    "nameEn": "NIZZANA (QEHILAT HIN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1280,
+    "nameHe": "ניצני סיני",
+    "nameEn": "NIZZANE SINAY",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 851,
+    "nameHe": "ניצני עוז",
+    "nameEn": "NIZZANE OZ",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 359,
+    "nameHe": "ניצנים",
+    "nameEn": "NIZZANIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 808,
+    "nameHe": "ניר אליהו",
+    "nameEn": "NIR ELIYYAHU",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 553,
+    "nameHe": "ניר בנים",
+    "nameEn": "NIR BANIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 720,
+    "nameHe": "ניר גלים",
+    "nameEn": "NIR GALLIM",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 256,
+    "nameHe": "ניר דוד (תל עמל)",
+    "nameEn": "NIR DAWID (TEL AMAL)",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 11,
+    "nameHe": "ניר חן",
+    "nameEn": "NIR HEN",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 165,
+    "nameHe": "ניר יפה",
+    "nameEn": "NIR YAFE",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 402,
+    "nameHe": "ניר יצחק",
+    "nameEn": "NIR YIZHAQ",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 699,
+    "nameHe": "ניר ישראל",
+    "nameEn": "NIR YISRA'EL",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 2047,
+    "nameHe": "ניר משה",
+    "nameEn": "NIR MOSHE",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 69,
+    "nameHe": "ניר עוז",
+    "nameEn": "NIR OZ",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 348,
+    "nameHe": "ניר עם",
+    "nameEn": "NIR AM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 769,
+    "nameHe": "ניר עציון",
+    "nameEn": "NIR EZYON",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 2048,
+    "nameHe": "ניר עקיבא",
+    "nameEn": "NIR AQIVA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 331,
+    "nameHe": "ניר צבי",
+    "nameEn": "NIR ZEVI",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 602,
+    "nameHe": "נירים",
+    "nameEn": "NIRIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1236,
+    "nameHe": "נירית",
+    "nameEn": "NIRIT",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 4035,
+    "nameHe": "נמרוד",
+    "nameEn": "NIMROD",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 825,
+    "nameHe": "נס הרים",
+    "nameEn": "NES HARIM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1143,
+    "nameHe": "נס עמים",
+    "nameEn": "NES AMMIM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 7200,
+    "nameHe": "נס ציונה",
+    "nameEn": "NES ZIYYONA",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 186,
+    "nameHe": "נעורים",
+    "nameEn": "NE'URIM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 3787,
+    "nameHe": "נעלה",
+    "nameEn": "NA'ALE",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 3713,
+    "nameHe": "נעמה",
+    "nameEn": "NAAMA",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 158,
+    "nameHe": "נען",
+    "nameEn": "NA'AN",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 3620,
+    "nameHe": "נערן",
+    "nameEn": "NA'ARAN",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1041,
+    "nameHe": "נצאצרה (שבט)",
+    "nameEn": "NASASRA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1372,
+    "nameHe": "נצר חזני",
+    "nameEn": "NEZER HAZZANI",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 435,
+    "nameHe": "נצר סרני",
+    "nameEn": "NEZER SERENI",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 7300,
+    "nameHe": "נצרת",
+    "nameEn": "NAZARETH",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 3890,
+    "nameHe": "נריה",
+    "nameEn": "NERIYA",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 2500,
+    "nameHe": "נשר",
+    "nameEn": "NESHER",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 3555,
+    "nameHe": "נתיב הגדוד",
+    "nameEn": "NETIV HAGEDUD",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 693,
+    "nameHe": "נתיב הלה",
+    "nameEn": "NETIV HALAMED-HE",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1242,
+    "nameHe": "נתיב העשרה",
+    "nameEn": "NETIV HAASARA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 792,
+    "nameHe": "נתיב השיירה",
+    "nameEn": "NETIV HASHAYYARA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 246,
+    "nameHe": "נתיבות",
+    "nameEn": "NETIVOT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 7400,
+    "nameHe": "נתניה",
+    "nameEn": "NETANYA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 525,
+    "nameHe": "סאג'ור",
+    "nameEn": "SAJUR",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 578,
+    "nameHe": "סאסא",
+    "nameEn": "SASA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 587,
+    "nameHe": "סביון",
+    "nameEn": "SAVYON",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 2046,
+    "nameHe": "סגולה",
+    "nameEn": "SEGULA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 942,
+    "nameHe": "סואעד (חמירה)",
+    "nameEn": "SAWA'ID (HUMAYRA)",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 989,
+    "nameHe": "סואעד (כמאנה) (שבט)",
+    "nameEn": "SAWA'ID (KAMANE)",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 526,
+    "nameHe": "סולם",
+    "nameEn": "SULAM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3756,
+    "nameHe": "סוסיה",
+    "nameEn": "SUSEYA",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 1238,
+    "nameHe": "סופה",
+    "nameEn": "SUFA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 7500,
+    "nameHe": "סח'נין",
+    "nameEn": "SAKHNIN",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1170,
+    "nameHe": "סייד (שבט)",
+    "nameEn": "SAYYID",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1245,
+    "nameHe": "סלמה",
+    "nameEn": "SALLAMA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3567,
+    "nameHe": "סלעית",
+    "nameEn": "SAL'IT",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 1156,
+    "nameHe": "סמר",
+    "nameEn": "SAMAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3777,
+    "nameHe": "סנסנה",
+    "nameEn": null,
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 419,
+    "nameHe": "סעד",
+    "nameEn": "SA'AD",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1360,
+    "nameHe": "סעוה",
+    "nameEn": "SA'WA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 454,
+    "nameHe": "סער",
+    "nameEn": "SA'AR",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1176,
+    "nameHe": "ספיר",
+    "nameEn": "SAPPIR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 610,
+    "nameHe": "סתריה",
+    "nameEn": "SITRIYYA",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 4501,
+    "nameHe": "ע'ג'ר",
+    "nameEn": "GHAJAR",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 892,
+    "nameHe": "עבדון",
+    "nameEn": "AVDON",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 376,
+    "nameHe": "עברון",
+    "nameEn": "EVRON",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 794,
+    "nameHe": "עגור",
+    "nameEn": "AGUR",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1199,
+    "nameHe": "עדי",
+    "nameEn": "ADI",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3874,
+    "nameHe": "עדי עד",
+    "nameEn": "ADE AD",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 2035,
+    "nameHe": "עדנים",
+    "nameEn": "ADANIM",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 826,
+    "nameHe": "עוזה",
+    "nameEn": "UZA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 528,
+    "nameHe": "עוזייר",
+    "nameEn": "UZEIR",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 737,
+    "nameHe": "עולש",
+    "nameEn": "OLESH",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 666,
+    "nameHe": "עומר",
+    "nameEn": "OMER",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 810,
+    "nameHe": "עופר",
+    "nameEn": "OFER",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3617,
+    "nameHe": "עופרה",
+    "nameEn": "OFRA",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 32,
+    "nameHe": "עוצם",
+    "nameEn": "OZEM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 957,
+    "nameHe": "עוקבי (בנו עוקבה)",
+    "nameEn": "UQBI (BANU UQBA)",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 328,
+    "nameHe": "עזוז",
+    "nameEn": "EZUZ",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1149,
+    "nameHe": "עזר",
+    "nameEn": "EZER",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 837,
+    "nameHe": "עזריאל",
+    "nameEn": "AZRI'EL",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 711,
+    "nameHe": "עזריה",
+    "nameEn": "AZARYA",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 817,
+    "nameHe": "עזריקם",
+    "nameEn": "AZRIQAM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 969,
+    "nameHe": "עטאוונה (שבט)",
+    "nameEn": "ATAWNE",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3658,
+    "nameHe": "עטרת",
+    "nameEn": "ATERET",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 3880,
+    "nameHe": "עיבל",
+    "nameEn": "EVAL",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 1175,
+    "nameHe": "עידן",
+    "nameEn": "IDDAN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 530,
+    "nameHe": "עיילבון",
+    "nameEn": "EILABUN",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 156,
+    "nameHe": "עיינות",
+    "nameEn": "AYANOT",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 511,
+    "nameHe": "עילוט",
+    "nameEn": "ILUT",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 687,
+    "nameHe": "עין איילה",
+    "nameEn": "EN AYYALA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 546,
+    "nameHe": "עין אל-אסד",
+    "nameEn": "EIN AL-ASAD",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 273,
+    "nameHe": "עין גב",
+    "nameEn": "EN GEV",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 2042,
+    "nameHe": "עין גדי",
+    "nameEn": "EN GEDI",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 436,
+    "nameHe": "עין דור",
+    "nameEn": "EN DOR",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1240,
+    "nameHe": "עין הבשור",
+    "nameEn": "EN HABESOR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 74,
+    "nameHe": "עין הוד",
+    "nameEn": "EN HOD",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 167,
+    "nameHe": "עין החורש",
+    "nameEn": "EN HAHORESH",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 289,
+    "nameHe": "עין המפרץ",
+    "nameEn": "EN HAMIFRAZ",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 383,
+    "nameHe": "עין הנציב",
+    "nameEn": "EN HANAZIV",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 367,
+    "nameHe": "עין העמק",
+    "nameEn": "EN HAEMEQ",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 270,
+    "nameHe": "עין השופט",
+    "nameEn": "EN HASHOFET",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 676,
+    "nameHe": "עין השלושה",
+    "nameEn": "EN HASHELOSHA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 157,
+    "nameHe": "עין ורד",
+    "nameEn": "EN WERED",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 4503,
+    "nameHe": "עין זיוון",
+    "nameEn": "EN ZIWAN",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1320,
+    "nameHe": "עין חוד",
+    "nameEn": "EIN HOD",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 1053,
+    "nameHe": "עין חצבה",
+    "nameEn": "EN HAZEVA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 89,
+    "nameHe": "עין חרוד (איחוד)",
+    "nameEn": "EN HAROD (IHUD)",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 82,
+    "nameHe": "עין חרוד (מאוחד)",
+    "nameEn": "EN HAROD(ME'UHAD)",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 806,
+    "nameHe": "עין יהב",
+    "nameEn": "EN YAHAV",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3904,
+    "nameHe": "עין ייטב",
+    "nameEn": "EN YITAV",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 813,
+    "nameHe": "עין יעקב",
+    "nameEn": "EN YA'AQOV",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1056,
+    "nameHe": "עין כרם-ביס חקלאי",
+    "nameEn": "EN KAREM-B.S.HAQLA'I",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 426,
+    "nameHe": "עין כרמל",
+    "nameEn": "EN KARMEL",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 532,
+    "nameHe": "עין מאהל",
+    "nameEn": "EIN MAHEL",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 521,
+    "nameHe": "עין נקובא",
+    "nameEn": "EIN NAQQUBA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 223,
+    "nameHe": "עין עירון",
+    "nameEn": "EN IRON",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 622,
+    "nameHe": "עין צורים",
+    "nameEn": "EN ZURIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 4502,
+    "nameHe": "עין קנייא",
+    "nameEn": "EIN QINIYYE",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 514,
+    "nameHe": "עין ראפה",
+    "nameEn": "EIN RAFA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 139,
+    "nameHe": "עין שמר",
+    "nameEn": "EN SHEMER",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 880,
+    "nameHe": "עין שריד",
+    "nameEn": "EN SARID",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1251,
+    "nameHe": "עין תמר",
+    "nameEn": "EN TAMAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 871,
+    "nameHe": "עינת",
+    "nameEn": "ENAT",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 1187,
+    "nameHe": "עיר אובות",
+    "nameEn": "IR OVOT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 7600,
+    "nameHe": "עכו",
+    "nameEn": "AKKO",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1146,
+    "nameHe": "עלומים",
+    "nameEn": "ALUMIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3765,
+    "nameHe": "עלי",
+    "nameEn": "ELI",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 3727,
+    "nameHe": "עלי זהב",
+    "nameEn": "ALE ZAHAV",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 688,
+    "nameHe": "עלמה",
+    "nameEn": "ALMA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3715,
+    "nameHe": "עלמון",
+    "nameEn": "ALMON",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1212,
+    "nameHe": "עמוקה",
+    "nameEn": "AMUQQA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3824,
+    "nameHe": "עמיחי",
+    "nameEn": "AMMIHAY",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 779,
+    "nameHe": "עמינדב",
+    "nameEn": "AMMINADAV",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 385,
+    "nameHe": "עמיעד",
+    "nameEn": "AMMI'AD",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 318,
+    "nameHe": "עמיעוז",
+    "nameEn": "AMMI'OZ",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 773,
+    "nameHe": "עמיקם",
+    "nameEn": "AMMIQAM",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 319,
+    "nameHe": "עמיר",
+    "nameEn": "AMIR",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3660,
+    "nameHe": "עמנואל",
+    "nameEn": "IMMANU'EL",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 708,
+    "nameHe": "עמקה",
+    "nameEn": "AMQA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3712,
+    "nameHe": "ענב",
+    "nameEn": "ENAV",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 534,
+    "nameHe": "עספיא",
+    "nameEn": "ISIFYA",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 7700,
+    "nameHe": "עפולה",
+    "nameEn": "AFULA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 917,
+    "nameHe": "עצמון שגב",
+    "nameEn": "ATSMON-SEGEV",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 531,
+    "nameHe": "עראבה",
+    "nameEn": "ARRABE",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1246,
+    "nameHe": "עראמשה",
+    "nameEn": "ARAMSHA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1335,
+    "nameHe": "ערב אל נעים",
+    "nameEn": "ARRAB AL NAIM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 2560,
+    "nameHe": "ערד",
+    "nameEn": "ARAD",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 593,
+    "nameHe": "ערוגות",
+    "nameEn": "ARUGOT",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 637,
+    "nameHe": "ערערה",
+    "nameEn": "AR'ARA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 1192,
+    "nameHe": "ערערה-בנגב",
+    "nameEn": "AR'ARA-BANEGEV",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3861,
+    "nameHe": "עשהאל",
+    "nameEn": "ASA'EL",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 591,
+    "nameHe": "עשרת",
+    "nameEn": "ASERET",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 53,
+    "nameHe": "עתלית",
+    "nameEn": "ATLIT",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3748,
+    "nameHe": "עתניאל",
+    "nameEn": "OTNI'EL",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 1151,
+    "nameHe": "פארן",
+    "nameEn": "PARAN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3768,
+    "nameHe": "פדואל",
+    "nameEn": "PEDU'EL",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 750,
+    "nameHe": "פדויים",
+    "nameEn": "PEDUYIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 838,
+    "nameHe": "פדיה",
+    "nameEn": "PEDAYA",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1104,
+    "nameHe": "פוריה - כפר עבודה",
+    "nameEn": "PORIYYA-KEFAR AVODA",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1105,
+    "nameHe": "פוריה - נווה עובד",
+    "nameEn": "PORIYYA-NEWE OVED",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1313,
+    "nameHe": "פוריה עילית",
+    "nameEn": "PORIYYA ILLIT",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 537,
+    "nameHe": "פוריידיס",
+    "nameEn": "FUREIDIS",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 767,
+    "nameHe": "פורת",
+    "nameEn": "PORAT",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 749,
+    "nameHe": "פטיש",
+    "nameEn": "PATTISH",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1185,
+    "nameHe": "פלך",
+    "nameEn": "PELEKH",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 597,
+    "nameHe": "פלמחים",
+    "nameEn": "PALMAHIM",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 3723,
+    "nameHe": "פני חבר",
+    "nameEn": "PENE HEVER",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 3659,
+    "nameHe": "פסגות",
+    "nameEn": "PESAGOT",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 535,
+    "nameHe": "פסוטה",
+    "nameEn": "FASSUTA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 2059,
+    "nameHe": "פעמי תשז",
+    "nameEn": "PA'AME TASHAZ",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3615,
+    "nameHe": "פצאל",
+    "nameEn": "PEZA'EL",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 536,
+    "nameHe": "פקיעין (בוקייעה)",
+    "nameEn": "PEQI'IN (BUQEI'A)",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 281,
+    "nameHe": "פקיעין חדשה",
+    "nameEn": "PEQI'IN HADASHA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 7800,
+    "nameHe": "פרדס חנה-כרכור",
+    "nameEn": "PARDES HANNA-KARKUR",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 171,
+    "nameHe": "פרדסיה",
+    "nameEn": "PARDESIYYA",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 599,
+    "nameHe": "פרוד",
+    "nameEn": "PAROD",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 2053,
+    "nameHe": "פרזון",
+    "nameEn": "PERAZON",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1231,
+    "nameHe": "פרי גן",
+    "nameEn": "PERI GAN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3894,
+    "nameHe": "פרשים",
+    "nameEn": "PARASHIM",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 7900,
+    "nameHe": "פתח תקווה",
+    "nameEn": "PETAH TIQWA",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 839,
+    "nameHe": "פתחיה",
+    "nameEn": "PETAHYA",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 413,
+    "nameHe": "צאלים",
+    "nameEn": "ZE'ELIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1180,
+    "nameHe": "צביה",
+    "nameEn": "ZVIYYA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1213,
+    "nameHe": "צבעון",
+    "nameEn": "ZIV'ON",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 465,
+    "nameHe": "צובה",
+    "nameEn": "ZOVA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1136,
+    "nameHe": "צוחר",
+    "nameEn": "ZOHAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1111,
+    "nameHe": "צופיה",
+    "nameEn": "ZOFIYYA",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 3791,
+    "nameHe": "צופים",
+    "nameEn": "ZUFIN",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 198,
+    "nameHe": "צופית",
+    "nameEn": "ZOFIT",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 1150,
+    "nameHe": "צופר",
+    "nameEn": "ZOFAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1102,
+    "nameHe": "צוקי ים",
+    "nameEn": "SHOSHANNAT HAAMAQIM(",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1262,
+    "nameHe": "צוקים",
+    "nameEn": "MAHANE BILDAD",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1113,
+    "nameHe": "צור הדסה",
+    "nameEn": "ZUR HADASSA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1345,
+    "nameHe": "צור יצחק",
+    "nameEn": "ZUR YIZHAQ",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 276,
+    "nameHe": "צור משה",
+    "nameEn": "ZUR MOSHE",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 1148,
+    "nameHe": "צור נתן",
+    "nameEn": "ZUR NATAN",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 774,
+    "nameHe": "צוריאל",
+    "nameEn": "ZURI'EL",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1221,
+    "nameHe": "צורית",
+    "nameEn": "ZURIT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 613,
+    "nameHe": "ציפורי",
+    "nameEn": "ZIPPORI",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 796,
+    "nameHe": "צלפון",
+    "nameEn": "ZELAFON",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 636,
+    "nameHe": "צנדלה",
+    "nameEn": "SANDALA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 594,
+    "nameHe": "צפריה",
+    "nameEn": "ZAFRIYYA",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1079,
+    "nameHe": "צפרירים",
+    "nameEn": "ZAFRIRIM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 8000,
+    "nameHe": "צפת",
+    "nameEn": "ZEFAT",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 612,
+    "nameHe": "צרופה",
+    "nameEn": "ZERUFA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 567,
+    "nameHe": "צרעה",
+    "nameEn": "ZOR'A",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1234,
+    "nameHe": "קבועה (שבט)",
+    "nameEn": "QABBO'A",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 334,
+    "nameHe": "קבוצת יבנה",
+    "nameEn": "QEVUZAT YAVNE",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 3557,
+    "nameHe": "קדומים",
+    "nameEn": "QEDUMIM",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 195,
+    "nameHe": "קדימה-צורן",
+    "nameEn": "QADIMA-ZORAN",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 3895,
+    "nameHe": "קדם ערבה",
+    "nameEn": "KEDEM ARAVA",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 392,
+    "nameHe": "קדמה",
+    "nameEn": "QEDMA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 4025,
+    "nameHe": "קדמת צבי",
+    "nameEn": "QIDMAT ZEVI",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 3781,
+    "nameHe": "קדר",
+    "nameEn": "QEDAR",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 615,
+    "nameHe": "קדרון",
+    "nameEn": "QIDRON",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 1211,
+    "nameHe": "קדרים",
+    "nameEn": "QADDARIM",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 964,
+    "nameHe": "קודייראת א-צאנע(שבט)",
+    "nameEn": "QUDEIRAT AS-SANI",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 972,
+    "nameHe": "קוואעין (שבט)",
+    "nameEn": "QAWA'IN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 766,
+    "nameHe": "קוממיות",
+    "nameEn": "QOMEMIYYUT",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1179,
+    "nameHe": "קורנית",
+    "nameEn": "QORANIT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1052,
+    "nameHe": "קטורה",
+    "nameEn": "QETURA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1167,
+    "nameHe": "קיסריה",
+    "nameEn": "QESARIYYA",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 414,
+    "nameHe": "קלחים",
+    "nameEn": "QELAHIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3601,
+    "nameHe": "קליה",
+    "nameEn": "QALYA",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 638,
+    "nameHe": "קלנסווה",
+    "nameEn": "QALANSAWE",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 4024,
+    "nameHe": "קלע",
+    "nameEn": "QELA",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 1243,
+    "nameHe": "קציר",
+    "nameEn": "QAZIR",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 1347,
+    "nameHe": "קצר א-סר",
+    "nameEn": null,
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 4100,
+    "nameHe": "קצרין",
+    "nameEn": "QAZRIN",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 2620,
+    "nameHe": "קרית אונו",
+    "nameEn": "QIRYAT ONO",
+    "regionCode": 52,
+    "regionName": "רמת גן"
+  },
+  {
+    "code": 3611,
+    "nameHe": "קרית ארבע",
+    "nameEn": "QIRYAT ARBA",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 6800,
+    "nameHe": "קרית אתא",
+    "nameEn": "QIRYAT ATTA",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 9500,
+    "nameHe": "קרית ביאליק",
+    "nameEn": "QIRYAT BIALIK",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 2630,
+    "nameHe": "קרית גת",
+    "nameEn": "QIRYAT GAT",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 2300,
+    "nameHe": "קרית טבעון",
+    "nameEn": "QIRYAT TIV'ON",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 9600,
+    "nameHe": "קרית ים",
+    "nameEn": "QIRYAT YAM",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 1137,
+    "nameHe": "קרית יערים",
+    "nameEn": "QIRYAT YE'ARIM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 2039,
+    "nameHe": "קרית יערים(מוסד)",
+    "nameEn": "QIRYAT YE'ARIM(INSTI",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 8200,
+    "nameHe": "קרית מוצקין",
+    "nameEn": "QIRYAT MOTZKIN",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 1034,
+    "nameHe": "קרית מלאכי",
+    "nameEn": "QIRYAT MAL'AKHI",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 3746,
+    "nameHe": "קרית נטפים",
+    "nameEn": "QIRYAT NETAFIM",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 78,
+    "nameHe": "קרית ענבים",
+    "nameEn": "QIRYAT ANAVIM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 469,
+    "nameHe": "קרית עקרון",
+    "nameEn": "QIRYAT EQRON",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 412,
+    "nameHe": "קרית שלמה",
+    "nameEn": "QIRYAT SHELOMO",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 2800,
+    "nameHe": "קרית שמונה",
+    "nameEn": "QIRYAT SHEMONA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3640,
+    "nameHe": "קרני שומרון",
+    "nameEn": "QARNE SHOMERON",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 4006,
+    "nameHe": "קשת",
+    "nameEn": "QESHET",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 543,
+    "nameHe": "ראמה",
+    "nameEn": "RAME",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1334,
+    "nameHe": "ראס אל-עין",
+    "nameEn": "RAS AL-EIN",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 990,
+    "nameHe": "ראס עלי",
+    "nameEn": "RAS ALI",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 2640,
+    "nameHe": "ראש העין",
+    "nameEn": "ROSH HAAYIN",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 26,
+    "nameHe": "ראש פינה",
+    "nameEn": "ROSH PINNA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3602,
+    "nameHe": "ראש צורים",
+    "nameEn": "ROSH ZURIM",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 8300,
+    "nameHe": "ראשון לציון",
+    "nameEn": "RISHON LEZIYYON",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 3795,
+    "nameHe": "רבבה",
+    "nameEn": "REVAVA",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 564,
+    "nameHe": "רבדים",
+    "nameEn": "REVADIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 354,
+    "nameHe": "רביבים",
+    "nameEn": "REVIVIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1225,
+    "nameHe": "רביד",
+    "nameEn": "RAVID",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 390,
+    "nameHe": "רגבה",
+    "nameEn": "REGBA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 444,
+    "nameHe": "רגבים",
+    "nameEn": "REGAVIM",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 1161,
+    "nameHe": "רהט",
+    "nameEn": "RAHAT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 2051,
+    "nameHe": "רווחה",
+    "nameEn": "REWAHA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 2016,
+    "nameHe": "רוויה",
+    "nameEn": "REWAYA",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1341,
+    "nameHe": "רוח מדבר",
+    "nameEn": "RUAH MIDBAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 362,
+    "nameHe": "רוחמה",
+    "nameEn": "RUHAMA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 539,
+    "nameHe": "רומאנה",
+    "nameEn": "RUMMANE",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 997,
+    "nameHe": "רומת הייב",
+    "nameEn": "RUMAT HEIB",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 3619,
+    "nameHe": "רועי",
+    "nameEn": "RO'I",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 3782,
+    "nameHe": "רותם",
+    "nameEn": "ROTEM",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 854,
+    "nameHe": "רחוב",
+    "nameEn": "REHOV",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 8400,
+    "nameHe": "רחובות",
+    "nameEn": "REHOVOT",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 3822,
+    "nameHe": "רחלים",
+    "nameEn": "REHELIM",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 540,
+    "nameHe": "ריחאניה",
+    "nameEn": "REIHANIYYE",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3568,
+    "nameHe": "ריחן",
+    "nameEn": "REHAN",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 542,
+    "nameHe": "ריינה",
+    "nameEn": "REINE",
+    "regionCode": 25,
+    "regionName": "נצרת"
+  },
+  {
+    "code": 3565,
+    "nameHe": "רימונים",
+    "nameEn": "RIMMONIM",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 616,
+    "nameHe": "רינתיה",
+    "nameEn": "RINNATYA",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 922,
+    "nameHe": "רכסים",
+    "nameEn": "REKHASIM",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 1069,
+    "nameHe": "רם-און",
+    "nameEn": "RAM-ON",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 4702,
+    "nameHe": "רמות",
+    "nameEn": "RAMOT",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 206,
+    "nameHe": "רמות השבים",
+    "nameEn": "RAMOT HASHAVIM",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 735,
+    "nameHe": "רמות מאיר",
+    "nameEn": "RAMOT ME'IR",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 445,
+    "nameHe": "רמות מנשה",
+    "nameEn": "RAMOT MENASHE",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 372,
+    "nameHe": "רמות נפתלי",
+    "nameEn": "RAMOT NAFTALI",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 8500,
+    "nameHe": "רמלה",
+    "nameEn": "RAMLA",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 8600,
+    "nameHe": "רמת גן",
+    "nameEn": "RAMAT GAN",
+    "regionCode": 52,
+    "regionName": "רמת גן"
+  },
+  {
+    "code": 135,
+    "nameHe": "רמת דוד",
+    "nameEn": "RAMAT DAWID",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 184,
+    "nameHe": "רמת הכובש",
+    "nameEn": "RAMAT HAKOVESH",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 4029,
+    "nameHe": "רמת הנשיא טראמפ",
+    "nameEn": "PRESIDENT TRUMP HEI",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 335,
+    "nameHe": "רמת השופט",
+    "nameEn": "RAMAT HASHOFET",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 2650,
+    "nameHe": "רמת השרון",
+    "nameEn": "RAMAT HASHARON",
+    "regionCode": 51,
+    "regionName": "תל אביב"
+  },
+  {
+    "code": 178,
+    "nameHe": "רמת יוחנן",
+    "nameEn": "RAMAT YOHANAN",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 122,
+    "nameHe": "רמת ישי",
+    "nameEn": "RAMAT YISHAY",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 4701,
+    "nameHe": "רמת מגשימים",
+    "nameEn": "RAMAT MAGSHIMIM",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 339,
+    "nameHe": "רמת צבי",
+    "nameEn": "RAMAT ZEVI",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 460,
+    "nameHe": "רמת רזיאל",
+    "nameEn": "RAMAT RAZI'EL",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 127,
+    "nameHe": "רמת רחל",
+    "nameEn": "RAMAT RAHEL",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 789,
+    "nameHe": "רנן",
+    "nameEn": "RANNEN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 713,
+    "nameHe": "רעים",
+    "nameEn": "RE'IM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 8700,
+    "nameHe": "רעננה",
+    "nameEn": "RA'ANANA",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 1228,
+    "nameHe": "רקפת",
+    "nameEn": "RAQEFET",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 247,
+    "nameHe": "רשפון",
+    "nameEn": "RISHPON",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 437,
+    "nameHe": "רשפים",
+    "nameEn": "RESHAFIM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1260,
+    "nameHe": "רתמים",
+    "nameEn": "RETAMIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3711,
+    "nameHe": "שא-נור",
+    "nameEn": "SA-NUR",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 324,
+    "nameHe": "שאר ישוב",
+    "nameEn": "SHE'AR YASHUV",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3872,
+    "nameHe": "שבות רחל",
+    "nameEn": "SHVUT RAHEL",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1377,
+    "nameHe": "שבי דרום",
+    "nameEn": "SHAVE DAROM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 282,
+    "nameHe": "שבי ציון",
+    "nameEn": "SHAVE ZIYYON",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3571,
+    "nameHe": "שבי שומרון",
+    "nameEn": "SHAVE SHOMERON",
+    "regionCode": 72,
+    "regionName": "שכם"
+  },
+  {
+    "code": 913,
+    "nameHe": "שבלי - אום אל-גנם",
+    "nameEn": "SHIBLI",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1286,
+    "nameHe": "שגב-שלום",
+    "nameEn": "SEGEV-SHALOM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 721,
+    "nameHe": "שדה אילן",
+    "nameEn": "SEDE ILAN",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 304,
+    "nameHe": "שדה אליהו",
+    "nameEn": "SEDE ELIYYAHU",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 861,
+    "nameHe": "שדה אליעזר",
+    "nameEn": "SEDE ELI'EZER",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 885,
+    "nameHe": "שדה בוקר",
+    "nameEn": "SEDE BOQER",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 36,
+    "nameHe": "שדה דוד",
+    "nameEn": "SEDE DAWID",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 284,
+    "nameHe": "שדה ורבורג",
+    "nameEn": "SEDE WARBURG",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 293,
+    "nameHe": "שדה יואב",
+    "nameEn": "SEDE YO'AV",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 142,
+    "nameHe": "שדה יעקב",
+    "nameEn": "SEDE YA'AQOV",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 2008,
+    "nameHe": "שדה יצחק",
+    "nameEn": "SEDE YIZHAQ",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 18,
+    "nameHe": "שדה משה",
+    "nameEn": "SEDE MOSHE",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 259,
+    "nameHe": "שדה נחום",
+    "nameEn": "SEDE NAHUM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 329,
+    "nameHe": "שדה נחמיה",
+    "nameEn": "SEDE NEHEMYA",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 1058,
+    "nameHe": "שדה ניצן",
+    "nameEn": "SEDE NIZZAN",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 739,
+    "nameHe": "שדה עוזיהו",
+    "nameEn": "SEDE UZZIYYAHU",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 2049,
+    "nameHe": "שדה צבי",
+    "nameEn": "SEDE ZEVI",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 327,
+    "nameHe": "שדות ים",
+    "nameEn": "SEDOT YAM",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 27,
+    "nameHe": "שדות מיכה",
+    "nameEn": "SEDOT MIKHA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1223,
+    "nameHe": "שדי אברהם",
+    "nameEn": "SEDE AVRAHAM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 2015,
+    "nameHe": "שדי חמד",
+    "nameEn": "SEDE HEMED",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
+    "code": 2057,
+    "nameHe": "שדי תרומות",
+    "nameEn": "SEDE TERUMOT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 555,
+    "nameHe": "שדמה",
+    "nameEn": "SHEDEMA",
+    "regionCode": 44,
+    "regionName": "רחובות"
+  },
+  {
+    "code": 306,
+    "nameHe": "שדמות דבורה",
+    "nameEn": "SHADMOT DEVORA",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 3578,
+    "nameHe": "שדמות מחולה",
+    "nameEn": "SHADMOT MEHOLA",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1031,
+    "nameHe": "שדרות",
+    "nameEn": "SEDEROT",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 741,
+    "nameHe": "שואבה",
+    "nameEn": "SHO'EVA",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 761,
+    "nameHe": "שובה",
+    "nameEn": "SHUVA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 394,
+    "nameHe": "שובל",
+    "nameEn": "SHOVAL",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1304,
+    "nameHe": "שוהם",
+    "nameEn": "SHOHAM",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 614,
+    "nameHe": "שומרה",
+    "nameEn": "SHOMERA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1265,
+    "nameHe": "שומריה",
+    "nameEn": "SHOMERIYYA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 415,
+    "nameHe": "שוקדה",
+    "nameEn": "SHOQEDA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 456,
+    "nameHe": "שורש",
+    "nameEn": "SHORESH",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 1235,
+    "nameHe": "שורשים",
+    "nameEn": "SHORASHIM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 224,
+    "nameHe": "שושנת העמקים",
+    "nameEn": "SHOSHANNAT HAAMAQIM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 527,
+    "nameHe": "שזור",
+    "nameEn": "SHEZOR",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 7,
+    "nameHe": "שחר",
+    "nameEn": "SHAHAR",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1266,
+    "nameHe": "שחרות",
+    "nameEn": "SHAHARUT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3868,
+    "nameHe": "שחרית",
+    "nameEn": "SHAHARIT",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 865,
+    "nameHe": "שיבולים",
+    "nameEn": "SHIBBOLIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1378,
+    "nameHe": "שיזף",
+    "nameEn": "SHEZAF",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1267,
+    "nameHe": "שיטים",
+    "nameEn": "NAHAL SHITTIM",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 658,
+    "nameHe": "שייח' דנון",
+    "nameEn": "SHEIKH DANNUN",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3641,
+    "nameHe": "שילה",
+    "nameEn": "SHILO",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 1165,
+    "nameHe": "שילת",
+    "nameEn": "SHILAT",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 1160,
+    "nameHe": "שכניה",
+    "nameEn": "SHEKHANYA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 873,
+    "nameHe": "שלווה",
+    "nameEn": "SHALWA",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 1373,
+    "nameHe": "שלווה במדבר",
+    "nameEn": "SHALVA BAMIDBAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 439,
+    "nameHe": "שלוחות",
+    "nameEn": "SHELUHOT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 812,
+    "nameHe": "שלומי",
+    "nameEn": "SHELOMI",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1364,
+    "nameHe": "שלומית",
+    "nameEn": "SHLOMIT",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 366,
+    "nameHe": "שמיר",
+    "nameEn": "SHAMIR",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 3784,
+    "nameHe": "שמעה",
+    "nameEn": "SHIM'A",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 432,
+    "nameHe": "שמרת",
+    "nameEn": "SHAMERAT",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 1337,
+    "nameHe": "שמשית",
+    "nameEn": "SHIMSHIT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 1287,
+    "nameHe": "שני",
+    "nameEn": "SHANI",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1132,
+    "nameHe": "שניר",
+    "nameEn": "SENIR",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 538,
+    "nameHe": "שעב",
+    "nameEn": "SHA'AB",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 4009,
+    "nameHe": "שעל",
+    "nameEn": "SHA'AL",
+    "regionCode": 29,
+    "regionName": "גולן"
+  },
+  {
+    "code": 856,
+    "nameHe": "שעלבים",
+    "nameEn": "SHA'ALVIM",
+    "regionCode": 43,
+    "regionName": "רמלה"
+  },
+  {
+    "code": 661,
+    "nameHe": "שער אפרים",
+    "nameEn": "SHA'AR EFRAYIM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 264,
+    "nameHe": "שער הגולן",
+    "nameEn": "SHA'AR HAGOLAN",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 237,
+    "nameHe": "שער העמקים",
+    "nameEn": "SHA'AR HAAMAQIM",
+    "regionCode": 31,
+    "regionName": "חיפה"
+  },
+  {
+    "code": 921,
+    "nameHe": "שער מנשה",
+    "nameEn": "SHA'AR MENASHE",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 3826,
+    "nameHe": "שער שומרון",
+    "nameEn": "SHA'AR SHOMRON",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
+    "code": 232,
+    "nameHe": "שפיים",
+    "nameEn": "SHEFAYIM",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 692,
+    "nameHe": "שפיר",
+    "nameEn": "SHAFIR",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 846,
+    "nameHe": "שפר",
+    "nameEn": "SHEFER",
+    "regionCode": 21,
+    "regionName": "צפת"
+  },
+  {
+    "code": 8800,
+    "nameHe": "שפרעם",
+    "nameEn": "SHEFAR'AM",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3649,
+    "nameHe": "שקד",
+    "nameEn": "SHAQED",
+    "regionCode": 71,
+    "regionName": "ג'נין"
+  },
+  {
+    "code": 1233,
+    "nameHe": "שקף",
+    "nameEn": "SHEQEF",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 292,
+    "nameHe": "שרונה",
+    "nameEn": "SHARONA",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1114,
+    "nameHe": "שריגים (לי-און)",
+    "nameEn": "LI-ON",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 126,
+    "nameHe": "שריד",
+    "nameEn": "SARID",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 398,
+    "nameHe": "שרשרת",
+    "nameEn": "SHARSHERET",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1045,
+    "nameHe": "שתולה",
+    "nameEn": "SHETULA",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 763,
+    "nameHe": "שתולים",
+    "nameEn": "SHETULIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 2062,
+    "nameHe": "תאשור",
+    "nameEn": "TE'ASHUR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 2061,
+    "nameHe": "תדהר",
+    "nameEn": "TIDHAR",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1172,
+    "nameHe": "תובל",
+    "nameEn": "TUVAL",
+    "regionCode": 24,
+    "regionName": "עכו"
+  },
+  {
+    "code": 3558,
+    "nameHe": "תומר",
+    "nameEn": "TOMER",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1083,
+    "nameHe": "תושיה",
+    "nameEn": "TUSHIYYA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 163,
+    "nameHe": "תימורים",
+    "nameEn": "TIMMORIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 10,
+    "nameHe": "תירוש",
+    "nameEn": "TIROSH",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 5000,
+    "nameHe": "תל אביב - יפו",
+    "nameEn": "TEL AVIV - YAFO",
+    "regionCode": 51,
+    "regionName": "תל אביב"
+  },
+  {
+    "code": 84,
+    "nameHe": "תל יוסף",
+    "nameEn": "TEL YOSEF",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 287,
+    "nameHe": "תל יצחק",
+    "nameEn": "TEL YIZHAQ",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 154,
+    "nameHe": "תל מונד",
+    "nameEn": "TEL MOND",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 103,
+    "nameHe": "תל עדשים",
+    "nameEn": "TEL ADASHIM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3815,
+    "nameHe": "תל ציון",
+    "nameEn": "TEL TSIYON",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
+  },
+  {
+    "code": 719,
+    "nameHe": "תל קציר",
+    "nameEn": "TEL QAZIR",
+    "regionCode": 22,
+    "regionName": "כנרת"
+  },
+  {
+    "code": 1054,
+    "nameHe": "תל שבע",
+    "nameEn": "TEL SHEVA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1283,
+    "nameHe": "תל תאומים",
+    "nameEn": "TEL TE'OMIM",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 3719,
+    "nameHe": "תלם",
+    "nameEn": "TELEM",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
+    "code": 1051,
+    "nameHe": "תלמי אליהו",
+    "nameEn": "TALME ELIYYAHU",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 2003,
+    "nameHe": "תלמי אלעזר",
+    "nameEn": "TALME EL'AZAR",
+    "regionCode": 32,
+    "regionName": "חדרה"
+  },
+  {
+    "code": 2050,
+    "nameHe": "תלמי בילו",
+    "nameEn": "TALME BILU",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1237,
+    "nameHe": "תלמי יוסף",
+    "nameEn": "TALME YOSEF",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 727,
+    "nameHe": "תלמי יחיאל",
+    "nameEn": "TALME YEHI'EL",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 744,
+    "nameHe": "תלמי יפה",
+    "nameEn": "TALME YAFE",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 814,
+    "nameHe": "תלמים",
+    "nameEn": "TELAMIM",
+    "regionCode": 61,
+    "regionName": "אשקלון"
+  },
+  {
+    "code": 3878,
+    "nameHe": "תמרה",
+    "nameEn": "TMARA",
+    "regionCode": 75,
+    "regionName": "ירדן )יריחו("
+  },
+  {
+    "code": 1244,
+    "nameHe": "תמרת",
+    "nameEn": "TIMRAT",
+    "regionCode": 23,
+    "regionName": "עפולה"
+  },
+  {
+    "code": 2002,
+    "nameHe": "תנובות",
+    "nameEn": "TENUVOT",
+    "regionCode": 41,
+    "regionName": "השרון"
+  },
+  {
+    "code": 752,
+    "nameHe": "תעוז",
+    "nameEn": "TA'OZ",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  },
+  {
+    "code": 709,
+    "nameHe": "תפרח",
+    "nameEn": "TIFRAH",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 665,
+    "nameHe": "תקומה",
+    "nameEn": "TEQUMA",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 3563,
+    "nameHe": "תקוע",
+    "nameEn": "TEQOA",
+    "regionCode": 76,
+    "regionName": "בית לחם"
+  },
+  {
+    "code": 970,
+    "nameHe": "תראבין א-צאנע (שבט)",
+    "nameEn": "TARABIN AS-SANI",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 1346,
+    "nameHe": "תראבין א-צאנע(ישוב)",
+    "nameEn": "TARABIN AS-SANI",
+    "regionCode": 62,
+    "regionName": "באר שבע"
+  },
+  {
+    "code": 778,
+    "nameHe": "תרום",
+    "nameEn": "TARUM",
+    "regionCode": 11,
+    "regionName": "ירושלים"
+  }
+]

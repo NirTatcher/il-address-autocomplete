@@ -1,0 +1,63 @@
+[
+  {
+    "code": 106,
+    "nameHe": "גפן",
+    "aliases": [
+      "הגפן"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "האלון",
+    "aliases": [
+      "אלון"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הארז",
+    "aliases": [
+      "ארז"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "הרימון",
+    "aliases": [
+      "רימון"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "התאנה",
+    "aliases": [
+      "תאנה"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "חרוב",
+    "aliases": [
+      "החרוב"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "יערה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "שקד",
+    "aliases": [
+      "השקד"
+    ]
+  }
+]

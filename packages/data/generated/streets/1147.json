@@ -1,0 +1,54 @@
+[
+  {
+    "code": 104,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הרימון",
+    "aliases": [
+      "רימון"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "השקד",
+    "aliases": [
+      "שקד"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "התאנה",
+    "aliases": [
+      "תאנה"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "התמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "נטועה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "שבעת המינים",
+    "aliases": []
+  }
+]

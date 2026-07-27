@@ -1,0 +1,86 @@
+[
+  {
+    "code": 105,
+    "nameHe": "בן גמלא יהושע",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "דרך השדות",
+    "aliases": [
+      "הדרים",
+      "ההדרים"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "דרך השרון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "האלונים",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הבנים",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הלימון",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "המיסדים",
+    "aliases": [
+      "המייסדים"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "המנצח",
+    "aliases": [
+      "מנצח"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הפרחים",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הצנחנים",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר מלל",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "מוסד יד אסא",
+    "aliases": [
+      "יד אסא ביח"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "עין חי",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "שרת",
+    "aliases": []
+  }
+]

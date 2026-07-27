@@ -1,0 +1,73 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "אבן ספיר",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "אגט",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "אודם",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "גביש",
+    "aliases": [
+      "הגביש"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "גרניט",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "החרסית",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "חלמיש",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "טופז",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "יהלום",
+    "aliases": [
+      "היהלום"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "לשם",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "צור",
+    "aliases": [
+      "הצור"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "שוהם",
+    "aliases": []
+  }
+]

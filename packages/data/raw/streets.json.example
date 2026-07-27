@@ -1,0 +1,35 @@
+[
+  {
+    "_id": 1,
+    "region_code": 5,
+    "region_name": "תל אביב ",
+    "city_code": 5000,
+    "city_name": "תל אביב - יפו ",
+    "street_code": "100 ",
+    "street_name": "דיזנגוף ",
+    "street_name_status": "official ",
+    "official_code": 100
+  },
+  {
+    "_id": 2,
+    "region_code": 5,
+    "region_name": "תל אביב ",
+    "city_code": 5000,
+    "city_name": "תל אביב - יפו ",
+    "street_code": "100 ",
+    "street_name": "דיזינגוף ",
+    "street_name_status": "synonym of 100 ",
+    "official_code": 100
+  },
+  {
+    "_id": 3,
+    "region_code": 1,
+    "region_name": "ירושלים ",
+    "city_code": 3000,
+    "city_name": "ירושלים ",
+    "street_code": "200 ",
+    "street_name": "יפו ",
+    "street_name_status": "official ",
+    "official_code": 200
+  }
+]

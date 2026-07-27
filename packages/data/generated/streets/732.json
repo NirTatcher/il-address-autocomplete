@@ -1,0 +1,47 @@
+[
+  {
+    "code": 103,
+    "nameHe": "בני צפת",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "המושבה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "המעיין",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "העמק",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "ורד הירדן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "משמר הירדן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "נוף הגולן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "עטרת",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "שושנת הירדן",
+    "aliases": []
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "אחיעזר",
+    "aliases": [
+      "מושב אחיעזר"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "האתרוג",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "יסמין",
+    "aliases": []
+  }
+]

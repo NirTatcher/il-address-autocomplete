@@ -1,0 +1,62 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "אבטליון",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "בית הבד",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "בראשית",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "דרך ההר",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "האקליפטוס",
+    "aliases": [
+      "אקליפטוס"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הבקעה",
+    "aliases": [
+      "בקעה"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "החורש",
+    "aliases": [
+      "חורש"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "מצפה הימים",
+    "aliases": [
+      "מצפה ימים"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "code": 101,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר בן נון",
+    "aliases": [
+      "בן נון"
+    ]
+  }
+]

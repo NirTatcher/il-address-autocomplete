@@ -1,0 +1,134 @@
+[
+  {
+    "code": 103,
+    "nameHe": "אודם",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "אופיר",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "בזלת",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "בריל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "גביש",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "גזית",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "גילון",
+    "aliases": [
+      "יובלים"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "גרניט",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "חושן",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "טופז",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "טורקיז",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "יהלום",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "לשם",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "מצפה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "ענבר",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "פנינה",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "צור",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "קוורץ",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "קורל",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "שוהם",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "שחם",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "שנהב",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "תרשיש",
+    "aliases": []
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "גן חיים",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "דרך המלך",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "האיריס",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הגפן",
+    "aliases": [
+      "סמ הגפן"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הכלנית",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הנרקיס",
+    "aliases": [
+      "נרקיס"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "הערבה",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הראשונים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הרימון",
+    "aliases": [
+      "הרמון"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הרקפת",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "השושן",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "נורית",
+    "aliases": [
+      "הנורית"
+    ]
+  }
+]

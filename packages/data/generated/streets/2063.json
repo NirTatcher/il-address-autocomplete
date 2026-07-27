@@ -1,0 +1,61 @@
+[
+  {
+    "code": 105,
+    "nameHe": "בציר",
+    "aliases": [
+      "הבציר"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "דישון",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "היקב",
+    "aliases": [
+      "יקב"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "זמורה",
+    "aliases": [
+      "הזמורה"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "כרמים",
+    "aliases": [
+      "הכרמים"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "סמדר",
+    "aliases": [
+      "הסמדר"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "שריג",
+    "aliases": [
+      "השריג"
+    ]
+  }
+]

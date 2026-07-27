@@ -1,0 +1,128 @@
+[
+  {
+    "code": 102,
+    "nameHe": "הגבעה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הדבש",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ההדרים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "המחרשה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הפעמון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הפקאן",
+    "aliases": [
+      "הפקן"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "הפרדסים",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הפרחים",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "השעורה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "חבורת הדרום",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר בילו",
+    "aliases": [
+      "בילו א",
+      "בילו ב",
+      "הרחבה",
+      "כפר בילו א",
+      "כפר בילו ב",
+      "כפר בילו חדש",
+      "שכ ב",
+      "שכון ב"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "סמ גפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "סמ חיטה",
+    "aliases": [
+      "חיטה"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "סמ רימון",
+    "aliases": [
+      "רימון"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "סמ תמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 6500,
+    "nameHe": "שיכון בנים",
+    "aliases": [
+      "שכון בנים"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "תלמים",
+    "aliases": []
+  }
+]

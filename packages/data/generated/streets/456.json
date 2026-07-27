@@ -1,0 +1,76 @@
+[
+  {
+    "code": 102,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הלוטם",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הפסגה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "השיזף",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "טיילת שלום",
+    "aliases": [
+      "טיילת השלום"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "לבונה",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "מלון שורש",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "שורש",
+    "aliases": [
+      "שרש"
+    ]
+  }
+]

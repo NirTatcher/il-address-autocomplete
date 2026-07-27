@@ -1,0 +1,39 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "ארסוף",
+    "aliases": [
+      "ארשף"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הגלים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "מבוא הים",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "מול הים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "נחשול",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "צדף ים",
+    "aliases": []
+  }
+]

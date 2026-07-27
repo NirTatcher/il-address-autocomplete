@@ -1,0 +1,92 @@
+[
+  {
+    "code": 101,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "היוגב",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "היסמין",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הכלנית",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "המייסדים",
+    "aliases": [
+      "המיסדים"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "הנוטע",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הנרקיס",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הצבעוני",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הרימון",
+    "aliases": [
+      "סמ הרימון"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הרקפות",
+    "aliases": [
+      "הרקפת"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "השחר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "מזור",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "סמ האירוס",
+    "aliases": [
+      "האירוס"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "סמ הבוקרים",
+    "aliases": [
+      "הבוקרים"
+    ]
+  }
+]

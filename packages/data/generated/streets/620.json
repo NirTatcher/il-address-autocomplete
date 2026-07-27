@@ -1,0 +1,127 @@
+[
+  {
+    "code": 115,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "האשל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הורד",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "החצב",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "החרצית",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "היקינטון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הנורית",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הנרקיס",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הסתוונית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הצבעוני",
+    "aliases": [
+      "צבעוני"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הרימון",
+    "aliases": [
+      "הרמון",
+      "רימון"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "התות",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "משואות יצחק",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "סמטת האיריס",
+    "aliases": [
+      "האיריס",
+      "סמ האיריס"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "סמטת החבצלת",
+    "aliases": [
+      "חבצלת",
+      "סמ חבצלת"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "סמטת השושן",
+    "aliases": [
+      "השושן",
+      "סמ השושן"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "סמטת כלנית",
+    "aliases": [
+      "כלנית",
+      "סמ כלנית"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "סמטת רקפת",
+    "aliases": [
+      "סמ רקפת",
+      "רקפת"
+    ]
+  }
+]

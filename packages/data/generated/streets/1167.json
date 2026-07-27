@@ -1,0 +1,900 @@
+[
+  {
+    "code": 189,
+    "nameHe": "אביב",
+    "aliases": []
+  },
+  {
+    "code": 161,
+    "nameHe": "אדוה",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "אודם",
+    "aliases": [
+      "האודם"
+    ]
+  },
+  {
+    "code": 212,
+    "nameHe": "אודם-פארק התעשייה",
+    "aliases": []
+  },
+  {
+    "code": 156,
+    "nameHe": "אור",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "איריס",
+    "aliases": []
+  },
+  {
+    "code": 202,
+    "nameHe": "אלון התבור",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 204,
+    "nameHe": "אלת המסטיק",
+    "aliases": []
+  },
+  {
+    "code": 187,
+    "nameHe": "אקוודוקט",
+    "aliases": []
+  },
+  {
+    "code": 195,
+    "nameHe": "ארבע העונות",
+    "aliases": [
+      "ארבע עונות"
+    ]
+  },
+  {
+    "code": 134,
+    "nameHe": "אשכולית",
+    "aliases": []
+  },
+  {
+    "code": 176,
+    "nameHe": "בז",
+    "aliases": [
+      "הבז"
+    ]
+  },
+  {
+    "code": 230,
+    "nameHe": "בזלת",
+    "aliases": []
+  },
+  {
+    "code": 200,
+    "nameHe": "ברק",
+    "aliases": []
+  },
+  {
+    "code": 232,
+    "nameHe": "ברקן",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 213,
+    "nameHe": "ברקת-פארק התעשייה",
+    "aliases": []
+  },
+  {
+    "code": 241,
+    "nameHe": "גיא",
+    "aliases": [
+      "הגיא"
+    ]
+  },
+  {
+    "code": 251,
+    "nameHe": "גל",
+    "aliases": [
+      "הגל"
+    ]
+  },
+  {
+    "code": 6513,
+    "nameHe": "גני קיסריה",
+    "aliases": []
+  },
+  {
+    "code": 223,
+    "nameHe": "גרניט",
+    "aliases": []
+  },
+  {
+    "code": 162,
+    "nameHe": "דוגית",
+    "aliases": []
+  },
+  {
+    "code": 173,
+    "nameHe": "דוכיפת",
+    "aliases": []
+  },
+  {
+    "code": 174,
+    "nameHe": "דרור",
+    "aliases": []
+  },
+  {
+    "code": 250,
+    "nameHe": "דרך הים",
+    "aliases": [
+      "הים"
+    ]
+  },
+  {
+    "code": 143,
+    "nameHe": "דרך פל-ים",
+    "aliases": [
+      "דרך פל ים",
+      "הפל-ים",
+      "פל ים",
+      "פל-ים"
+    ]
+  },
+  {
+    "code": 144,
+    "nameHe": "דרך קיסריה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "האגוז",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "האגס",
+    "aliases": []
+  },
+  {
+    "code": 228,
+    "nameHe": "האורג",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 201,
+    "nameHe": "האשל",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "האתרוג",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הברוש",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 151,
+    "nameHe": "הגשם",
+    "aliases": []
+  },
+  {
+    "code": 164,
+    "nameHe": "הדולב",
+    "aliases": [
+      "דולב"
+    ]
+  },
+  {
+    "code": 253,
+    "nameHe": "הדיונה",
+    "aliases": [
+      "דיונה"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "הדר",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "הורדים",
+    "aliases": []
+  },
+  {
+    "code": 152,
+    "nameHe": "הזוהר",
+    "aliases": [
+      "הזהר",
+      "זהר",
+      "זוהר"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 225,
+    "nameHe": "החרש",
+    "aliases": []
+  },
+  {
+    "code": 210,
+    "nameHe": "הטוחן",
+    "aliases": []
+  },
+  {
+    "code": 153,
+    "nameHe": "הכוכבים",
+    "aliases": []
+  },
+  {
+    "code": 224,
+    "nameHe": "הכורם",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "הכלניות",
+    "aliases": [
+      "הכלנית",
+      "כלנית"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "הכרמל",
+    "aliases": []
+  },
+  {
+    "code": 158,
+    "nameHe": "הלבנה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "המגדל",
+    "aliases": []
+  },
+  {
+    "code": 227,
+    "nameHe": "הנופר",
+    "aliases": []
+  },
+  {
+    "code": 182,
+    "nameHe": "הנץ",
+    "aliases": [
+      "נץ"
+    ]
+  },
+  {
+    "code": 169,
+    "nameHe": "הנקר",
+    "aliases": []
+  },
+  {
+    "code": 252,
+    "nameHe": "הצדף",
+    "aliases": [
+      "צדף"
+    ]
+  },
+  {
+    "code": 165,
+    "nameHe": "הרדוף",
+    "aliases": [
+      "ההרדוף"
+    ]
+  },
+  {
+    "code": 203,
+    "nameHe": "הרדוף הנחלים",
+    "aliases": []
+  },
+  {
+    "code": 226,
+    "nameHe": "הרוקם",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 157,
+    "nameHe": "הרקיע",
+    "aliases": []
+  },
+  {
+    "code": 168,
+    "nameHe": "השונית",
+    "aliases": [
+      "שונית"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "השזיף",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "השחף",
+    "aliases": [
+      "שחף"
+    ]
+  },
+  {
+    "code": 139,
+    "nameHe": "השחר",
+    "aliases": [
+      "שחר"
+    ]
+  },
+  {
+    "code": 205,
+    "nameHe": "השיטה",
+    "aliases": []
+  },
+  {
+    "code": 254,
+    "nameHe": "השמורה",
+    "aliases": [
+      "שמורה"
+    ]
+  },
+  {
+    "code": 159,
+    "nameHe": "השמים",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "השמש",
+    "aliases": [
+      "שמש"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 175,
+    "nameHe": "התור",
+    "aliases": [
+      "תור"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 180,
+    "nameHe": "זמיר",
+    "aliases": [
+      "הזמיר"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "חבצלת",
+    "aliases": []
+  },
+  {
+    "code": 209,
+    "nameHe": "חבצלת החוף",
+    "aliases": []
+  },
+  {
+    "code": 255,
+    "nameHe": "חולית",
+    "aliases": [
+      "החולית"
+    ]
+  },
+  {
+    "code": 170,
+    "nameHe": "חוף הזהב",
+    "aliases": []
+  },
+  {
+    "code": 199,
+    "nameHe": "חורף",
+    "aliases": []
+  },
+  {
+    "code": 229,
+    "nameHe": "חלמיש",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "טופז",
+    "aliases": []
+  },
+  {
+    "code": 240,
+    "nameHe": "טל",
+    "aliases": []
+  },
+  {
+    "code": 207,
+    "nameHe": "ידיד החולות",
+    "aliases": []
+  },
+  {
+    "code": 146,
+    "nameHe": "יהלום",
+    "aliases": [
+      "היהלום"
+    ]
+  },
+  {
+    "code": 214,
+    "nameHe": "יהלום-פארק התעשייה",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "כיכר הצמרות",
+    "aliases": []
+  },
+  {
+    "code": 177,
+    "nameHe": "כנרית",
+    "aliases": [
+      "הכנרית"
+    ]
+  },
+  {
+    "code": 163,
+    "nameHe": "ליבנה",
+    "aliases": [
+      "הליבנה"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "לימון",
+    "aliases": [
+      "הלימון"
+    ]
+  },
+  {
+    "code": 145,
+    "nameHe": "לשם",
+    "aliases": []
+  },
+  {
+    "code": 217,
+    "nameHe": "לשם-פארק התעשייה",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "מאדים",
+    "aliases": []
+  },
+  {
+    "code": 192,
+    "nameHe": "מבוא הצאלון",
+    "aliases": [
+      "הצאלון",
+      "מבוא צאלון",
+      "צאלון"
+    ]
+  },
+  {
+    "code": 142,
+    "nameHe": "מבוא חמה",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "מלון דן קיסריה",
+    "aliases": [
+      "מלון קיסריה",
+      "קיסריה מלון"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "מלון סמדר",
+    "aliases": [
+      "סמדר",
+      "סמדר מלון"
+    ]
+  },
+  {
+    "code": 136,
+    "nameHe": "מנדרינה",
+    "aliases": []
+  },
+  {
+    "code": 231,
+    "nameHe": "משמרות",
+    "aliases": []
+  },
+  {
+    "code": 6512,
+    "nameHe": "נאות גולף",
+    "aliases": [
+      "מלון נאות גולף"
+    ]
+  },
+  {
+    "code": 149,
+    "nameHe": "נגה",
+    "aliases": [
+      "נוגה"
+    ]
+  },
+  {
+    "code": 206,
+    "nameHe": "נר הלילה",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "נרקיס",
+    "aliases": []
+  },
+  {
+    "code": 183,
+    "nameHe": "נשר",
+    "aliases": [
+      "הנשר"
+    ]
+  },
+  {
+    "code": 171,
+    "nameHe": "סלעית",
+    "aliases": []
+  },
+  {
+    "code": 191,
+    "nameHe": "סמ הדולב",
+    "aliases": [
+      "סמ דולב"
+    ]
+  },
+  {
+    "code": 190,
+    "nameHe": "סמ הליבנה",
+    "aliases": []
+  },
+  {
+    "code": 181,
+    "nameHe": "סנונית",
+    "aliases": [
+      "הסנונית"
+    ]
+  },
+  {
+    "code": 211,
+    "nameHe": "סנונית-פארק התעשייה",
+    "aliases": []
+  },
+  {
+    "code": 166,
+    "nameHe": "סנפיר",
+    "aliases": [
+      "הסנפיר"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 215,
+    "nameHe": "ספיר-פארק התעשייה",
+    "aliases": []
+  },
+  {
+    "code": 196,
+    "nameHe": "סתיו",
+    "aliases": []
+  },
+  {
+    "code": 167,
+    "nameHe": "עגור",
+    "aliases": [
+      "העגור"
+    ]
+  },
+  {
+    "code": 184,
+    "nameHe": "עיט",
+    "aliases": [
+      "העיט"
+    ]
+  },
+  {
+    "code": 178,
+    "nameHe": "ענבר",
+    "aliases": []
+  },
+  {
+    "code": 179,
+    "nameHe": "עפרוני",
+    "aliases": [
+      "העפרוני"
+    ]
+  },
+  {
+    "code": 221,
+    "nameHe": "ערה",
+    "aliases": []
+  },
+  {
+    "code": 6520,
+    "nameHe": "פארק התעשייה",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "פומלו",
+    "aliases": []
+  },
+  {
+    "code": 172,
+    "nameHe": "צופית",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "קיסריה",
+    "aliases": [
+      "קסריה"
+    ]
+  },
+  {
+    "code": 7001,
+    "nameHe": "קיסריה העתיקה",
+    "aliases": [
+      "אורוות הורדוס",
+      "ארמון המלך הורדוס",
+      "גן לאומי קיסריה"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "קיסריה וילות",
+    "aliases": [
+      "אזור הוילות",
+      "הוילות",
+      "וילות",
+      "וילות קיסריה"
+    ]
+  },
+  {
+    "code": 150,
+    "nameHe": "קיסרית",
+    "aliases": []
+  },
+  {
+    "code": 197,
+    "nameHe": "קיץ",
+    "aliases": []
+  },
+  {
+    "code": 208,
+    "nameHe": "רותם המדבר",
+    "aliases": []
+  },
+  {
+    "code": 6514,
+    "nameHe": "רמות קיסריה",
+    "aliases": []
+  },
+  {
+    "code": 148,
+    "nameHe": "רעם",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "רקפת",
+    "aliases": []
+  },
+  {
+    "code": 154,
+    "nameHe": "שביט",
+    "aliases": []
+  },
+  {
+    "code": 188,
+    "nameHe": "שבתאי",
+    "aliases": []
+  },
+  {
+    "code": 186,
+    "nameHe": "שד רוטשילד",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "שוהם",
+    "aliases": [
+      "שהם"
+    ]
+  },
+  {
+    "code": 216,
+    "nameHe": "שוהם-פארק התעשייה",
+    "aliases": []
+  },
+  {
+    "code": 222,
+    "nameHe": "שחם",
+    "aliases": [
+      "השחם"
+    ]
+  },
+  {
+    "code": 6506,
+    "nameHe": "שכ אבני חן",
+    "aliases": [
+      "שכ 11"
+    ]
+  },
+  {
+    "code": 6504,
+    "nameHe": "שכ הביכורים",
+    "aliases": [
+      "שכ 8"
+    ]
+  },
+  {
+    "code": 6510,
+    "nameHe": "שכ ההדרים",
+    "aliases": [
+      "שכ 4"
+    ]
+  },
+  {
+    "code": 6507,
+    "nameHe": "שכ החוף",
+    "aliases": [
+      "שכ 1"
+    ]
+  },
+  {
+    "code": 6503,
+    "nameHe": "שכ החורש",
+    "aliases": [
+      "שכ 2"
+    ]
+  },
+  {
+    "code": 6501,
+    "nameHe": "שכ הים",
+    "aliases": [
+      "שכ 6"
+    ]
+  },
+  {
+    "code": 6511,
+    "nameHe": "שכ המעוף",
+    "aliases": [
+      "שכ 10"
+    ]
+  },
+  {
+    "code": 6505,
+    "nameHe": "שכ העדי",
+    "aliases": [
+      "שכ 9"
+    ]
+  },
+  {
+    "code": 6509,
+    "nameHe": "שכ הפרחים",
+    "aliases": [
+      "שכ 5"
+    ]
+  },
+  {
+    "code": 6502,
+    "nameHe": "שכ הציפורים",
+    "aliases": [
+      "שכ 7"
+    ]
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ הצמרות",
+    "aliases": [
+      "שכ 3"
+    ]
+  },
+  {
+    "code": 6508,
+    "nameHe": "שכ הרקיע",
+    "aliases": [
+      "שכ 13"
+    ]
+  },
+  {
+    "code": 6515,
+    "nameHe": "שכונה בטבע",
+    "aliases": [
+      "שכ 12",
+      "שכונה 12"
+    ]
+  },
+  {
+    "code": 185,
+    "nameHe": "שלדג",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "תפוז",
+    "aliases": []
+  },
+  {
+    "code": 147,
+    "nameHe": "תרשיש",
+    "aliases": []
+  },
+  {
+    "code": 218,
+    "nameHe": "תרשיש-פארק התעשייה",
+    "aliases": []
+  }
+]

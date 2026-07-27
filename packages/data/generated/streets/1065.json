@@ -1,0 +1,58 @@
+[
+  {
+    "code": 106,
+    "nameHe": "הדר",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הכינור",
+    "aliases": [
+      "כינור"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הלל",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "המיתר",
+    "aliases": [
+      "מיתר"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הנבל",
+    "aliases": [
+      "נבל"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הניגון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "העוז",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "זמרת",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "נווה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שירת הים",
+    "aliases": []
+  }
+]

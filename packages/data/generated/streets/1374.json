@@ -1,0 +1,52 @@
+[
+  {
+    "code": 101,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הזמורה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "היקב",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הכרם",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הנצר",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הסמדר",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "העינב",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "השריג",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "התירוש",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כרמי קטיף",
+    "aliases": []
+  }
+]

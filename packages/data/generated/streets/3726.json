@@ -1,0 +1,149 @@
+[
+  {
+    "code": 300,
+    "nameHe": "האירוס",
+    "aliases": [
+      "אירוס"
+    ]
+  },
+  {
+    "code": 303,
+    "nameHe": "החלמונית",
+    "aliases": [
+      "חלמונית"
+    ]
+  },
+  {
+    "code": 301,
+    "nameHe": "הניסנית",
+    "aliases": [
+      "ניסנית"
+    ]
+  },
+  {
+    "code": 302,
+    "nameHe": "העירית",
+    "aliases": [
+      "עירית"
+    ]
+  },
+  {
+    "code": 6501,
+    "nameHe": "חוות שדה בר",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "כפר אלדד",
+    "aliases": [
+      "אלדד"
+    ]
+  },
+  {
+    "code": 6502,
+    "nameHe": "מעלה רחבעם",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נוקדים",
+    "aliases": [
+      "אל דוד"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "נחל אשל",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "נחל גורפן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "נחל דוד",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "נחל דרגות",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "נחל זוהר",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "נחל חבר",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "נחל חצצון",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "נחל יעלים",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "נחל משמר",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "נחל עמוס",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "נחל עציונה",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "נחל ערוגות",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "נחל פרת",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "נחל צאלים",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "נחל קדם",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "נחל קדרון",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "נחל קומראן",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "נחל רחף",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "נחל תקוע",
+    "aliases": []
+  }
+]

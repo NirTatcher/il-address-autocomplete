@@ -1,0 +1,62 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "גנות",
+    "aliases": [
+      "כביש גנות",
+      "לוי רחמים"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "האשל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "האתרוג",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ההדס",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הערבה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "התומר",
+    "aliases": [
+      "התמר"
+    ]
+  }
+]

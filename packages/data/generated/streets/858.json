@@ -1,0 +1,53 @@
+[
+  {
+    "code": 101,
+    "nameHe": "האגוז",
+    "aliases": [
+      "אגוז"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הברוש",
+    "aliases": [
+      "ברוש"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "השיזף",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נווה ירק",
+    "aliases": [
+      "נוה ירק"
+    ]
+  }
+]

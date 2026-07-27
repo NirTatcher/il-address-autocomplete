@@ -1,0 +1,150 @@
+:root {
+  color-scheme: light;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+  background: linear-gradient(180deg, #f8fafc 0%, #eef2ff 100%);
+  color: #0f172a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: #4f46e5;
+}
+
+.page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 48px 20px 64px;
+}
+
+.hero {
+  margin-bottom: 28px;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: #6366f1;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: 2rem;
+}
+
+.subtitle {
+  margin: 0;
+  color: #475569;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+}
+
+.field {
+  display: block;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.input {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  font-size: 1rem;
+  background: #fff;
+}
+
+.input:focus {
+  outline: 2px solid #818cf8;
+  border-color: #818cf8;
+}
+
+.input:disabled {
+  background: #f1f5f9;
+  color: #94a3b8;
+}
+
+.suggestions {
+  position: absolute;
+  z-index: 10;
+  top: calc(100% + 4px);
+  right: 0;
+  left: 0;
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+  max-height: 240px;
+  overflow: auto;
+}
+
+.suggestion {
+  padding: 10px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.suggestion--active,
+.suggestion:hover {
+  background: #eef2ff;
+}
+
+.suggestion--empty {
+  color: #64748b;
+  cursor: default;
+}
+
+.suggestion__meta {
+  display: block;
+  color: #64748b;
+  font-size: 0.85rem;
+}
+
+.selection h2 {
+  margin: 8px 0 12px;
+  font-size: 1rem;
+}
+
+.selection pre {
+  margin: 0;
+  padding: 16px;
+  background: #0f172a;
+  color: #e2e8f0;
+  border-radius: 12px;
+  overflow: auto;
+  font-size: 0.85rem;
+  direction: ltr;
+  text-align: left;
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 20px;
+  color: #64748b;
+  font-size: 0.875rem;
+}

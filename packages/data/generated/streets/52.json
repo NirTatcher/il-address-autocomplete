@@ -1,0 +1,105 @@
+[
+  {
+    "code": 103,
+    "nameHe": "אורן",
+    "aliases": [
+      "האורן"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "אלה",
+    "aliases": [
+      "האלה"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "אלון",
+    "aliases": [
+      "האלון"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "ארז",
+    "aliases": [
+      "הארז"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "אשל",
+    "aliases": [
+      "האשל"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "ברוש",
+    "aliases": [
+      "הברוש"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "דקל",
+    "aliases": [
+      "הדקל"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "זית",
+    "aliases": [
+      "הזית"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "חרוב",
+    "aliases": [
+      "החרוב"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "לוזית",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "ערבה",
+    "aliases": [
+      "הערבה"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "צפצפה",
+    "aliases": [
+      "הצפצפה"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "רימון",
+    "aliases": [
+      "הרימון"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "שקד",
+    "aliases": [
+      "השקד"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "תאנה",
+    "aliases": [
+      "התאנה"
+    ]
+  }
+]

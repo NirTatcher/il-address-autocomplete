@@ -1,0 +1,56 @@
+[
+  {
+    "code": 121,
+    "nameHe": "אגוז",
+    "aliases": [
+      "האגוז"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "אלון",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "ארז",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ברוש",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "גאליה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "דולב",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "דקל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "צאלון",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "רימון",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "תאנה",
+    "aliases": [
+      "התאנה"
+    ]
+  }
+]

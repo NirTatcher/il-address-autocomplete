@@ -1,0 +1,79 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אודם",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "בהט",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "בזלת",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "בית חנניה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "גרניט",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "דרך אמת המים",
+    "aliases": [
+      "אמת המים"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "דרך הים",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "דרך הכרמל",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "חלמיש",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "טופז",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "טורקיז",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "ענבר",
+    "aliases": []
+  }
+]

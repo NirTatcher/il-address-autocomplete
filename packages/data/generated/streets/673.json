@@ -1,0 +1,81 @@
+[
+  {
+    "code": 112,
+    "nameHe": "אקליפטוס",
+    "aliases": [
+      "האקליפטוס"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הבציר",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הברוש",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "העינב",
+    "aliases": [
+      "הענב"
+    ]
+  },
+  {
+    "code": 6500,
+    "nameHe": "הרחבה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "התירוש",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "זמורות",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר טרומן",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "שריגים",
+    "aliases": []
+  }
+]

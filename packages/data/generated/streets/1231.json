@@ -1,0 +1,24 @@
+[
+  {
+    "code": 103,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "פרי גן",
+    "aliases": [
+      "פריגן"
+    ]
+  }
+]

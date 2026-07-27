@@ -1,0 +1,118 @@
+[
+  {
+    "code": 102,
+    "nameHe": "בנטל",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ברקן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "גבעות עדן",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "גלבוע",
+    "aliases": [
+      "הגלבוע"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "הגיחון",
+    "aliases": [
+      "גיחון"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "הירדן",
+    "aliases": [
+      "ירדן"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "הירקון",
+    "aliases": [
+      "ירקון"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "כזיב",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "כרמל",
+    "aliases": [
+      "הכרמל"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "לוטם",
+    "aliases": [
+      "הלוטם"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "לכיש",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "מירון",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "נבו",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "סיני",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "קדם",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "קדרון",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "קטלב",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "קישון",
+    "aliases": [
+      "הקישון"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "שורק",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "תבור",
+    "aliases": [
+      "התבור"
+    ]
+  }
+]

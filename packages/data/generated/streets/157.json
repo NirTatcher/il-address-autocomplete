@@ -1,0 +1,185 @@
+[
+  {
+    "code": 112,
+    "nameHe": "באר-גן",
+    "aliases": [
+      "באר גן"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "דרור",
+    "aliases": [
+      "הדרור"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "דרך בית הכנסת",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הברכות",
+    "aliases": [
+      "ברכות",
+      "הבריכות"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הדרים",
+    "aliases": [
+      "ההדרים"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "היובל",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הירדן",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "הכלנית",
+    "aliases": [
+      "כלנית"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "הלימון",
+    "aliases": [
+      "לימון"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "המעיין",
+    "aliases": [
+      "המעין"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "הנוער",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הנחל",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "הסביון",
+    "aliases": [
+      "סביון"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "הסייפן",
+    "aliases": [
+      "סייפן"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הפרסה",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הצבעוני",
+    "aliases": [
+      "צבעוני"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "הצבר",
+    "aliases": [
+      "צבר"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הראשונים",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "השזיף",
+    "aliases": [
+      "שזיף"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "התורמוס",
+    "aliases": [
+      "תורמוס"
+    ]
+  },
+  {
+    "code": 127,
+    "nameHe": "התפוז",
+    "aliases": [
+      "תפוז"
+    ]
+  },
+  {
+    "code": 6002,
+    "nameHe": "ככר הברכות",
+    "aliases": []
+  },
+  {
+    "code": 6006,
+    "nameHe": "ככר הירדן",
+    "aliases": []
+  },
+  {
+    "code": 6001,
+    "nameHe": "ככר העם",
+    "aliases": []
+  },
+  {
+    "code": 6005,
+    "nameHe": "ככר הצאלון",
+    "aliases": []
+  },
+  {
+    "code": 6003,
+    "nameHe": "ככר הראשונים",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "עין ורד",
+    "aliases": [
+      "ש אלי כהן"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "צאלון",
+    "aliases": [
+      "הצאלון"
+    ]
+  }
+]

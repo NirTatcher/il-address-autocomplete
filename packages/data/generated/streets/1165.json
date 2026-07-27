@@ -1,0 +1,203 @@
+[
+  {
+    "code": 115,
+    "nameHe": "אירוס",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "אלה",
+    "aliases": [
+      "האלה"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "אלון",
+    "aliases": [
+      "האלון"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "ארבל",
+    "aliases": [
+      "הארבל"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "ברוש",
+    "aliases": [
+      "הברוש"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "גלבוע",
+    "aliases": [
+      "הגלבוע"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "גפן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "דרך האורנים",
+    "aliases": [
+      "האורנים"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "דרך הזית",
+    "aliases": [
+      "הזית"
+    ]
+  },
+  {
+    "code": 130,
+    "nameHe": "דרך החממות",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "דרך החרוב",
+    "aliases": [
+      "החרוב"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "דרך החשמונאים",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "דרך המכבים",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "דרך התחנה",
+    "aliases": [
+      "התחנה"
+    ]
+  },
+  {
+    "code": 127,
+    "nameHe": "הפרדס",
+    "aliases": [
+      "פרדס"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "ורד",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "חצב",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "חרמון",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "חרצית",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "יסמין",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "כרמל",
+    "aliases": [
+      "הכרמל"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "מטע",
+    "aliases": [
+      "המטע"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "נורית",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "נפתלי",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "סמ הערבה",
+    "aliases": [
+      "הערבה"
+    ]
+  },
+  {
+    "code": 6500,
+    "nameHe": "פארק תעשיות ומסחר",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "צין",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "רותם",
+    "aliases": [
+      "הרותם"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "רימון",
+    "aliases": [
+      "הרימון"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "רקפת",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "שילת",
+    "aliases": [
+      "באר טל"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "שקד",
+    "aliases": [
+      "השקד"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "תאנה",
+    "aliases": [
+      "התאנה"
+    ]
+  }
+]

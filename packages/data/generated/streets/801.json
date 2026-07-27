@@ -1,0 +1,112 @@
+[
+  {
+    "code": 102,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "החיטה",
+    "aliases": [
+      "החטה"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "הנחלים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "העומר",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הרימון",
+    "aliases": [
+      "הרמון"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "התמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "חמד",
+    "aliases": [
+      "מושב חמד"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "נחל איילון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "נחל ארבל",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "נחל גבעות",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "נחל דולב",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "נחל דן",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "נחל הבשור",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "נחל הירדן",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "נחל זרי הדפנה",
+    "aliases": [
+      "נחל זרי דפנה"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "נחל חרמון",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "נחל שפירים",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "נחל תבור",
+    "aliases": []
+  }
+]

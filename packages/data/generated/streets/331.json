@@ -1,0 +1,70 @@
+[
+  {
+    "code": 101,
+    "nameHe": "איתן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "גומא",
+    "aliases": [
+      "הגומא"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "האשל",
+    "aliases": [
+      "אשל"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "הדסים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הדרים",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הערבה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הצאלון",
+    "aliases": [
+      "צאלון"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "יערה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "ניר צבי",
+    "aliases": []
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "code": 108,
+    "nameHe": "אשכול אלנבי",
+    "aliases": [
+      "אלנבי",
+      "אשכול"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "בציר",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "גפן",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "זמורה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כרם בן זמרה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "מעלה הכרם",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "סמדר",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "עוללות",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "תירוש",
+    "aliases": []
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "code": 102,
+    "nameHe": "האלומות",
+    "aliases": [
+      "אלומות"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "האסיף",
+    "aliases": [
+      "אסיף"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הדגן",
+    "aliases": [
+      "דגן"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "החריש",
+    "aliases": [
+      "חריש"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הקציר",
+    "aliases": [
+      "קציר"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "מגוב",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "מורג",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נווה מבטח",
+    "aliases": [
+      "נוה מבטח"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "שיבולים",
+    "aliases": []
+  }
+]

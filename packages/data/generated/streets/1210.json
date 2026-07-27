@@ -1,0 +1,63 @@
+[
+  {
+    "code": 104,
+    "nameHe": "אלה",
+    "aliases": [
+      "האלה"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "אלון",
+    "aliases": [
+      "האלון"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "ארבל",
+    "aliases": [
+      "הארבל"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הר-כור",
+    "aliases": [
+      "הר כור"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "זית",
+    "aliases": [
+      "הזית"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "ירדן",
+    "aliases": [
+      "הירדן"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "כחל",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "כינרת",
+    "aliases": [
+      "כנרת"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "שקד",
+    "aliases": [
+      "השקד"
+    ]
+  }
+]

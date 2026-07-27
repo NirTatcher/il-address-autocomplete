@@ -1,0 +1,205 @@
+[
+  {
+    "code": 6501,
+    "nameHe": "בוסתן הכפר",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "דוכיפת",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "האילנות",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "האנפה",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "האתרוג",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "הבוסתן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הבנים",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הדקלים",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "הדרור",
+    "aliases": []
+  },
+  {
+    "code": 6502,
+    "nameHe": "הדרים",
+    "aliases": []
+  },
+  {
+    "code": 143,
+    "nameHe": "ההדס",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "ההדר",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הזמיר",
+    "aliases": [
+      "זמיר"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "החורשים",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "החיטה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "החלוצים",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "החסידה",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "הלולב",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הסנונית",
+    "aliases": [
+      "סנונית"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "העגור",
+    "aliases": [
+      "עגור"
+    ]
+  },
+  {
+    "code": 130,
+    "nameHe": "הערבה",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הפרדסים",
+    "aliases": []
+  },
+  {
+    "code": 144,
+    "nameHe": "הצבר",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "השחף",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "השיבולים",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "השלדג",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "השעורה",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "סמ דוד פלורנטין",
+    "aliases": [
+      "סמ פלורנטין"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "סמ האנפה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "פלורנטין דוד",
+    "aliases": [
+      "דוד פלורנטין",
+      "פלורנטין"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "צור משה",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ גבעת משה",
+    "aliases": [
+      "שכ הבנים"
+    ]
+  }
+]

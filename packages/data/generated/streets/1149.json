@@ -1,0 +1,123 @@
+[
+  {
+    "code": 119,
+    "nameHe": "אנפה",
+    "aliases": [
+      "האנפה"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "דוכיפת",
+    "aliases": [
+      "הדוכיפת"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "דרור",
+    "aliases": [
+      "הדרור"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "האורן",
+    "aliases": [
+      "סמ האורן"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "האלון",
+    "aliases": [
+      "סמ האלון"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "הברוש",
+    "aliases": [
+      "סמ הברוש"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הורד",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הזית",
+    "aliases": [
+      "סמטת הזית"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "החוחית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הכלנית",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הלילך",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הנרקיס",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הפרג",
+    "aliases": [
+      "סמטת הפרג",
+      "פרג"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "הפשוש",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הצבעוני",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "סנונית",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "עזר",
+    "aliases": [
+      "גבעת עזר"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "שחף",
+    "aliases": [
+      "השחף"
+    ]
+  }
+]

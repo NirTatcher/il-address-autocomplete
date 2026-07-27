@@ -1,0 +1,54 @@
+[
+  {
+    "code": 7001,
+    "nameHe": "בית ספר תום",
+    "aliases": [
+      "ביס תום"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הארז",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הדולב",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הצאלון",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "השיטה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "חרב לאת",
+    "aliases": []
+  }
+]

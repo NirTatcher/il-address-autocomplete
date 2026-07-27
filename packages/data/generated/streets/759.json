@@ -1,0 +1,51 @@
+[
+  {
+    "code": 101,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "יציץ",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "סמ הדקל",
+    "aliases": [
+      "הדקל"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "סמ התפוז",
+    "aliases": [
+      "התפוז"
+    ]
+  }
+]

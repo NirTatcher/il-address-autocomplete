@@ -1,0 +1,67 @@
+[
+  {
+    "code": 111,
+    "nameHe": "אירוס",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ארץ יהודה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "דרך האבות",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "חגי",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "כלנית",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "מעלה חגי",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "נחל אשכול",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "נחל הרדוף",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "נחל חבר",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "נחל לכיש",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "נחל שקמה",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "סביון",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "צבעוני",
+    "aliases": []
+  }
+]

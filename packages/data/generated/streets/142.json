@@ -1,0 +1,92 @@
+[
+  {
+    "code": 110,
+    "nameHe": "דרך ארץ",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "דרך האלון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "דרך המיסדים",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "דרך המעין",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "דרך הנחל",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "דרך השדות",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "דרך חריש",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "דרך עליית הנוער",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "דרך קטיף",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "דרך שחל",
+    "aliases": []
+  },
+  {
+    "code": 6001,
+    "nameHe": "כיכר המחלבה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "מעלה הגבעה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "מעלה הגורן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "מעלה המגדל",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "משעול הגנים",
+    "aliases": [
+      "משעול גנים"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "נוה עמיאל",
+    "aliases": [
+      "ישיבת בני עקיבא",
+      "מוסד נוה עמיאל"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "שדה יעקב",
+    "aliases": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": 106,
+    "nameHe": "אשכול",
+    "aliases": [
+      "האשכול"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "גפן",
+    "aliases": [
+      "הגפן"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "זמורה",
+    "aliases": [
+      "הזמורה"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "כנה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "כרם",
+    "aliases": [
+      "הכרם"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "סמדר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "עמיחי",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "ענב",
+    "aliases": [
+      "הענב",
+      "עינב"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "שורק",
+    "aliases": []
+  }
+]

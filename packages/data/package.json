@@ -1,0 +1,36 @@
+{
+  "name": "@il-address/data",
+  "version": "0.1.0",
+  "description": "Israeli city and street data for @il-address/core",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "./manifest.json": "./manifest.json",
+    "./cities.json": "./generated/cities.json",
+    "./streets/*.json": "./generated/streets/*.json",
+    "./loader": {
+      "types": "./generated/street-loader.d.ts",
+      "import": "./generated/street-loader.js",
+      "default": "./generated/street-loader.js"
+    }
+  },
+  "files": [
+    "generated",
+    "manifest.json",
+    "README.md"
+  ],
+  "scripts": {
+    "fetch:gov": "node --experimental-strip-types scripts/fetch-gov-il.ts",
+    "build": "node --experimental-strip-types scripts/build.ts",
+    "validate": "node --experimental-strip-types scripts/validate-data.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

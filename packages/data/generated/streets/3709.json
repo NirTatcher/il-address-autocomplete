@@ -1,0 +1,330 @@
+[
+  {
+    "code": 144,
+    "nameHe": "אשכול בדולח",
+    "aliases": [
+      "בדולח"
+    ]
+  },
+  {
+    "code": 149,
+    "nameHe": "אשכול גדיד",
+    "aliases": [
+      "גדיד"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "אשכול גן אור",
+    "aliases": [
+      "גן אור"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "אשכול גני טל",
+    "aliases": [
+      "גני טל"
+    ]
+  },
+  {
+    "code": 145,
+    "nameHe": "אשכול דוגית",
+    "aliases": [
+      "דוגית"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "אשכול כדים",
+    "aliases": [
+      "אשכול קדים",
+      "כדים"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "אשכול כפר ים",
+    "aliases": [
+      "כפר ים"
+    ]
+  },
+  {
+    "code": 147,
+    "nameHe": "אשכול מורג",
+    "aliases": [
+      "מורג"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "אשכול נוה דקלים",
+    "aliases": [
+      "אשכול נווה דקלים",
+      "נוה דקלים",
+      "נווה דקלים"
+    ]
+  },
+  {
+    "code": 152,
+    "nameHe": "אשכול ניסנית",
+    "aliases": [
+      "ניסנית"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "אשכול נצר חזני",
+    "aliases": [
+      "נצר חזני"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "אשכול פאת שדה",
+    "aliases": [
+      "פאת שדה"
+    ]
+  },
+  {
+    "code": 143,
+    "nameHe": "אשכול קטיף",
+    "aliases": [
+      "קטיף"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "אשכול רפיח ים",
+    "aliases": [
+      "רפיח ים"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "אשכול תל קטיפא",
+    "aliases": [
+      "תל קטיפא"
+    ]
+  },
+  {
+    "code": 133,
+    "nameHe": "אשר",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "בנימין",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "גד",
+    "aliases": []
+  },
+  {
+    "code": 154,
+    "nameHe": "גנים",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "דן",
+    "aliases": []
+  },
+  {
+    "code": 153,
+    "nameHe": "דרך אלי סיני",
+    "aliases": [
+      "אלי סיני"
+    ]
+  },
+  {
+    "code": 146,
+    "nameHe": "דרך נצרים",
+    "aliases": [
+      "נצרים"
+    ]
+  },
+  {
+    "code": 142,
+    "nameHe": "דרך שלו",
+    "aliases": []
+  },
+  {
+    "code": 150,
+    "nameHe": "דרכי נועם",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "הושע",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הנביאים",
+    "aliases": [
+      "נביאים"
+    ]
+  },
+  {
+    "code": 151,
+    "nameHe": "הרב צבי יהודה",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "השופטים",
+    "aliases": []
+  },
+  {
+    "code": 156,
+    "nameHe": "התעשיה",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "זבולון",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "זכריה",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "חבקוק",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "חגי",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "חומש",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "יהודה",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "יואל",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "יונה",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "יוסף",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "יששכר",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "כפר דרום",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "לוי",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "מבוא חורון",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "מיכה",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "מלאכי",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "מסילת ישרים",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "נחום",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "נפתלי",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "עובדיה",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "עמוס",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "צפניה",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "ראובן",
+    "aliases": []
+  },
+  {
+    "code": 148,
+    "nameHe": "רחבת הגיבורים",
+    "aliases": [
+      "הגיבורים"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "שאנור",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "שדרות אילון",
+    "aliases": [
+      "אילון"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "שירת הים",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "שמעון",
+    "aliases": []
+  }
+]

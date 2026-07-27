@@ -1,0 +1,85 @@
+[
+  {
+    "code": 107,
+    "nameHe": "גולן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "גלבוע",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "גלעד",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הגליל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "החרמון",
+    "aliases": [
+      "חרמון"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "הכרמל",
+    "aliases": [
+      "כרמל"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "הלל",
+    "aliases": [
+      "הילל"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "התבור",
+    "aliases": [
+      "תבור"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "מוריה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "מירון",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נירית",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "שחר",
+    "aliases": [
+      "השחר"
+    ]
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ נוף השרון",
+    "aliases": [
+      "נוף השרון",
+      "ש נוף השרון"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "שניר",
+    "aliases": []
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "code": 110,
+    "nameHe": "אגוז",
+    "aliases": []
+  },
+  {
+    "code": 156,
+    "nameHe": "אגס",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "אורן",
+    "aliases": []
+  },
+  {
+    "code": 147,
+    "nameHe": "אירוס",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "אלון",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "אקליפטוס",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "בית ראשון במולדת",
+    "aliases": [
+      "בית ראשון"
+    ]
+  },
+  {
+    "code": 164,
+    "nameHe": "ברוש",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "גולני",
+    "aliases": []
+  },
+  {
+    "code": 159,
+    "nameHe": "גפן",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "דובדבן",
+    "aliases": []
+  },
+  {
+    "code": 148,
+    "nameHe": "דקל",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "הגנא",
+    "aliases": [
+      "הגנה אווירית",
+      "הגנה אוירית"
+    ]
+  },
+  {
+    "code": 151,
+    "nameHe": "הדס",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הטייסים",
+    "aliases": [
+      "הטיסים"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "המוסד",
+    "aliases": [
+      "מוסד"
+    ]
+  },
+  {
+    "code": 150,
+    "nameHe": "ורד",
+    "aliases": []
+  },
+  {
+    "code": 154,
+    "nameHe": "זהבית",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "זית",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "ח. גבעתי",
+    "aliases": [
+      "חטיבת גבעתי"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "ח. הנחל",
+    "aliases": [
+      "הנחל",
+      "ח.הנחל",
+      "חטיבת הנחל"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "ח. כפיר",
+    "aliases": [
+      "חטיבת כפיר",
+      "כפיר"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "ח. צנחנים",
+    "aliases": [
+      "ח. הצנחנים",
+      "חטיבת הצנחנים",
+      "חטיבת צנחנים"
+    ]
+  },
+  {
+    "code": 143,
+    "nameHe": "חבצלת",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "חטיבה 7",
+    "aliases": [
+      "חטיבה שבע"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "חיננית",
+    "aliases": [
+      "חננית"
+    ]
+  },
+  {
+    "code": 149,
+    "nameHe": "חרצית",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "טל מנשה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "יהלום",
+    "aliases": []
+  },
+  {
+    "code": 165,
+    "nameHe": "יסמין",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "כלנית",
+    "aliases": []
+  },
+  {
+    "code": 146,
+    "nameHe": "לוטם",
+    "aliases": []
+  },
+  {
+    "code": 162,
+    "nameHe": "לילך",
+    "aliases": []
+  },
+  {
+    "code": 152,
+    "nameHe": "לימון",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "מגב",
+    "aliases": [
+      "משמר הגבול"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "מגלן",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "מודיעין",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "מורן",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "מייתר",
+    "aliases": [
+      "מיתר"
+    ]
+  },
+  {
+    "code": 145,
+    "nameHe": "מרגנית",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "מרווה",
+    "aliases": [
+      "מרוה"
+    ]
+  },
+  {
+    "code": 137,
+    "nameHe": "נירית",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "נרקיס",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "ס.חרוב",
+    "aliases": [
+      "סיירת חרוב"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "סביון",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "סחלב",
+    "aliases": []
+  },
+  {
+    "code": 163,
+    "nameHe": "סייפן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "סיירת מטכל",
+    "aliases": [
+      "מטכל",
+      "ס מטכל"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "עוקץ",
+    "aliases": []
+  },
+  {
+    "code": 144,
+    "nameHe": "עירית",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "פ. שריון",
+    "aliases": [
+      "פ. שיריון",
+      "פלוגת סיור שיריון",
+      "פלוגת סיור שריון",
+      "פלסר שיריון"
+    ]
+  },
+  {
+    "code": 166,
+    "nameHe": "פקאן",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "פרג",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "צבעוני",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "צהל",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "קרקל",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "רותם",
+    "aliases": [
+      "רתם"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "רקפת",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "שייטת 13",
+    "aliases": [
+      "שייטת שלוש עשרה"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "שייטת 7",
+    "aliases": [
+      "שייטת שבע"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "שלדג",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "שמונה מאתיים",
+    "aliases": [
+      "8200"
+    ]
+  },
+  {
+    "code": 158,
+    "nameHe": "שקד",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "תאנה",
+    "aliases": []
+  },
+  {
+    "code": 157,
+    "nameHe": "תות",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "תמר",
+    "aliases": []
+  },
+  {
+    "code": 153,
+    "nameHe": "תפוז",
+    "aliases": []
+  }
+]

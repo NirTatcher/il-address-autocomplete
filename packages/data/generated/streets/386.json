@@ -1,0 +1,154 @@
+[
+  {
+    "code": 102,
+    "nameHe": "אודם",
+    "aliases": [
+      "אדם"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "אלון",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "אלמוגן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "ארבל",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "בני דרור",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "גלבוע",
+    "aliases": []
+  },
+  {
+    "code": 201,
+    "nameHe": "דרך הדורות",
+    "aliases": [
+      "הדורות",
+      "כפר אבות דרורים",
+      "כפר פרוטיאה",
+      "פרוטיאה",
+      "פרוטיאה בכפר"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "דרך הדרור",
+    "aliases": [
+      "הדרור"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "האורן",
+    "aliases": [
+      "אורן"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "האקליפטוס",
+    "aliases": [
+      "אקליפטוס"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "האשל",
+    "aliases": [
+      "אשל"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "הברוש",
+    "aliases": [
+      "ברוש"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "הדס",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הדר",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הרדוף",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "השיטה",
+    "aliases": [
+      "שיטה"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "זית",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "חרוב",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "כרמל",
+    "aliases": []
+  },
+  {
+    "code": 7001,
+    "nameHe": "מתחם קניון דרורים",
+    "aliases": [
+      "קניון דרורים"
+    ]
+  },
+  {
+    "code": 7002,
+    "nameHe": "קרית חינוך דרור",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "רימון",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "שניר",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "תאנה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "תבור",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "תמנע",
+    "aliases": []
+  }
+]

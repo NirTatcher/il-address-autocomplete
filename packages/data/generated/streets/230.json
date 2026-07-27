@@ -1,0 +1,57 @@
+[
+  {
+    "code": 107,
+    "nameHe": "אילת",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "האורנים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "האילנות",
+    "aliases": [
+      "אילנות"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הברוש",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "ההדרים",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הכלנית",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הצבעוני",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "השלושה",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "זרובבל",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "מעש",
+    "aliases": [
+      "בית מילר",
+      "כפר מעש"
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "code": 103,
+    "nameHe": "ארגון יזרעאל",
+    "aliases": [
+      "אירגון יזרעאל"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "דרך ההרחבה",
+    "aliases": [
+      "ההרחבה"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "דרך ההתיישבות",
+    "aliases": [
+      "דרך ההתישבות",
+      "ההתיישבות"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "דרך השדות",
+    "aliases": [
+      "השדות"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "האסיף",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "הבוסתן",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הבציר",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הבריכה",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הגורן",
+    "aliases": [
+      "גורן"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "ההדרים",
+    "aliases": [
+      "דרך ההדרים"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "הזיתים",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הכרם",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "המחרשה",
+    "aliases": [
+      "מחרשה"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "העמדה",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "הקוצר",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הקטיף",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "השדרה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר הס",
+    "aliases": []
+  }
+]

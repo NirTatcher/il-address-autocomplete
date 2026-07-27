@@ -1,0 +1,124 @@
+[
+  {
+    "code": 112,
+    "nameHe": "אודם",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "ארגמן",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "גביש",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "גזית",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "גרניט",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "האשד",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "חושן",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "יובלים",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "לשם",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "מעיינות",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "מפלים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "מרגלית",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "נחלים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "ענבר",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "פלג",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "צורן",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "שוהם",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שחם",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "שמשית",
+    "aliases": [
+      "שימשית"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "שני",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "תכלת",
+    "aliases": []
+  }
+]

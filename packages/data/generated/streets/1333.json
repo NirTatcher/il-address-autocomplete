@@ -1,0 +1,56 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אריאל",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "דביר",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "החושן",
+    "aliases": [
+      "חושן"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "יהלום",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "לשם",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "מוריה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נוף איילון",
+    "aliases": [
+      "נוף אילון"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "שוהם",
+    "aliases": []
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "code": 103,
+    "nameHe": "אודם",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "ארגמן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "בית יהושע",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 201,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 204,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 202,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "הרחבה",
+    "aliases": []
+  },
+  {
+    "code": 205,
+    "nameHe": "הרימון",
+    "aliases": [
+      "הרמון"
+    ]
+  },
+  {
+    "code": 7001,
+    "nameHe": "הרציף",
+    "aliases": [
+      "רציף"
+    ]
+  },
+  {
+    "code": 206,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 203,
+    "nameHe": "התמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "יהלום",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שהם",
+    "aliases": [
+      "שוהם"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "שני",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "תכלת",
+    "aliases": [
+      "התכלת"
+    ]
+  }
+]

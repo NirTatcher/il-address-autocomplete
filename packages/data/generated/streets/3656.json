@@ -1,0 +1,68 @@
+[
+  {
+    "code": 107,
+    "nameHe": "איילת השחר",
+    "aliases": [
+      "אילת השחר"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "אפיקי מים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "חלמיש",
+    "aliases": [
+      "החלמיש"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כרמל",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "נאות מדבר",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "צורים",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "רביבים",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "רתמים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "שחקים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "שמי קדם",
+    "aliases": []
+  }
+]

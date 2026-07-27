@@ -1,0 +1,593 @@
+[
+  {
+    "code": 152,
+    "nameHe": "אבזאך",
+    "aliases": []
+  },
+  {
+    "code": 100,
+    "nameHe": "אדיגה",
+    "aliases": []
+  },
+  {
+    "code": 145,
+    "nameHe": "אה נאפה",
+    "aliases": [
+      "אה נפה"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "אושחה מאפ",
+    "aliases": [
+      "אושחה מפ"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "אזאת",
+    "aliases": [
+      "אזת"
+    ]
+  },
+  {
+    "code": 170,
+    "nameHe": "אזה",
+    "aliases": []
+  },
+  {
+    "code": 143,
+    "nameHe": "אלברוס",
+    "aliases": []
+  },
+  {
+    "code": 182,
+    "nameHe": "אנה",
+    "aliases": []
+  },
+  {
+    "code": 159,
+    "nameHe": "אפאס",
+    "aliases": []
+  },
+  {
+    "code": 151,
+    "nameHe": "אפיפס",
+    "aliases": []
+  },
+  {
+    "code": 148,
+    "nameHe": "אפץ'",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "באשתאש",
+    "aliases": [
+      "באשתש",
+      "בשתש"
+    ]
+  },
+  {
+    "code": 161,
+    "nameHe": "באתר",
+    "aliases": []
+  },
+  {
+    "code": 153,
+    "nameHe": "בז'אדור'",
+    "aliases": [
+      "בז'דור'"
+    ]
+  },
+  {
+    "code": 162,
+    "nameHe": "בלאנה",
+    "aliases": []
+  },
+  {
+    "code": 163,
+    "nameHe": "בלם",
+    "aliases": []
+  },
+  {
+    "code": 146,
+    "nameHe": "בסלאנאי",
+    "aliases": [
+      "בסלנאי"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "ג'אמיה",
+    "aliases": [
+      "ג'מיה",
+      "גאמיה"
+    ]
+  },
+  {
+    "code": 171,
+    "nameHe": "גואשה",
+    "aliases": []
+  },
+  {
+    "code": 166,
+    "nameHe": "גומאף",
+    "aliases": []
+  },
+  {
+    "code": 172,
+    "nameHe": "גונס",
+    "aliases": []
+  },
+  {
+    "code": 178,
+    "nameHe": "גורת",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "דאה",
+    "aliases": []
+  },
+  {
+    "code": 168,
+    "nameHe": "דאנה",
+    "aliases": []
+  },
+  {
+    "code": 174,
+    "nameHe": "דאריי",
+    "aliases": []
+  },
+  {
+    "code": 181,
+    "nameHe": "דה'ווס",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "וואר'ה",
+    "aliases": [
+      "ואר'ה"
+    ]
+  },
+  {
+    "code": 157,
+    "nameHe": "ווביח",
+    "aliases": [
+      "וביח"
+    ]
+  },
+  {
+    "code": 165,
+    "nameHe": "ווס",
+    "aliases": []
+  },
+  {
+    "code": 164,
+    "nameHe": "ווספס",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "וופש",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "זאפאצה",
+    "aliases": []
+  },
+  {
+    "code": 187,
+    "nameHe": "זאפה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "חאם רוג",
+    "aliases": [
+      "חם רוג"
+    ]
+  },
+  {
+    "code": 137,
+    "nameHe": "חאן רוג",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "חאנל'אשה",
+    "aliases": [
+      "חנל'אשה",
+      "חנלאשה"
+    ]
+  },
+  {
+    "code": 130,
+    "nameHe": "חאצ'ה",
+    "aliases": [
+      "חצ'ה"
+    ]
+  },
+  {
+    "code": 147,
+    "nameHe": "חאקוץ",
+    "aliases": [
+      "חקוץ"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "חתוקאי",
+    "aliases": []
+  },
+  {
+    "code": 150,
+    "nameHe": "טוואפסה",
+    "aliases": [
+      "טואפסה",
+      "טוופסה"
+    ]
+  },
+  {
+    "code": 156,
+    "nameHe": "יג'ירקואי",
+    "aliases": []
+  },
+  {
+    "code": 6002,
+    "nameHe": "כיכר ביברס",
+    "aliases": [
+      "ככר ביברס"
+    ]
+  },
+  {
+    "code": 6001,
+    "nameHe": "כיכר קטז",
+    "aliases": [
+      "ככר קטז"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר כמא",
+    "aliases": [
+      "כפרכמא"
+    ]
+  },
+  {
+    "code": 134,
+    "nameHe": "ל'אמיג'",
+    "aliases": [
+      "ל'מיג'"
+    ]
+  },
+  {
+    "code": 154,
+    "nameHe": "לאר'ה נאק'ה",
+    "aliases": [
+      "לאר'ה",
+      "לר'ה",
+      "לר'ה נאק'ה",
+      "לר'ה נק'ה"
+    ]
+  },
+  {
+    "code": 144,
+    "nameHe": "מאז דוג",
+    "aliases": [
+      "מז דוג"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "מאזה",
+    "aliases": [
+      "מזה"
+    ]
+  },
+  {
+    "code": 198,
+    "nameHe": "מאזה נף",
+    "aliases": [
+      "מאזהנף"
+    ]
+  },
+  {
+    "code": 155,
+    "nameHe": "מאיקופ",
+    "aliases": [
+      "מאיקןף"
+    ]
+  },
+  {
+    "code": 149,
+    "nameHe": "מאמחיש",
+    "aliases": [
+      "ממחיש"
+    ]
+  },
+  {
+    "code": 158,
+    "nameHe": "מאמר",
+    "aliases": []
+  },
+  {
+    "code": 188,
+    "nameHe": "מאפה",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "מארסה",
+    "aliases": [
+      "מרסה"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "מארקאווא",
+    "aliases": [
+      "מרקאווא",
+      "מרקווא"
+    ]
+  },
+  {
+    "code": 189,
+    "nameHe": "מזנף",
+    "aliases": []
+  },
+  {
+    "code": 191,
+    "nameHe": "מזפס",
+    "aliases": []
+  },
+  {
+    "code": 173,
+    "nameHe": "נאבזה",
+    "aliases": []
+  },
+  {
+    "code": 186,
+    "nameHe": "נאואס",
+    "aliases": []
+  },
+  {
+    "code": 185,
+    "nameHe": "נאלמס",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "נאלצ'יק",
+    "aliases": [
+      "נלצ'יק"
+    ]
+  },
+  {
+    "code": 136,
+    "nameHe": "נאף",
+    "aliases": []
+  },
+  {
+    "code": 193,
+    "nameHe": "נאפה",
+    "aliases": []
+  },
+  {
+    "code": 179,
+    "nameHe": "נארת",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "נאשה",
+    "aliases": [
+      "נשה"
+    ]
+  },
+  {
+    "code": 175,
+    "nameHe": "נגוף",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "נסה",
+    "aliases": []
+  },
+  {
+    "code": 180,
+    "nameHe": "נפנה",
+    "aliases": []
+  },
+  {
+    "code": 167,
+    "nameHe": "נרזאן",
+    "aliases": []
+  },
+  {
+    "code": 176,
+    "nameHe": "נשאן",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "נתכואי",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "סאיה",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "סאנה",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "סווסרק'וואה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "ספסף",
+    "aliases": []
+  },
+  {
+    "code": 177,
+    "nameHe": "פאסה",
+    "aliases": []
+  },
+  {
+    "code": 196,
+    "nameHe": "פאשה",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "פחאצ'אצ'",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "פכאח רוג",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "פכה צ'אסה",
+    "aliases": [
+      "פחה צאסה",
+      "פחה צסה",
+      "פכה צאסה",
+      "פכה צסה"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "פסא",
+    "aliases": []
+  },
+  {
+    "code": 183,
+    "nameHe": "פסארש",
+    "aliases": []
+  },
+  {
+    "code": 194,
+    "nameHe": "פסוור",
+    "aliases": []
+  },
+  {
+    "code": 195,
+    "nameHe": "פסנה",
+    "aliases": []
+  },
+  {
+    "code": 184,
+    "nameHe": "פסנפש",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "פשא",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "פשינה",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "צ'אם רוג",
+    "aliases": [
+      "צ'ם רוג"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "צ'ארקה",
+    "aliases": [
+      "צ'רקה"
+    ]
+  },
+  {
+    "code": 139,
+    "nameHe": "צ'מגוי",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "ציה",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "קברטאי",
+    "aliases": []
+  },
+  {
+    "code": 197,
+    "nameHe": "קפצ'ה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "רוגזה",
+    "aliases": []
+  },
+  {
+    "code": 169,
+    "nameHe": "שאבזה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "שאוו",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שאפסור'",
+    "aliases": [
+      "שאפסור",
+      "שפסור",
+      "שפסור'"
+    ]
+  },
+  {
+    "code": 192,
+    "nameHe": "שוו",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "תאמה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "תאמה רידז",
+    "aliases": [
+      "תמה רידז"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "תיר'ה",
+    "aliases": [
+      "תירה"
+    ]
+  },
+  {
+    "code": 190,
+    "nameHe": "תמר",
+    "aliases": []
+  }
+]

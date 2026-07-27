@@ -1,0 +1,52 @@
+[
+  {
+    "code": 100,
+    "nameHe": "אשכול",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "בציר",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "גפן",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "זמורה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "כרמים",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "לכיש",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "סמדר",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "עינב",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "שורק",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שריג",
+    "aliases": []
+  }
+]

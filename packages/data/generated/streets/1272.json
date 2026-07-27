@@ -1,0 +1,155 @@
+[
+  {
+    "code": 101,
+    "nameHe": "ארזים",
+    "aliases": [
+      "הארזים"
+    ]
+  },
+  {
+    "code": 127,
+    "nameHe": "גינת אגוז",
+    "aliases": [
+      "גינת האגוז"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "גלעד",
+    "aliases": [
+      "הגלעד"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "גנים",
+    "aliases": [
+      "הגנים"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הבאר",
+    "aliases": [
+      "באר"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הדודאים",
+    "aliases": [
+      "דודאים"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "ההרים",
+    "aliases": [
+      "הרים"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הזמיר",
+    "aliases": [
+      "זמיר"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "הכפר הסקנדינבי",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "חבצלת השרון",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "חגווי הסלע",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "חוט השני",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "חלוץ",
+    "aliases": [
+      "הר חלוץ"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "כרמי",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "מור ולבונה",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "מים חיים",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "משכנות הרועים",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "ניצנים",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "סמטת מחמדים",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "סמטת שיר השירים",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "עצי היער",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "ערוגות הבושם",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "פלח הרימון",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "פרי מגדים",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "רסיסי לילה",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "שושנת העמקים",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "תלפיות",
+    "aliases": []
+  }
+]

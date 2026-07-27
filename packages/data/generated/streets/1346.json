@@ -1,0 +1,124 @@
+[
+  {
+    "code": 101,
+    "nameHe": "רח 1",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "רח 11",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "רח 12",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "רח 13",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "רח 14",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "רח 15",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "רח 16",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "רח 17",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "רח 19",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "רח 2",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "רח 21",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "רח 23",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "רח 3",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "רח 5",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "רח 6",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "רח 7",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "רח 8",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "רח 9",
+    "aliases": []
+  },
+  {
+    "code": 6701,
+    "nameHe": "שכ 1",
+    "aliases": []
+  },
+  {
+    "code": 6702,
+    "nameHe": "שכ 2",
+    "aliases": []
+  },
+  {
+    "code": 6703,
+    "nameHe": "שכ 3",
+    "aliases": []
+  },
+  {
+    "code": 6704,
+    "nameHe": "שכ 4",
+    "aliases": []
+  },
+  {
+    "code": 6705,
+    "nameHe": "שכ 5",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "תראבין א-צאנע)ישוב(",
+    "aliases": [
+      "תרבין א-צאנע )ישוב("
+    ]
+  }
+]

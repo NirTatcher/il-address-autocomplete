@@ -1,0 +1,106 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אביר יעקב",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "אבן ישראל",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "איתן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "ברכה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ברכת יוסף",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הגלעד",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הדר",
+    "aliases": []
+  },
+  {
+    "code": 7001,
+    "nameHe": "הר גריזים",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הרב איתמר בן גל",
+    "aliases": [
+      "איתמר יוסף בן גל",
+      "הרב בן גל איתמר",
+      "כרמים"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "חברון",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "ירושלים",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "מגדים",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "מצפה שלם",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "עלי עין",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "צפנת",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "קדם",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "קרית הישיבה",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "קשתי",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "שערי ברכה",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "תבואות",
+    "aliases": []
+  }
+]

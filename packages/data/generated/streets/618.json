@@ -1,0 +1,82 @@
+[
+  {
+    "code": 111,
+    "nameHe": "ברקן",
+    "aliases": [
+      "הברקן"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "בשמת",
+    "aliases": [
+      "בושמת"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "האירוס",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "היסמין",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הכלנית",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הנרקיס",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הסביון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הסייפן",
+    "aliases": [
+      "סייפן"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "הרדוף",
+    "aliases": [
+      "ההרדוף"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הרקפת",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "השושן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "חדיד",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "לוטם",
+    "aliases": [
+      "הלוטם"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "עין התכלת",
+    "aliases": []
+  }
+]

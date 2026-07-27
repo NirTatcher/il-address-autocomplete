@@ -1,0 +1,224 @@
+[
+  {
+    "code": 102,
+    "nameHe": "אודם",
+    "aliases": [
+      "האודם"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "אזמרגד",
+    "aliases": [
+      "האזמרגד"
+    ]
+  },
+  {
+    "code": 303,
+    "nameHe": "אלה",
+    "aliases": [
+      "האלה"
+    ]
+  },
+  {
+    "code": 313,
+    "nameHe": "אלון",
+    "aliases": [
+      "האלון"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "אלמוג",
+    "aliases": [
+      "האלמוג"
+    ]
+  },
+  {
+    "code": 301,
+    "nameHe": "ארז",
+    "aliases": [
+      "הארז"
+    ]
+  },
+  {
+    "code": 317,
+    "nameHe": "אשחר",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "בזלת",
+    "aliases": []
+  },
+  {
+    "code": 316,
+    "nameHe": "ברוש",
+    "aliases": [
+      "הברוש"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "ברקת",
+    "aliases": [
+      "הברקת"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "גביש",
+    "aliases": [
+      "הגביש"
+    ]
+  },
+  {
+    "code": 310,
+    "nameHe": "גפן",
+    "aliases": [
+      "הגפן"
+    ]
+  },
+  {
+    "code": 309,
+    "nameHe": "דובדבן",
+    "aliases": [
+      "הדובדבן"
+    ]
+  },
+  {
+    "code": 304,
+    "nameHe": "דולב",
+    "aliases": [
+      "הדולב"
+    ]
+  },
+  {
+    "code": 315,
+    "nameHe": "דפנה",
+    "aliases": [
+      "הדפנה"
+    ]
+  },
+  {
+    "code": 308,
+    "nameHe": "הדס",
+    "aliases": [
+      "ההדס"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "חושן",
+    "aliases": [
+      "החושן"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "חלמיש",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "טופז",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "טורקיז",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "יהלום",
+    "aliases": [
+      "היהלום"
+    ]
+  },
+  {
+    "code": 307,
+    "nameHe": "לוטם",
+    "aliases": [
+      "הלוטם"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "ספיר",
+    "aliases": [
+      "הספיר"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "עלי זהב",
+    "aliases": [
+      "יועזר"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "ענבר",
+    "aliases": [
+      "הענבר"
+    ]
+  },
+  {
+    "code": 311,
+    "nameHe": "ערבה",
+    "aliases": [
+      "הערבה"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "צור",
+    "aliases": [
+      "הצור"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "שוהם",
+    "aliases": [
+      "השהם",
+      "השוהם",
+      "שהם"
+    ]
+  },
+  {
+    "code": 312,
+    "nameHe": "שקד",
+    "aliases": [
+      "השקד"
+    ]
+  },
+  {
+    "code": 305,
+    "nameHe": "שקמה",
+    "aliases": [
+      "השקמה",
+      "שיקמה"
+    ]
+  },
+  {
+    "code": 314,
+    "nameHe": "תאנה",
+    "aliases": [
+      "התאנה"
+    ]
+  },
+  {
+    "code": 306,
+    "nameHe": "תדהר",
+    "aliases": []
+  },
+  {
+    "code": 302,
+    "nameHe": "תמר",
+    "aliases": [
+      "התמר"
+    ]
+  }
+]

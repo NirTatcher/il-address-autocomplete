@@ -1,0 +1,82 @@
+[
+  {
+    "code": 103,
+    "nameHe": "אזוב",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "האופק",
+    "aliases": [
+      "אופק"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הגבעה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "החורשה",
+    "aliases": [
+      "חורשה"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "הנחל",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הפסגה",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "חצב",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "טנא",
+    "aliases": [
+      "נחל טנא"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "מרווה",
+    "aliases": [
+      "מרוה"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "סלעית",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "עומרים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "עירית",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "קורנית",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "רכסים",
+    "aliases": [
+      "הרכסים"
+    ]
+  }
+]

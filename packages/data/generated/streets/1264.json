@@ -1,0 +1,111 @@
+[
+  {
+    "code": 106,
+    "nameHe": "אורן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "אלון",
+    "aliases": [
+      "האלון"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "ארז",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הברוש",
+    "aliases": [
+      "ברוש"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "הורד",
+    "aliases": [
+      "ורד"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "היסמין",
+    "aliases": [
+      "יסמין"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הנרקיס",
+    "aliases": [
+      "נרקיס"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "הרימון",
+    "aliases": [
+      "הרמון",
+      "רימון",
+      "רמון"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "התאנה",
+    "aliases": [
+      "תאנה"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "התמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "כלנית",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כרמי יוסף",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "סיגלית",
+    "aliases": [
+      "סיגליות"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "סמדר",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "רקפת",
+    "aliases": []
+  }
+]

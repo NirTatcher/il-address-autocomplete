@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 1,
+    "city_code": 5000,
+    "city_name_he": "תל אביב - יפו ",
+    "city_name_en": "Tel Aviv - Yafo",
+    "region_code": 5,
+    "region_name": "תל אביב ",
+    "PIBA_bureau_code": 5,
+    "PIBA_bureau_name": "תל אביב ",
+    "Regional_Council_code": 0,
+    "Regional_Council_name": null
+  },
+  {
+    "_id": 2,
+    "city_code": 3000,
+    "city_name_he": "ירושלים ",
+    "city_name_en": "Jerusalem",
+    "region_code": 1,
+    "region_name": "ירושלים ",
+    "PIBA_bureau_code": 11,
+    "PIBA_bureau_name": "ירושלים ",
+    "Regional_Council_code": 0,
+    "Regional_Council_name": null
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "code": 101,
+    "nameHe": "בית ראשון במולדת",
+    "aliases": [
+      "בית ראשון"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "דרך החצר",
+    "aliases": [
+      "החצר"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "דרך המשק",
+    "aliases": [
+      "המשק"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "דרך ראשית ההתיישבות",
+    "aliases": [
+      "ראשית ההתיישבות"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "הגיתות",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הגנים",
+    "aliases": [
+      "גנים"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "הכרם",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הסלע",
+    "aliases": [
+      "סלע"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "העמק",
+    "aliases": [
+      "עמק"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "הצריפים",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הראשונים",
+    "aliases": [
+      "ראשונים"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "השדה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "השרון-גבת",
+    "aliases": [
+      "השרון גבת"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "יפעת",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "מעלה הגבעה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "שביל החלב",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "שלושת הברושים",
+    "aliases": []
+  }
+]

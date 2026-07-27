@@ -1,0 +1,61 @@
+[
+  {
+    "code": 109,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הוורד",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הכלנית",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הסיגלית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נוגה",
+    "aliases": [
+      "נגה"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "רותם",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שדרות הרקפת",
+    "aliases": [
+      "שד' הרקפת"
+    ]
+  }
+]

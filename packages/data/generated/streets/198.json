@@ -1,0 +1,99 @@
+[
+  {
+    "code": 110,
+    "nameHe": "ברוש",
+    "aliases": [
+      "הברוש"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "גפן",
+    "aliases": [
+      "הגפן"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "דקל",
+    "aliases": [
+      "הדקל"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "האילנות",
+    "aliases": [
+      "אילנות",
+      "אילנית"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הבאר",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הגנים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הדר",
+    "aliases": [
+      "ההדר"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "החצב",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "המצפה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "המשעול",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הקשת",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "השדרה",
+    "aliases": [
+      "שדרה"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "מעלה הגן",
+    "aliases": [
+      "הגן"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "צופית",
+    "aliases": []
+  }
+]

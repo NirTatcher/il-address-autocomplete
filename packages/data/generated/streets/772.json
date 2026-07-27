@@ -1,0 +1,39 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "אמונים",
+    "aliases": [
+      "אימונים"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הדס",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "התאנה",
+    "aliases": []
+  }
+]

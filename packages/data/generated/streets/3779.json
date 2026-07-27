@@ -1,0 +1,271 @@
+[
+  {
+    "code": 217,
+    "nameHe": "אבני חפץ",
+    "aliases": []
+  },
+  {
+    "code": 208,
+    "nameHe": "אגן הסהר",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "אדמורי בעלז",
+    "aliases": [
+      "אדמורי בלז"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "אדמורי צאנז",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "אוהל דוד",
+    "aliases": []
+  },
+  {
+    "code": 200,
+    "nameHe": "אור חדש",
+    "aliases": []
+  },
+  {
+    "code": 213,
+    "nameHe": "אפיקי מים",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "בית יוסף",
+    "aliases": []
+  },
+  {
+    "code": 6501,
+    "nameHe": "גבעת הברכה",
+    "aliases": [
+      "שכ גבעת הברכה"
+    ]
+  },
+  {
+    "code": 207,
+    "nameHe": "גינת אגוז",
+    "aliases": []
+  },
+  {
+    "code": 204,
+    "nameHe": "דבש וחלב",
+    "aliases": [
+      "חלב ודבש"
+    ]
+  },
+  {
+    "code": 227,
+    "nameHe": "דרך כוכב יעקב",
+    "aliases": []
+  },
+  {
+    "code": 202,
+    "nameHe": "הר המור",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "הרמבן",
+    "aliases": []
+  },
+  {
+    "code": 201,
+    "nameHe": "חגווי הסלע",
+    "aliases": [
+      "חגבי הסלע",
+      "חגוי הסלע"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "חזון איש",
+    "aliases": []
+  },
+  {
+    "code": 224,
+    "nameHe": "חסדי אבות",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "חפץ חיים",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "חתם סופר",
+    "aliases": []
+  },
+  {
+    "code": 214,
+    "nameHe": "טיילת ערוגות הבושם",
+    "aliases": [
+      "ערוגות הבושם"
+    ]
+  },
+  {
+    "code": 210,
+    "nameHe": "טירת כסף",
+    "aliases": []
+  },
+  {
+    "code": 223,
+    "nameHe": "טל אורות",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כוכב יעקב",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "לב בנים",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "מאור השמש",
+    "aliases": []
+  },
+  {
+    "code": 225,
+    "nameHe": "מבשר טוב",
+    "aliases": []
+  },
+  {
+    "code": 216,
+    "nameHe": "מים חיים",
+    "aliases": []
+  },
+  {
+    "code": 226,
+    "nameHe": "מעייני הישועה",
+    "aliases": []
+  },
+  {
+    "code": 211,
+    "nameHe": "מעלה בית אל",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "מעלות החוכמה",
+    "aliases": [
+      "מעלות החכמה"
+    ]
+  },
+  {
+    "code": 215,
+    "nameHe": "משכנות הרועים",
+    "aliases": []
+  },
+  {
+    "code": 221,
+    "nameHe": "נהר שלום",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "נתיב אלעזר",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "עטרת צבי",
+    "aliases": []
+  },
+  {
+    "code": 206,
+    "nameHe": "עצי הלבנון",
+    "aliases": [
+      "עצי לבנון"
+    ]
+  },
+  {
+    "code": 205,
+    "nameHe": "פרדס רימונים",
+    "aliases": [
+      "פרדס רמונים"
+    ]
+  },
+  {
+    "code": 209,
+    "nameHe": "פרי מגדים",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "צמח צדיק",
+    "aliases": []
+  },
+  {
+    "code": 219,
+    "nameHe": "צמח צדק",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "קדושת לוי",
+    "aliases": []
+  },
+  {
+    "code": 203,
+    "nameHe": "קול התור",
+    "aliases": []
+  },
+  {
+    "code": 220,
+    "nameHe": "שד אביר יעקב",
+    "aliases": [
+      "אביר יעקב"
+    ]
+  },
+  {
+    "code": 222,
+    "nameHe": "שיבת ציון",
+    "aliases": []
+  },
+  {
+    "code": 218,
+    "nameHe": "שירה חדשה",
+    "aliases": []
+  },
+  {
+    "code": 6503,
+    "nameHe": "שכ שומר אמונים",
+    "aliases": []
+  },
+  {
+    "code": 6502,
+    "nameHe": "שכ שיר השירים",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "שלום בנייך",
+    "aliases": []
+  },
+  {
+    "code": 212,
+    "nameHe": "שמחת עולם",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "תורה מציון",
+    "aliases": []
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אודם",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "גריזים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הארבל",
+    "aliases": [
+      "ארבל"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הארז",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הגלבוע",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הגלעד",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "ההדס",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "ההרים",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הזמורה",
+    "aliases": [
+      "זמורה"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "החרמון",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הלשם",
+    "aliases": [
+      "לשם"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "הנופר",
+    "aliases": [
+      "נופר"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "הסלעים",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הספיר",
+    "aliases": [
+      "ספיר"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "הרימון",
+    "aliases": [
+      "רימון"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "התאנה",
+    "aliases": [
+      "תאנה"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "התבור",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "התמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "טופז",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "יהלום",
+    "aliases": [
+      "היהלום"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "נופך",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "עצמון",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "שגיא",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "שד הזיתים",
+    "aliases": [
+      "הזיתים"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "שוהם",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "שנהב",
+    "aliases": [
+      "השנהב"
+    ]
+  },
+  {
+    "code": 130,
+    "nameHe": "שניר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "שער אפרים",
+    "aliases": []
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "code": 108,
+    "nameHe": "גן השקמים",
+    "aliases": [
+      "השיקמים"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "ההולך בשדות",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הזיתים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הכרמים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "המייסדים",
+    "aliases": [
+      "המיסדים"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "הפרחים",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "מבוא ניצן",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "נוף השדות",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "שדה דוד",
+    "aliases": []
+  }
+]

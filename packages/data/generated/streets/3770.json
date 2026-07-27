@@ -1,0 +1,195 @@
+[
+  {
+    "code": 124,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הארבל",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 132,
+    "nameHe": "הדגן",
+    "aliases": [
+      "דגן"
+    ]
+  },
+  {
+    "code": 133,
+    "nameHe": "הדקל",
+    "aliases": [
+      "דקל"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "החרמון",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "היצהר",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הכרמל",
+    "aliases": [
+      "כרמל"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הלבונה",
+    "aliases": [
+      "לבונה"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "המור",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הצור",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "הר נבו",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הרימון",
+    "aliases": [
+      "הרמון"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "התבור",
+    "aliases": [
+      "תבור"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "התירוש",
+    "aliases": [
+      "תירוש"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "חשמונאים",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "יהלום",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "מוריה",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "מעלה הגלבוע",
+    "aliases": [
+      "מעלה גלבוע"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "מעלה מירון",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "משעול הכרמים",
+    "aliases": [
+      "הכרמים"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "משעול השקמים",
+    "aliases": [
+      "השיקמים",
+      "השקמים"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "נטף",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "עץ הדר",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "עצמון",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "ערבי נחל",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "רמת מודיעין",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "שוהם",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "שיאון",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "שניר",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "תרשיש",
+    "aliases": []
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "code": 105,
+    "nameHe": "נחל איילון",
+    "aliases": [
+      "נחל אילון"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "נחל אלכסנדר",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "נחל ברק",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "נחל דוד",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "נחל הדס",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "נחל ערוגות",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "נחל פארן",
+    "aliases": [
+      "פארן"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "נחל פולג",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "נחל צלמון",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "נחל קנה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "נחל שילה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "צור יצחק",
+    "aliases": []
+  }
+]

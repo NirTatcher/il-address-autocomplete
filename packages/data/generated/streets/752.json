@@ -1,0 +1,26 @@
+[
+  {
+    "code": 102,
+    "nameHe": "הגיא",
+    "aliases": [
+      "גיא"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "ההר",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "המעיין",
+    "aliases": [
+      "מעיין"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "תעוז",
+    "aliases": []
+  }
+]

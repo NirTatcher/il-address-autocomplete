@@ -1,0 +1,86 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "אחיטוב",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "דקלים",
+    "aliases": [
+      "הדקלים"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "האורן",
+    "aliases": [
+      "אורן"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "האלה",
+    "aliases": [
+      "אלה"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "הארז",
+    "aliases": [
+      "ארז"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הלוטם",
+    "aliases": [
+      "לוטם"
+    ]
+  },
+  {
+    "code": 6500,
+    "nameHe": "הרחבה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הרימון",
+    "aliases": [
+      "רימון"
+    ]
+  },
+  {
+    "code": 6002,
+    "nameHe": "ככר הבנים",
+    "aliases": []
+  },
+  {
+    "code": 6001,
+    "nameHe": "ככר המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "תאנה",
+    "aliases": [
+      "התאנה"
+    ]
+  }
+]

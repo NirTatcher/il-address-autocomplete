@@ -1,0 +1,117 @@
+[
+  {
+    "code": 108,
+    "nameHe": "אודם",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "בזלת",
+    "aliases": [
+      "הבזלת"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "גביש",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הפנינה",
+    "aliases": [
+      "פנינה"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "חושן",
+    "aliases": [
+      "החושן"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "טופז",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "טורקיז",
+    "aliases": [
+      "הטורקיז"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "יהלום",
+    "aliases": [
+      "היהלום"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "לבון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "לשם",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "סמטת המים",
+    "aliases": [
+      "המים",
+      "סמ המים"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ענבר",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "צדף",
+    "aliases": [
+      "הצדף"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "קורל",
+    "aliases": [
+      "הקורל"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "שוהם",
+    "aliases": [
+      "השוהם",
+      "שהם"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "שחם",
+    "aliases": []
+  }
+]

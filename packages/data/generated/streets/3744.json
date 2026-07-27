@@ -1,0 +1,105 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "ברוכין",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "האדרת",
+    "aliases": [
+      "אדרת"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "ההדר",
+    "aliases": [
+      "הדר"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "ההוד",
+    "aliases": [
+      "הוד"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "הזוהר",
+    "aliases": [
+      "זוהר"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "החיל",
+    "aliases": [
+      "חיל"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הנוי",
+    "aliases": [
+      "נוי"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הנצח",
+    "aliases": [
+      "נצח"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "העוז",
+    "aliases": [
+      "עוז"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "הצבי",
+    "aliases": [
+      "צבי"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "הרון",
+    "aliases": [
+      "רון"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "השבח",
+    "aliases": [
+      "שבח"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "השגב",
+    "aliases": [
+      "שגב"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "השיר",
+    "aliases": [
+      "שיר"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "התהילה",
+    "aliases": [
+      "תהילה"
+    ]
+  }
+]

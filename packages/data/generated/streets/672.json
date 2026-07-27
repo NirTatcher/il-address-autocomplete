@@ -1,0 +1,70 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "בית נקופה",
+    "aliases": [
+      "בית נקופה החדשה",
+      "בית נקופה חדשה"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "האגוז",
+    "aliases": [
+      "אגוז"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הברוש",
+    "aliases": [
+      "ברוש"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הערבה",
+    "aliases": [
+      "ערבה"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "השקד",
+    "aliases": [
+      "שקד"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "סמ התמר",
+    "aliases": []
+  }
+]

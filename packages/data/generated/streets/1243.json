@@ -1,0 +1,175 @@
+[
+  {
+    "code": 101,
+    "nameHe": "דרך האלון",
+    "aliases": [
+      "האלון"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "האורן",
+    "aliases": [
+      "אורן"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "האלה",
+    "aliases": [
+      "אלה"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הארז",
+    "aliases": [
+      "ארז"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "הבוצר",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "הגורן",
+    "aliases": [
+      "גורן"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "הגת",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "הדגן",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הזורע",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 127,
+    "nameHe": "החורש",
+    "aliases": [
+      "חורש"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "החרוב",
+    "aliases": [
+      "חרוב"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "החרמש",
+    "aliases": [
+      "חרמש"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "היקב",
+    "aliases": [
+      "יקב"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "המגוב",
+    "aliases": [
+      "מגוב"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "המגל",
+    "aliases": [
+      "מגל"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "המורג",
+    "aliases": [
+      "מורג"
+    ]
+  },
+  {
+    "code": 125,
+    "nameHe": "המחרשה",
+    "aliases": [
+      "מחרשה"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "המצפה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הפטל",
+    "aliases": [
+      "פטל"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "הקוצר",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הקמה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הרדוף",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "מורן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "קציר",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "שד האמירים",
+    "aliases": [
+      "האמירים",
+      "שדרות האמירים"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "שדמה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "שיבולת",
+    "aliases": []
+  }
+]

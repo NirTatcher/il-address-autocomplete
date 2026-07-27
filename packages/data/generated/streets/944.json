@@ -1,0 +1,250 @@
+[
+  {
+    "code": 124,
+    "nameHe": "אבו בכר אלצדיק",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "איבן סינא",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "אל אמל",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "אל ואדי",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "אלבוסתאן",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "אלבחר",
+    "aliases": [
+      "אל בחר",
+      "אל-בחר"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "אלביאדר",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "אלביאן",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "אלבסאתין",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "אלג'אר",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "אלג'בל",
+    "aliases": [
+      "אלגבל"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "אלזהור",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "אלזיתון",
+    "aliases": [
+      "הזיתים"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "אלכרום",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "אלכרמה",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "אלנהדה",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "אלנזאז",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "אלנח'יל",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "אלנרג'ס",
+    "aliases": [
+      "אלנרגס"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "אלסנדיאן",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "אלפולאת",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "אלרביע",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "אלרומאן",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "אלרנד",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "אלשיח' נימר",
+    "aliases": [
+      "אלשיך נימר"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "אלתין",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "בית סומא",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "בסמת טבעון",
+    "aliases": [
+      "טבעון"
+    ]
+  },
+  {
+    "code": 138,
+    "nameHe": "דרך יצחק רבין",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "היסמין",
+    "aliases": [
+      "יסמין"
+    ]
+  },
+  {
+    "code": 201,
+    "nameHe": "זובידאת",
+    "aliases": [
+      "זובידאת 2",
+      "זובידאת 3"
+    ]
+  },
+  {
+    "code": 137,
+    "nameHe": "ח'אלד בן אלואליד",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "ח'ואלד",
+    "aliases": [
+      "חואלד",
+      "חוואלד"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "ח'רבה",
+    "aliases": [
+      "ח'ירבה"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "חלף",
+    "aliases": [
+      "חילף",
+      "ערב אל חילף"
+    ]
+  },
+  {
+    "code": 202,
+    "nameHe": "כריים",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "מועד בן ג'בל",
+    "aliases": [
+      "מועד בן גבל"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "מחמוד אלשיך",
+    "aliases": [
+      "מחמוד אלשיח'"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "משאיח סעדיה",
+    "aliases": [
+      "משיח סעדיה",
+      "שכ סעדיה"
+    ]
+  },
+  {
+    "code": 125,
+    "nameHe": "עומר בן אלח'טאב",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "עלי בן אבי טאלב",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "ראס אלואדי",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "רחיים",
+    "aliases": []
+  }
+]

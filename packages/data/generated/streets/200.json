@@ -1,0 +1,64 @@
+[
+  {
+    "code": 109,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "בית ינאי",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "דולפין",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "דקר",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "החבצלת",
+    "aliases": [
+      "חבצלת"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הצוק",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הרדוף",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "השיטה",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "מצפה ים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "נר הלילה",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "קלר",
+    "aliases": []
+  }
+]

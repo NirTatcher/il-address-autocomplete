@@ -1,0 +1,29 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "בארותיים",
+    "aliases": [
+      "בארותים"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "האפיק",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "היובלים",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הנחלים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הפלג",
+    "aliases": []
+  }
+]

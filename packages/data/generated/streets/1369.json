@@ -1,0 +1,116 @@
+[
+  {
+    "code": 102,
+    "nameHe": "גוש קטיף",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הר ארגמן",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הר רמון",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הר שחר",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "כפר דרום",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "מבוא מרשם",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "נחל בשור",
+    "aliases": [
+      "נחל הבשור"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "נחל לכיש",
+    "aliases": [
+      "לכיש"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "נחל משמר",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "נחל נוקד",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "נחל עבדת",
+    "aliases": [
+      "נחל עובדת"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "נחל עין גדי",
+    "aliases": [
+      "עין גדי"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "נחל ערבה",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "נחל צאלים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "נחל צופית",
+    "aliases": [
+      "צופית"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "נחל רביבים",
+    "aliases": [
+      "רביבים"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "נחל רחף",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "נחל תמנע",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נטע",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "תל קטיפא",
+    "aliases": [
+      "תל קטיפה"
+    ]
+  }
+]

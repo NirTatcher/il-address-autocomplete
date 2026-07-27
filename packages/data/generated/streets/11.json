@@ -1,0 +1,49 @@
+[
+  {
+    "code": 107,
+    "nameHe": "החרצית",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "היסמין",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הכלנית",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הנורית",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הנרקיס",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הסביון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הצבעוני",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "ניר חן",
+    "aliases": []
+  },
+  {
+    "code": 100,
+    "nameHe": "שדרות הפרחים",
+    "aliases": [
+      "שד הפרחים"
+    ]
+  }
+]

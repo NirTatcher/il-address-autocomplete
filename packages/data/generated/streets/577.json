@@ -1,0 +1,333 @@
+[
+  {
+    "code": 105,
+    "nameHe": "אנפה",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "אפיקים",
+    "aliases": []
+  },
+  {
+    "code": 143,
+    "nameHe": "ארבל",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "גדרון",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "דיה",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "דרור",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "דרך האבות",
+    "aliases": [
+      "האבות"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "דרך יונתן",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "דרך מיכה",
+    "aliases": [
+      "מיכה"
+    ]
+  },
+  {
+    "code": 134,
+    "nameHe": "האשל",
+    "aliases": [
+      "אשל"
+    ]
+  },
+  {
+    "code": 130,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "הושע",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "הנחלים",
+    "aliases": [
+      "נחלים"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "הראל",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "הרימון",
+    "aliases": [
+      "רימון"
+    ]
+  },
+  {
+    "code": 138,
+    "nameHe": "השחף",
+    "aliases": [
+      "שחף"
+    ]
+  },
+  {
+    "code": 139,
+    "nameHe": "השלו",
+    "aliases": [
+      "השליו",
+      "שלו",
+      "שליו"
+    ]
+  },
+  {
+    "code": 132,
+    "nameHe": "התאנה",
+    "aliases": [
+      "תאנה"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "ורדית",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "זמיר",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "חוחית",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "חנה למדן",
+    "aliases": [
+      "למדן חנה"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "יד בנימין",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "יסעור",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "יעלה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "כחל",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "כרמל",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "מגלן",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "מוריה",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "מירון",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "מעלה עמוס",
+    "aliases": [
+      "עמוס"
+    ]
+  },
+  {
+    "code": 144,
+    "nameHe": "מצדה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "נחליאלי",
+    "aliases": []
+  },
+  {
+    "code": 149,
+    "nameHe": "נשר",
+    "aliases": [
+      "הנשר",
+      "מרית"
+    ]
+  },
+  {
+    "code": 146,
+    "nameHe": "סמ גלבוע",
+    "aliases": [
+      "גלבוע"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "סמ חגי",
+    "aliases": [
+      "חגי"
+    ]
+  },
+  {
+    "code": 125,
+    "nameHe": "סמ יואל",
+    "aliases": [
+      "יואל"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "סמ יונה",
+    "aliases": [
+      "יונה"
+    ]
+  },
+  {
+    "code": 147,
+    "nameHe": "סמ עמשא",
+    "aliases": [
+      "עמשא"
+    ]
+  },
+  {
+    "code": 148,
+    "nameHe": "סמ עצמון",
+    "aliases": [
+      "עצמון"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "סמ שקד",
+    "aliases": [
+      "השקד",
+      "סמ השקד",
+      "שקד"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "סנונית",
+    "aliases": []
+  },
+  {
+    "code": 145,
+    "nameHe": "סער",
+    "aliases": [
+      "הסער"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "עגור",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "צופית",
+    "aliases": []
+  },
+  {
+    "code": 6501,
+    "nameHe": "שכ נירים",
+    "aliases": [
+      "נירים"
+    ]
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ נתיבה",
+    "aliases": [
+      "נתיבה"
+    ]
+  },
+  {
+    "code": 6504,
+    "nameHe": "שכ עידית",
+    "aliases": [
+      "עידית"
+    ]
+  },
+  {
+    "code": 6506,
+    "nameHe": "שכ שדות",
+    "aliases": [
+      "שדות"
+    ]
+  },
+  {
+    "code": 6503,
+    "nameHe": "שכ שקמים",
+    "aliases": [
+      "שקמים"
+    ]
+  },
+  {
+    "code": 6502,
+    "nameHe": "שכ תמנה",
+    "aliases": [
+      "תמנה"
+    ]
+  },
+  {
+    "code": 6505,
+    "nameHe": "שכ תמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "שניר",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "תבור",
+    "aliases": [
+      "התבור"
+    ]
+  }
+]

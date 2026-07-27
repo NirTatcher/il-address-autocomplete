@@ -1,0 +1,42 @@
+[
+  {
+    "code": 101,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "החיטה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "השעורה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "פעמי תשז",
+    "aliases": []
+  }
+]

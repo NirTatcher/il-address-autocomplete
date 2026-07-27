@@ -1,0 +1,48 @@
+[
+  {
+    "code": 111,
+    "nameHe": "הר יעלה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הר סנסן",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הר עוזרר",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "מלבר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "מסילת ציון",
+    "aliases": [
+      "מסלת ציון"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "סמ מאלה",
+    "aliases": [
+      "מאלה"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "קוצ'ין",
+    "aliases": [
+      "קוצין"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "קרלה",
+    "aliases": []
+  }
+]

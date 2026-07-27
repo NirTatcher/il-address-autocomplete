@@ -1,0 +1,36 @@
+[
+  {
+    "code": 101,
+    "nameHe": "מגל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "מורג",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "נוף הרים",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "נוף שדות",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "עולש",
+    "aliases": [
+      "עלש"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "שדרות היוגב",
+    "aliases": [
+      "היוגב"
+    ]
+  }
+]

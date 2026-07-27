@@ -1,0 +1,64 @@
+[
+  {
+    "code": 304,
+    "nameHe": "אודם",
+    "aliases": []
+  },
+  {
+    "code": 310,
+    "nameHe": "אמיר",
+    "aliases": []
+  },
+  {
+    "code": 305,
+    "nameHe": "גלבוע",
+    "aliases": []
+  },
+  {
+    "code": 306,
+    "nameHe": "גריזים",
+    "aliases": []
+  },
+  {
+    "code": 311,
+    "nameHe": "חברון",
+    "aliases": []
+  },
+  {
+    "code": 301,
+    "nameHe": "חרמון",
+    "aliases": []
+  },
+  {
+    "code": 303,
+    "nameHe": "כרמל",
+    "aliases": []
+  },
+  {
+    "code": 302,
+    "nameHe": "מירון",
+    "aliases": []
+  },
+  {
+    "code": 309,
+    "nameHe": "מצדה",
+    "aliases": []
+  },
+  {
+    "code": 307,
+    "nameHe": "סרטבה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "רחלים",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ נופי נחמיה",
+    "aliases": [
+      "רחלים מערב"
+    ]
+  }
+]

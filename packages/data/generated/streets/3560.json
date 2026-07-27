@@ -1,0 +1,353 @@
+[
+  {
+    "code": 139,
+    "nameHe": "אבקת רוכל",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "אדני פז",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "אהלי קידר",
+    "aliases": [
+      "אוהלי קידר"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "איבי הנחל",
+    "aliases": []
+  },
+  {
+    "code": 149,
+    "nameHe": "אילות השדה",
+    "aliases": [
+      "איילות השדה"
+    ]
+  },
+  {
+    "code": 170,
+    "nameHe": "אלף המגן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "אלקנה",
+    "aliases": [
+      "מסחה",
+      "פארים"
+    ]
+  },
+  {
+    "code": 125,
+    "nameHe": "אעלה בתמר",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "אפיקי מים",
+    "aliases": []
+  },
+  {
+    "code": 165,
+    "nameHe": "ארזים",
+    "aliases": [
+      "הארזים"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "אשכולות הגפן",
+    "aliases": []
+  },
+  {
+    "code": 154,
+    "nameHe": "בנות ירושלים",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "גבורי ישראל",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "גבעת הלבונה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "גינת אגוז",
+    "aliases": []
+  },
+  {
+    "code": 167,
+    "nameHe": "הכרם",
+    "aliases": [
+      "כרם"
+    ]
+  },
+  {
+    "code": 146,
+    "nameHe": "הר גלעד",
+    "aliases": []
+  },
+  {
+    "code": 147,
+    "nameHe": "הר המור",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "הרי בשמים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "חבצלת השרון",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "חגוי הסלע",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "חוט השני",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "חרמון",
+    "aliases": [
+      "החרמון"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "טורי זהב",
+    "aliases": []
+  },
+  {
+    "code": 163,
+    "nameHe": "כרכום",
+    "aliases": []
+  },
+  {
+    "code": 148,
+    "nameHe": "כרמל",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "מגדל דוד",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "מגדל הלבנון",
+    "aliases": [
+      "מגדל לבנון"
+    ]
+  },
+  {
+    "code": 6503,
+    "nameHe": "מגן דן",
+    "aliases": []
+  },
+  {
+    "code": 145,
+    "nameHe": "מחניים",
+    "aliases": []
+  },
+  {
+    "code": 161,
+    "nameHe": "מים חיים",
+    "aliases": []
+  },
+  {
+    "code": 6501,
+    "nameHe": "מכללת אורות",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "מעין גנים",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "מעלה ארגמן",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "משכנות הרועים",
+    "aliases": []
+  },
+  {
+    "code": 151,
+    "nameHe": "משעול ספיר",
+    "aliases": [
+      "ספיר"
+    ]
+  },
+  {
+    "code": 152,
+    "nameHe": "משעול תרשיש",
+    "aliases": [
+      "תרשיש"
+    ]
+  },
+  {
+    "code": 166,
+    "nameHe": "ניצנים",
+    "aliases": [
+      "הניצנים"
+    ]
+  },
+  {
+    "code": 141,
+    "nameHe": "סמדר",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "עורי צפון",
+    "aliases": []
+  },
+  {
+    "code": 144,
+    "nameHe": "עין גדי",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "עמודי שיש",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "עקבי הצאן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "ערוגות הבושם",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "עת הזמיר",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "פלח הרימון",
+    "aliases": []
+  },
+  {
+    "code": 164,
+    "nameHe": "פרדס רימונים",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "פרי מגדים",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "צרור המור",
+    "aliases": [
+      "דרור המור"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "קול התור",
+    "aliases": []
+  },
+  {
+    "code": 162,
+    "nameHe": "קינמון",
+    "aliases": [
+      "קנמון"
+    ]
+  },
+  {
+    "code": 6500,
+    "nameHe": "קרית חינוך",
+    "aliases": [
+      "קרית חנוך"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "רשפי אש",
+    "aliases": []
+  },
+  {
+    "code": 150,
+    "nameHe": "שדרות שלמה המלך",
+    "aliases": [
+      "המלך שלמה",
+      "שד' שלמה המלך",
+      "שדרות המלך שלמה",
+      "שלמה המלך"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "שומרי החומות",
+    "aliases": []
+  },
+  {
+    "code": 168,
+    "nameHe": "שושנים",
+    "aliases": [
+      "השושנים"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "שושנת העמקים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "שיר השירים",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "שלטי גבורים",
+    "aliases": [
+      "שלטי גיבורים"
+    ]
+  },
+  {
+    "code": 132,
+    "nameHe": "שניר",
+    "aliases": []
+  },
+  {
+    "code": 143,
+    "nameHe": "תאנה",
+    "aliases": []
+  },
+  {
+    "code": 153,
+    "nameHe": "תלפיות",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "תפוח",
+    "aliases": []
+  }
+]

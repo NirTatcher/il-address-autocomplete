@@ -1,0 +1,196 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אורות התחייה",
+    "aliases": [
+      "אורות התחיה"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "אחוות ישראל",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "אירוס הגולן",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "ארזי הלבנון",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "ארץ חמדה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "בניין הארץ",
+    "aliases": [
+      "בנין הארץ"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "גולן בבשן",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "דרך ארץ",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "דרך הרב קוק",
+    "aliases": [
+      "הרב קוק"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "המשתלה",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "זוויתן",
+    "aliases": [
+      "זויתן"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "חוות יאיר",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "חומה ומגדל",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "חלב ודבש",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "חלוצים",
+    "aliases": [
+      "החלוצים"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "חלמונית",
+    "aliases": [
+      "החלמונית"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "טל חרמון",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "ירדן",
+    "aliases": [
+      "הירדן"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "כ' באייר",
+    "aliases": [
+      "כ באייר"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "כליל החורש",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "כנפי נשרים",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "משעול הרב צבי יהודה",
+    "aliases": [
+      "הרב צבי יהודה"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "נחלת מנשה",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "נצח ישראל",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "סער",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "עין קשתות",
+    "aliases": [
+      "עין הקשתות"
+    ]
+  },
+  {
+    "code": 127,
+    "nameHe": "קול התור",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "קשת",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "רבי אבון",
+    "aliases": [
+      "ר' אבון"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "רבי אליעזר הקפר",
+    "aliases": [
+      "ר' אליעזר הקפר"
+    ]
+  },
+  {
+    "code": 130,
+    "nameHe": "שיאון",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "שיבת ציון",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "שניר",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "תפארת בנימין",
+    "aliases": []
+  }
+]

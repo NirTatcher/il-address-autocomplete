@@ -1,0 +1,162 @@
+[
+  {
+    "code": 118,
+    "nameHe": "אגוז",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "אנשי בראשית",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "בני ציון",
+    "aliases": [
+      "כ חלוצים"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "דרך השדות",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "דרך השלולית",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "הלימון",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "המחרשה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "המנים",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הנחל",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "התלתן",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "חורשת האורנים",
+    "aliases": [
+      "האורנים"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "חורשת האקליפטוס",
+    "aliases": [
+      "האקליפטוס"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "חמציץ",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "חצב",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "חרמש",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "חרצית",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "לוטוס",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "לוטם",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "מגל",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "מרווה",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "נענע",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "סחלב",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "סייפן",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "פרג",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "צאלון",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "קורנית",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "רימונים",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "שביל קליפות התפוזים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שיזף",
+    "aliases": [
+      "שזיף"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "תורמוס",
+    "aliases": [
+      "סמ תורמוס"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "code": 101,
+    "nameHe": "דרך החמה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "דרך החצב",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "דרך הים",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "דרך המצוק",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "דרך העמק",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "דרך השדה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "דרך השקד",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "דרך התבור",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "השיזף",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "פוריה עילית",
+    "aliases": [
+      "פוריה עלית"
+    ]
+  }
+]

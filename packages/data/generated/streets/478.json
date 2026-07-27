@@ -1,0 +1,836 @@
+[
+  {
+    "code": 6721,
+    "nameHe": "אזור בתי הספר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "אכסאל",
+    "aliases": [
+      "איכסאל",
+      "איכסל"
+    ]
+  },
+  {
+    "code": 6732,
+    "nameHe": "דנאנה",
+    "aliases": [
+      "שכ דנאנה"
+    ]
+  },
+  {
+    "code": 6713,
+    "nameHe": "הזיתים",
+    "aliases": [
+      "השכונה הדרומית",
+      "שכ דרומית",
+      "שכ הזיתים"
+    ]
+  },
+  {
+    "code": 6730,
+    "nameHe": "זייתון אלשמאלי",
+    "aliases": [
+      "שכ זייתון אלשמאלי"
+    ]
+  },
+  {
+    "code": 6720,
+    "nameHe": "מרכז-מדרום למסגד",
+    "aliases": []
+  },
+  {
+    "code": 6722,
+    "nameHe": "מרכז-מצפון למסגד",
+    "aliases": [
+      "וסט אל בלד",
+      "וסט אל-בלד",
+      "וסט אלבלד",
+      "מרכז הכפר"
+    ]
+  },
+  {
+    "code": 6711,
+    "nameHe": "סעד וסעיד",
+    "aliases": [
+      "אבו בכר אלצדיק",
+      "שכ סעד וסעיד"
+    ]
+  },
+  {
+    "code": 157,
+    "nameHe": "רח 1",
+    "aliases": []
+  },
+  {
+    "code": 264,
+    "nameHe": "רח 10",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "רח 100",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "רח 101",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "רח 102",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "רח 104",
+    "aliases": []
+  },
+  {
+    "code": 143,
+    "nameHe": "רח 105",
+    "aliases": []
+  },
+  {
+    "code": 144,
+    "nameHe": "רח 106",
+    "aliases": []
+  },
+  {
+    "code": 145,
+    "nameHe": "רח 107",
+    "aliases": []
+  },
+  {
+    "code": 146,
+    "nameHe": "רח 108",
+    "aliases": []
+  },
+  {
+    "code": 147,
+    "nameHe": "רח 109",
+    "aliases": []
+  },
+  {
+    "code": 226,
+    "nameHe": "רח 11",
+    "aliases": []
+  },
+  {
+    "code": 148,
+    "nameHe": "רח 110",
+    "aliases": []
+  },
+  {
+    "code": 149,
+    "nameHe": "רח 111",
+    "aliases": []
+  },
+  {
+    "code": 150,
+    "nameHe": "רח 112",
+    "aliases": []
+  },
+  {
+    "code": 151,
+    "nameHe": "רח 113",
+    "aliases": []
+  },
+  {
+    "code": 186,
+    "nameHe": "רח 114",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "רח 115",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "רח 116",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "רח 117",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "רח 118",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "רח 119",
+    "aliases": []
+  },
+  {
+    "code": 227,
+    "nameHe": "רח 12",
+    "aliases": []
+  },
+  {
+    "code": 152,
+    "nameHe": "רח 120",
+    "aliases": []
+  },
+  {
+    "code": 154,
+    "nameHe": "רח 121",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "רח 122",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "רח 123",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "רח 124",
+    "aliases": []
+  },
+  {
+    "code": 228,
+    "nameHe": "רח 13",
+    "aliases": []
+  },
+  {
+    "code": 229,
+    "nameHe": "רח 14",
+    "aliases": []
+  },
+  {
+    "code": 158,
+    "nameHe": "רח 15",
+    "aliases": []
+  },
+  {
+    "code": 203,
+    "nameHe": "רח 150",
+    "aliases": []
+  },
+  {
+    "code": 204,
+    "nameHe": "רח 151",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "רח 153",
+    "aliases": []
+  },
+  {
+    "code": 188,
+    "nameHe": "רח 154",
+    "aliases": []
+  },
+  {
+    "code": 243,
+    "nameHe": "רח 155",
+    "aliases": []
+  },
+  {
+    "code": 222,
+    "nameHe": "רח 156",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "רח 157",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "רח 158",
+    "aliases": []
+  },
+  {
+    "code": 260,
+    "nameHe": "רח 159",
+    "aliases": []
+  },
+  {
+    "code": 230,
+    "nameHe": "רח 16",
+    "aliases": []
+  },
+  {
+    "code": 223,
+    "nameHe": "רח 160",
+    "aliases": []
+  },
+  {
+    "code": 205,
+    "nameHe": "רח 161",
+    "aliases": []
+  },
+  {
+    "code": 258,
+    "nameHe": "רח 162",
+    "aliases": []
+  },
+  {
+    "code": 259,
+    "nameHe": "רח 163",
+    "aliases": []
+  },
+  {
+    "code": 265,
+    "nameHe": "רח 164",
+    "aliases": []
+  },
+  {
+    "code": 263,
+    "nameHe": "רח 17",
+    "aliases": []
+  },
+  {
+    "code": 231,
+    "nameHe": "רח 18",
+    "aliases": []
+  },
+  {
+    "code": 232,
+    "nameHe": "רח 19",
+    "aliases": []
+  },
+  {
+    "code": 195,
+    "nameHe": "רח 195",
+    "aliases": []
+  },
+  {
+    "code": 164,
+    "nameHe": "רח 2",
+    "aliases": []
+  },
+  {
+    "code": 233,
+    "nameHe": "רח 20",
+    "aliases": []
+  },
+  {
+    "code": 251,
+    "nameHe": "רח 200",
+    "aliases": []
+  },
+  {
+    "code": 252,
+    "nameHe": "רח 201",
+    "aliases": []
+  },
+  {
+    "code": 253,
+    "nameHe": "רח 202",
+    "aliases": []
+  },
+  {
+    "code": 254,
+    "nameHe": "רח 203",
+    "aliases": []
+  },
+  {
+    "code": 234,
+    "nameHe": "רח 21",
+    "aliases": []
+  },
+  {
+    "code": 235,
+    "nameHe": "רח 22",
+    "aliases": []
+  },
+  {
+    "code": 171,
+    "nameHe": "רח 23",
+    "aliases": []
+  },
+  {
+    "code": 237,
+    "nameHe": "רח 24",
+    "aliases": []
+  },
+  {
+    "code": 238,
+    "nameHe": "רח 25",
+    "aliases": []
+  },
+  {
+    "code": 239,
+    "nameHe": "רח 26",
+    "aliases": []
+  },
+  {
+    "code": 240,
+    "nameHe": "רח 27",
+    "aliases": []
+  },
+  {
+    "code": 241,
+    "nameHe": "רח 28",
+    "aliases": []
+  },
+  {
+    "code": 206,
+    "nameHe": "רח 29",
+    "aliases": []
+  },
+  {
+    "code": 165,
+    "nameHe": "רח 3",
+    "aliases": []
+  },
+  {
+    "code": 172,
+    "nameHe": "רח 30",
+    "aliases": []
+  },
+  {
+    "code": 208,
+    "nameHe": "רח 31",
+    "aliases": []
+  },
+  {
+    "code": 209,
+    "nameHe": "רח 32",
+    "aliases": []
+  },
+  {
+    "code": 210,
+    "nameHe": "רח 33",
+    "aliases": []
+  },
+  {
+    "code": 211,
+    "nameHe": "רח 34",
+    "aliases": []
+  },
+  {
+    "code": 212,
+    "nameHe": "רח 35",
+    "aliases": []
+  },
+  {
+    "code": 213,
+    "nameHe": "רח 36",
+    "aliases": []
+  },
+  {
+    "code": 261,
+    "nameHe": "רח 37",
+    "aliases": []
+  },
+  {
+    "code": 214,
+    "nameHe": "רח 38",
+    "aliases": []
+  },
+  {
+    "code": 215,
+    "nameHe": "רח 39",
+    "aliases": []
+  },
+  {
+    "code": 166,
+    "nameHe": "רח 4",
+    "aliases": []
+  },
+  {
+    "code": 216,
+    "nameHe": "רח 40",
+    "aliases": []
+  },
+  {
+    "code": 217,
+    "nameHe": "רח 41",
+    "aliases": []
+  },
+  {
+    "code": 218,
+    "nameHe": "רח 42",
+    "aliases": []
+  },
+  {
+    "code": 219,
+    "nameHe": "רח 43",
+    "aliases": []
+  },
+  {
+    "code": 100,
+    "nameHe": "רח 45",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "רח 46",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "רח 47",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "רח 48",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "רח 49",
+    "aliases": []
+  },
+  {
+    "code": 167,
+    "nameHe": "רח 5",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "רח 50",
+    "aliases": []
+  },
+  {
+    "code": 245,
+    "nameHe": "רח 500",
+    "aliases": []
+  },
+  {
+    "code": 246,
+    "nameHe": "רח 502",
+    "aliases": []
+  },
+  {
+    "code": 247,
+    "nameHe": "רח 503",
+    "aliases": []
+  },
+  {
+    "code": 248,
+    "nameHe": "רח 504",
+    "aliases": []
+  },
+  {
+    "code": 249,
+    "nameHe": "רח 505",
+    "aliases": []
+  },
+  {
+    "code": 250,
+    "nameHe": "רח 507",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "רח 51",
+    "aliases": []
+  },
+  {
+    "code": 262,
+    "nameHe": "רח 510",
+    "aliases": []
+  },
+  {
+    "code": 244,
+    "nameHe": "רח 512",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "רח 52",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "רח 53",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "רח 54",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "רח 55",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "רח 56",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "רח 57",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "רח 58",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "רח 59",
+    "aliases": []
+  },
+  {
+    "code": 168,
+    "nameHe": "רח 6",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "רח 60",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "רח 61",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "רח 62",
+    "aliases": []
+  },
+  {
+    "code": 156,
+    "nameHe": "רח 63",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "רח 64",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "רח 65",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "רח 66",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "רח 67",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "רח 68",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "רח 71",
+    "aliases": []
+  },
+  {
+    "code": 192,
+    "nameHe": "רח 73",
+    "aliases": []
+  },
+  {
+    "code": 193,
+    "nameHe": "רח 74",
+    "aliases": []
+  },
+  {
+    "code": 194,
+    "nameHe": "רח 75",
+    "aliases": []
+  },
+  {
+    "code": 220,
+    "nameHe": "רח 76",
+    "aliases": []
+  },
+  {
+    "code": 196,
+    "nameHe": "רח 77",
+    "aliases": []
+  },
+  {
+    "code": 197,
+    "nameHe": "רח 78",
+    "aliases": []
+  },
+  {
+    "code": 198,
+    "nameHe": "רח 79",
+    "aliases": []
+  },
+  {
+    "code": 169,
+    "nameHe": "רח 8",
+    "aliases": []
+  },
+  {
+    "code": 199,
+    "nameHe": "רח 80",
+    "aliases": []
+  },
+  {
+    "code": 200,
+    "nameHe": "רח 81",
+    "aliases": []
+  },
+  {
+    "code": 173,
+    "nameHe": "רח 82",
+    "aliases": []
+  },
+  {
+    "code": 174,
+    "nameHe": "רח 83",
+    "aliases": []
+  },
+  {
+    "code": 175,
+    "nameHe": "רח 84",
+    "aliases": []
+  },
+  {
+    "code": 176,
+    "nameHe": "רח 86",
+    "aliases": []
+  },
+  {
+    "code": 177,
+    "nameHe": "רח 87",
+    "aliases": []
+  },
+  {
+    "code": 178,
+    "nameHe": "רח 88",
+    "aliases": []
+  },
+  {
+    "code": 179,
+    "nameHe": "רח 89",
+    "aliases": []
+  },
+  {
+    "code": 170,
+    "nameHe": "רח 9",
+    "aliases": []
+  },
+  {
+    "code": 159,
+    "nameHe": "רח 90",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "רח 91",
+    "aliases": []
+  },
+  {
+    "code": 182,
+    "nameHe": "רח 92",
+    "aliases": []
+  },
+  {
+    "code": 161,
+    "nameHe": "רח 93",
+    "aliases": []
+  },
+  {
+    "code": 162,
+    "nameHe": "רח 94",
+    "aliases": []
+  },
+  {
+    "code": 184,
+    "nameHe": "רח 95",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "רח 96",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "רח 97",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "רח 98",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "רח 99",
+    "aliases": []
+  },
+  {
+    "code": 6714,
+    "nameHe": "שכונה חדשה",
+    "aliases": [
+      "השכונה החדשה",
+      "שכ חדשה"
+    ]
+  },
+  {
+    "code": 6710,
+    "nameHe": "שכונה מזרחית",
+    "aliases": [
+      "א שרקיה",
+      "א שרקייה",
+      "א)ל(שרקיה",
+      "א)ל(שרקייה",
+      "א-שרקיה",
+      "א-שרקייה",
+      "אל שרקיה",
+      "אל שרקייה",
+      "אל-שרקיה",
+      "אל-שרקייה",
+      "אלשרקייה",
+      "אשרקיה",
+      "השכונה המזרחית",
+      "שכ מזרחית",
+      "שרקיה",
+      "שרקייה"
+    ]
+  },
+  {
+    "code": 6731,
+    "nameHe": "שכונה מערבית",
+    "aliases": [
+      "השכונה המערבית",
+      "שכ אל ערבייה",
+      "שכ אל-גרבייה",
+      "שכ אל-ערבייה",
+      "שכ אל-ר'רבייה",
+      "שכ אלגרבייה",
+      "שכ אלע'רבייה",
+      "שכ אלערבייה",
+      "שכ אלר'רבייה",
+      "שכ אע'רבייה",
+      "שכ מערבית"
+    ]
+  },
+  {
+    "code": 6712,
+    "nameHe": "שכונה צפונית",
+    "aliases": [
+      "השכונה הצפונית",
+      "שכ צפונית"
+    ]
+  }
+]

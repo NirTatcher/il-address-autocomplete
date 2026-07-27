@@ -1,0 +1,61 @@
+[
+  {
+    "code": 105,
+    "nameHe": "ארבל",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "אשלים",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "בית עריף",
+    "aliases": [
+      "עריף"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "דולב",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "יעלים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "ירדן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "לוטם",
+    "aliases": [
+      "הלוטם"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "ערוגות",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "פולג",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "שניר",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "תבור",
+    "aliases": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "code": 105,
+    "nameHe": "הבציר",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "המייסדים",
+    "aliases": [
+      "מייסדים"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "המסיק",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הקטיף",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הראשונים",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "קיבוץ גלויות",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שדרת הדקלים",
+    "aliases": [
+      "דקלים",
+      "הדקלים"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "שחר",
+    "aliases": []
+  }
+]

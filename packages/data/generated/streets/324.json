@@ -1,0 +1,41 @@
+[
+  {
+    "code": 106,
+    "nameHe": "הירדן",
+    "aliases": [
+      "ירדן"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "המעיין",
+    "aliases": [
+      "מעיין"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "טל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "יובלים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "נחלים",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "פלגי מים",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "שאר ישוב",
+    "aliases": []
+  }
+]

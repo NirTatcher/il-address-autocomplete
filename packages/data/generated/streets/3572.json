@@ -1,0 +1,73 @@
+[
+  {
+    "code": 120,
+    "nameHe": "אזור תעשייה רימון",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הארז",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הדס",
+    "aliases": [
+      "ההדס"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "הדר",
+    "aliases": [
+      "ההדר"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "יסמין",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר תפוח",
+    "aliases": [
+      "תפוח"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "לבונה",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "רחלים",
+    "aliases": [
+      "ש רחלים",
+      "שכ רחלים"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "שבילי הגפן",
+    "aliases": [
+      "הגפן"
+    ]
+  }
+]

@@ -1,0 +1,701 @@
+[
+  {
+    "code": 117,
+    "nameHe": "אבשלום",
+    "aliases": []
+  },
+  {
+    "code": 188,
+    "nameHe": "אדיר זיק",
+    "aliases": [
+      "זיק אדיר"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "אופירה",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "אלון",
+    "aliases": []
+  },
+  {
+    "code": 182,
+    "nameHe": "אלעזר",
+    "aliases": []
+  },
+  {
+    "code": 169,
+    "nameHe": "אסא המלך",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "אעלה בתמר",
+    "aliases": []
+  },
+  {
+    "code": 210,
+    "nameHe": "אפרים",
+    "aliases": []
+  },
+  {
+    "code": 195,
+    "nameHe": "אצל",
+    "aliases": []
+  },
+  {
+    "code": 174,
+    "nameHe": "ארץ חמדה",
+    "aliases": []
+  },
+  {
+    "code": 199,
+    "nameHe": "בועז",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "בילו",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "בית אל",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "בית אל ב'",
+    "aliases": [
+      "בית אל ב"
+    ]
+  },
+  {
+    "code": 212,
+    "nameHe": "בנימין",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "ברוש",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 144,
+    "nameHe": "גינת אגוז",
+    "aliases": []
+  },
+  {
+    "code": 166,
+    "nameHe": "גפן",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "דקלה",
+    "aliases": []
+  },
+  {
+    "code": 177,
+    "nameHe": "דרור",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "דרך ביטחון",
+    "aliases": []
+  },
+  {
+    "code": 200,
+    "nameHe": "דרך בית אל",
+    "aliases": []
+  },
+  {
+    "code": 215,
+    "nameHe": "דרך האמהות",
+    "aliases": []
+  },
+  {
+    "code": 153,
+    "nameHe": "דרך החיים",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "דרך החלוצים",
+    "aliases": [
+      "החלוצים"
+    ]
+  },
+  {
+    "code": 216,
+    "nameHe": "דרך העמק",
+    "aliases": []
+  },
+  {
+    "code": 208,
+    "nameHe": "דרך שבטי ישראל",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "דרך שבעת המינים",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "האולפנא",
+    "aliases": [
+      "אולפנה רעיה",
+      "האולפנה"
+    ]
+  },
+  {
+    "code": 187,
+    "nameHe": "האחוזה",
+    "aliases": []
+  },
+  {
+    "code": 197,
+    "nameHe": "הגנה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "המעפילים",
+    "aliases": []
+  },
+  {
+    "code": 146,
+    "nameHe": "המפעל",
+    "aliases": []
+  },
+  {
+    "code": 157,
+    "nameHe": "הנזיר",
+    "aliases": []
+  },
+  {
+    "code": 176,
+    "nameHe": "הנציב",
+    "aliases": []
+  },
+  {
+    "code": 190,
+    "nameHe": "הרב מרדכי אליהו",
+    "aliases": [
+      "הרב אליהו מרדכי",
+      "מרדכי אליהו"
+    ]
+  },
+  {
+    "code": 189,
+    "nameHe": "הרב שפירא",
+    "aliases": [
+      "אברהם אלקנה שפירא",
+      "שפירא אברהם אלקנה"
+    ]
+  },
+  {
+    "code": 179,
+    "nameHe": "התחיה",
+    "aliases": []
+  },
+  {
+    "code": 209,
+    "nameHe": "זבולון",
+    "aliases": []
+  },
+  {
+    "code": 165,
+    "nameHe": "זית",
+    "aliases": [
+      "הזית"
+    ]
+  },
+  {
+    "code": 172,
+    "nameHe": "חזקיהו המלך",
+    "aliases": []
+  },
+  {
+    "code": 156,
+    "nameHe": "חיבת ציון",
+    "aliases": []
+  },
+  {
+    "code": 161,
+    "nameHe": "חיטה",
+    "aliases": []
+  },
+  {
+    "code": 180,
+    "nameHe": "חלמיש",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "חצר אדר",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "חרובית",
+    "aliases": []
+  },
+  {
+    "code": 181,
+    "nameHe": "יהודה המכבי",
+    "aliases": []
+  },
+  {
+    "code": 170,
+    "nameHe": "יהושפט",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "יהלום",
+    "aliases": []
+  },
+  {
+    "code": 185,
+    "nameHe": "יוחנן",
+    "aliases": []
+  },
+  {
+    "code": 183,
+    "nameHe": "יונתן",
+    "aliases": []
+  },
+  {
+    "code": 171,
+    "nameHe": "יותם",
+    "aliases": []
+  },
+  {
+    "code": 198,
+    "nameHe": "יכין",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "ימית",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "כ' בחשון",
+    "aliases": [
+      "כ בחשוון",
+      "כ בחשון"
+    ]
+  },
+  {
+    "code": 173,
+    "nameHe": "כינור דוד",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "כנפי נשרים",
+    "aliases": []
+  },
+  {
+    "code": 214,
+    "nameHe": "לאה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "לבי במזרח",
+    "aliases": []
+  },
+  {
+    "code": 207,
+    "nameHe": "לוי",
+    "aliases": []
+  },
+  {
+    "code": 196,
+    "nameHe": "לחי",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "מבוא אבני החושן",
+    "aliases": []
+  },
+  {
+    "code": 148,
+    "nameHe": "מבוא אתרוג",
+    "aliases": [
+      "אתרוג",
+      "האתרוג",
+      "מבוא האתרוג"
+    ]
+  },
+  {
+    "code": 134,
+    "nameHe": "מבוא האורנים",
+    "aliases": []
+  },
+  {
+    "code": 147,
+    "nameHe": "מבוא הדס",
+    "aliases": [
+      "הדס",
+      "ההדס",
+      "מבוא ההדס"
+    ]
+  },
+  {
+    "code": 151,
+    "nameHe": "מבוא הישיבה",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "מבוא התקומה",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "מבוא ליבנה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "מבצע שלמה",
+    "aliases": []
+  },
+  {
+    "code": 159,
+    "nameHe": "מי מרום",
+    "aliases": []
+  },
+  {
+    "code": 211,
+    "nameHe": "מנשה",
+    "aliases": []
+  },
+  {
+    "code": 150,
+    "nameHe": "מעגלי הראה",
+    "aliases": []
+  },
+  {
+    "code": 186,
+    "nameHe": "מעוז צור",
+    "aliases": []
+  },
+  {
+    "code": 175,
+    "nameHe": "מעלה האמונה",
+    "aliases": []
+  },
+  {
+    "code": 218,
+    "nameHe": "מעלה הרב אלון",
+    "aliases": [
+      "המסילה"
+    ]
+  },
+  {
+    "code": 178,
+    "nameHe": "מעלה שופר",
+    "aliases": [
+      "מעלה השופר"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "מרבד הקסמים",
+    "aliases": []
+  },
+  {
+    "code": 184,
+    "nameHe": "מתתיהו",
+    "aliases": []
+  },
+  {
+    "code": 154,
+    "nameHe": "נריה",
+    "aliases": []
+  },
+  {
+    "code": 158,
+    "nameHe": "סולם יעקב",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "סופה",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "ערבה",
+    "aliases": [
+      "הערבה"
+    ]
+  },
+  {
+    "code": 145,
+    "nameHe": "ערוגות הבושם",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "ערמון",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "פרי-גן",
+    "aliases": []
+  },
+  {
+    "code": 143,
+    "nameHe": "פריאל",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "קול התור",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "קטלב",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "קיבוץ גלויות",
+    "aliases": []
+  },
+  {
+    "code": 201,
+    "nameHe": "קרית הישיבה",
+    "aliases": [
+      "בית אל ב ישיבה"
+    ]
+  },
+  {
+    "code": 205,
+    "nameHe": "ראובן",
+    "aliases": []
+  },
+  {
+    "code": 213,
+    "nameHe": "רחל",
+    "aliases": []
+  },
+  {
+    "code": 162,
+    "nameHe": "רימון",
+    "aliases": []
+  },
+  {
+    "code": 167,
+    "nameHe": "שאול המלך",
+    "aliases": [
+      "המלך שאול"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "שבות סיני",
+    "aliases": []
+  },
+  {
+    "code": 219,
+    "nameHe": "שביל האור",
+    "aliases": []
+  },
+  {
+    "code": 217,
+    "nameHe": "שביל האמונה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "שדות",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "שדרות לוז",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "שוהם",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "שיטה",
+    "aliases": []
+  },
+  {
+    "code": 6503,
+    "nameHe": "שכ אבן פינה",
+    "aliases": [
+      "אבן פינה"
+    ]
+  },
+  {
+    "code": 6511,
+    "nameHe": "שכ בן הודה",
+    "aliases": [
+      "בן יהודה"
+    ]
+  },
+  {
+    "code": 6514,
+    "nameHe": "שכ גבעת האולפנה",
+    "aliases": []
+  },
+  {
+    "code": 6508,
+    "nameHe": "שכ גינות בית אל",
+    "aliases": []
+  },
+  {
+    "code": 6504,
+    "nameHe": "שכ דוד",
+    "aliases": [
+      "דוד"
+    ]
+  },
+  {
+    "code": 6510,
+    "nameHe": "שכ הואדי",
+    "aliases": []
+  },
+  {
+    "code": 6515,
+    "nameHe": "שכ נוף",
+    "aliases": []
+  },
+  {
+    "code": 6506,
+    "nameHe": "שכ ניצני בית אל",
+    "aliases": [
+      "ניצני בית אל"
+    ]
+  },
+  {
+    "code": 6505,
+    "nameHe": "שכ ניצנית",
+    "aliases": [
+      "ניצנית"
+    ]
+  },
+  {
+    "code": 6513,
+    "nameHe": "שכ פסגת יעקב",
+    "aliases": []
+  },
+  {
+    "code": 6512,
+    "nameHe": "שכ קדם",
+    "aliases": []
+  },
+  {
+    "code": 6509,
+    "nameHe": "שכ ראשית",
+    "aliases": []
+  },
+  {
+    "code": 6501,
+    "nameHe": "שכונה א",
+    "aliases": []
+  },
+  {
+    "code": 6502,
+    "nameHe": "שכונה ב",
+    "aliases": [
+      "אזור תעשיה"
+    ]
+  },
+  {
+    "code": 168,
+    "nameHe": "שלמה המלך",
+    "aliases": [
+      "המלך שלמה"
+    ]
+  },
+  {
+    "code": 206,
+    "nameHe": "שמעון",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "שקד",
+    "aliases": []
+  },
+  {
+    "code": 163,
+    "nameHe": "תאנה",
+    "aliases": [
+      "התאנה"
+    ]
+  },
+  {
+    "code": 138,
+    "nameHe": "תדהר",
+    "aliases": []
+  },
+  {
+    "code": 152,
+    "nameHe": "תורה ועבודה",
+    "aliases": []
+  },
+  {
+    "code": 6507,
+    "nameHe": "תל חיים",
+    "aliases": [
+      "ש תל חיים",
+      "שכ תל חיים"
+    ]
+  },
+  {
+    "code": 164,
+    "nameHe": "תמר",
+    "aliases": [
+      "התמר"
+    ]
+  },
+  {
+    "code": 133,
+    "nameHe": "תפוח",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "תרשיש",
+    "aliases": []
+  }
+]

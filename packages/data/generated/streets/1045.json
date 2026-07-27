@@ -1,0 +1,80 @@
+[
+  {
+    "code": 102,
+    "nameHe": "הארז",
+    "aliases": [
+      "ארז"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "הלבנון",
+    "aliases": [
+      "לבנון"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "המטע",
+    "aliases": [
+      "מטע"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הפריחה",
+    "aliases": [
+      "פריחה"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הצמרת",
+    "aliases": [
+      "צמרת"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "הצפצפה",
+    "aliases": [
+      "צפצפה"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "השורשים",
+    "aliases": [
+      "שורשים"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "מים רבים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "עולי בבל",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "ערוגות",
+    "aliases": [
+      "הערוגות"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "שתולה",
+    "aliases": []
+  }
+]

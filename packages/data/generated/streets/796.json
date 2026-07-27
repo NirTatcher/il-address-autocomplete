@@ -1,0 +1,84 @@
+[
+  {
+    "code": 111,
+    "nameHe": "האגוז",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "האתרוג",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "ההדס",
+    "aliases": [
+      "הדס"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הערבה",
+    "aliases": [
+      "ערבה"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "הצבר",
+    "aliases": [
+      "צבר"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הרימון",
+    "aliases": [
+      "הרמון"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "התמר",
+    "aliases": [
+      "תמר"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "צלפון",
+    "aliases": [
+      "מרכז המורים"
+    ]
+  }
+]

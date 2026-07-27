@@ -1,0 +1,34 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "גן הדרום",
+    "aliases": [
+      "גן דרום"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "התמר",
+    "aliases": []
+  }
+]

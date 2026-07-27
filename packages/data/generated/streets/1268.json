@@ -1,0 +1,951 @@
+[
+  {
+    "code": 334,
+    "nameHe": "אורן",
+    "aliases": []
+  },
+  {
+    "code": 507,
+    "nameHe": "איה",
+    "aliases": [
+      "האיה"
+    ]
+  },
+  {
+    "code": 281,
+    "nameHe": "אילות",
+    "aliases": []
+  },
+  {
+    "code": 212,
+    "nameHe": "אירוס",
+    "aliases": []
+  },
+  {
+    "code": 335,
+    "nameHe": "אלה",
+    "aliases": []
+  },
+  {
+    "code": 336,
+    "nameHe": "אלון",
+    "aliases": []
+  },
+  {
+    "code": 300,
+    "nameHe": "אנפה",
+    "aliases": []
+  },
+  {
+    "code": 337,
+    "nameHe": "ארז",
+    "aliases": []
+  },
+  {
+    "code": 285,
+    "nameHe": "אשכול",
+    "aliases": []
+  },
+  {
+    "code": 203,
+    "nameHe": "אשל",
+    "aliases": []
+  },
+  {
+    "code": 250,
+    "nameHe": "בארי",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "בית אשל",
+    "aliases": []
+  },
+  {
+    "code": 320,
+    "nameHe": "ברבור",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "בשמת",
+    "aliases": []
+  },
+  {
+    "code": 251,
+    "nameHe": "גאון הירדן",
+    "aliases": []
+  },
+  {
+    "code": 252,
+    "nameHe": "גבולות",
+    "aliases": []
+  },
+  {
+    "code": 503,
+    "nameHe": "גבתון",
+    "aliases": [
+      "הגבתון"
+    ]
+  },
+  {
+    "code": 201,
+    "nameHe": "גפן",
+    "aliases": [
+      "הגפן"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "גרופית",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "גרר",
+    "aliases": []
+  },
+  {
+    "code": 290,
+    "nameHe": "דוכיפת",
+    "aliases": []
+  },
+  {
+    "code": 509,
+    "nameHe": "דיה",
+    "aliases": [
+      "הדיה"
+    ]
+  },
+  {
+    "code": 253,
+    "nameHe": "דן",
+    "aliases": []
+  },
+  {
+    "code": 254,
+    "nameHe": "דפנה",
+    "aliases": []
+  },
+  {
+    "code": 508,
+    "nameHe": "דרורית",
+    "aliases": [
+      "הדרורית"
+    ]
+  },
+  {
+    "code": 275,
+    "nameHe": "דרך הארץ",
+    "aliases": []
+  },
+  {
+    "code": 301,
+    "nameHe": "דרך הבשור",
+    "aliases": [
+      "הבשור"
+    ]
+  },
+  {
+    "code": 280,
+    "nameHe": "דרך הדרור",
+    "aliases": [
+      "דרור",
+      "הדרור"
+    ]
+  },
+  {
+    "code": 255,
+    "nameHe": "דרך הראל",
+    "aliases": [
+      "הראל"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "דרך יתיר",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "דרך מיתר",
+    "aliases": []
+  },
+  {
+    "code": 272,
+    "nameHe": "הדס",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "הר ארבל",
+    "aliases": [
+      "ארבל"
+    ]
+  },
+  {
+    "code": 141,
+    "nameHe": "הר בראון",
+    "aliases": [
+      "בראון"
+    ]
+  },
+  {
+    "code": 130,
+    "nameHe": "הר גלבוע",
+    "aliases": [
+      "גלבוע"
+    ]
+  },
+  {
+    "code": 132,
+    "nameHe": "הר גריזים",
+    "aliases": [
+      "גריזים"
+    ]
+  },
+  {
+    "code": 139,
+    "nameHe": "הר ורדה",
+    "aliases": [
+      "ורדה"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "הר חרמון",
+    "aliases": [
+      "חרמון"
+    ]
+  },
+  {
+    "code": 143,
+    "nameHe": "הר חרמונית",
+    "aliases": [
+      "חרמונית"
+    ]
+  },
+  {
+    "code": 134,
+    "nameHe": "הר כרמל",
+    "aliases": [
+      "הכרמל",
+      "הר הכרמל",
+      "כרמל"
+    ]
+  },
+  {
+    "code": 135,
+    "nameHe": "הר מירון",
+    "aliases": [
+      "מירון"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "הר עיבל",
+    "aliases": [
+      "עיבל"
+    ]
+  },
+  {
+    "code": 526,
+    "nameHe": "הר עצמון",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "הר שגיא",
+    "aliases": [
+      "שגיא"
+    ]
+  },
+  {
+    "code": 140,
+    "nameHe": "הר שיפון",
+    "aliases": [
+      "שיפון"
+    ]
+  },
+  {
+    "code": 133,
+    "nameHe": "הר תבור",
+    "aliases": [
+      "תבור"
+    ]
+  },
+  {
+    "code": 136,
+    "nameHe": "הרי גולן",
+    "aliases": [
+      "גולן",
+      "הרי הגולן"
+    ]
+  },
+  {
+    "code": 295,
+    "nameHe": "זהבן",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "זוהר",
+    "aliases": []
+  },
+  {
+    "code": 271,
+    "nameHe": "זית",
+    "aliases": [
+      "הזית"
+    ]
+  },
+  {
+    "code": 506,
+    "nameHe": "חוגלה",
+    "aliases": [
+      "החוגלה"
+    ]
+  },
+  {
+    "code": 294,
+    "nameHe": "חוחית",
+    "aliases": []
+  },
+  {
+    "code": 505,
+    "nameHe": "חופית",
+    "aliases": [
+      "החופית"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "חלוצה",
+    "aliases": []
+  },
+  {
+    "code": 211,
+    "nameHe": "חלמונית",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "חלמיש",
+    "aliases": []
+  },
+  {
+    "code": 325,
+    "nameHe": "חסידה",
+    "aliases": []
+  },
+  {
+    "code": 213,
+    "nameHe": "חצב",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "חצבה",
+    "aliases": []
+  },
+  {
+    "code": 522,
+    "nameHe": "חצוצרן",
+    "aliases": [
+      "החצוצרן"
+    ]
+  },
+  {
+    "code": 256,
+    "nameHe": "חצרים",
+    "aliases": []
+  },
+  {
+    "code": 520,
+    "nameHe": "ינשוף",
+    "aliases": [
+      "הינשוף"
+    ]
+  },
+  {
+    "code": 322,
+    "nameHe": "יסעור",
+    "aliases": []
+  },
+  {
+    "code": 515,
+    "nameHe": "יעל",
+    "aliases": [
+      "היעל"
+    ]
+  },
+  {
+    "code": 311,
+    "nameHe": "יעלים",
+    "aliases": []
+  },
+  {
+    "code": 310,
+    "nameHe": "כובשים",
+    "aliases": [
+      "הכובשים"
+    ]
+  },
+  {
+    "code": 517,
+    "nameHe": "כחל",
+    "aliases": [
+      "הכחל"
+    ]
+  },
+  {
+    "code": 258,
+    "nameHe": "כיסופים",
+    "aliases": [
+      "כסופים"
+    ]
+  },
+  {
+    "code": 330,
+    "nameHe": "כלנית",
+    "aliases": []
+  },
+  {
+    "code": 208,
+    "nameHe": "כרכום",
+    "aliases": []
+  },
+  {
+    "code": 298,
+    "nameHe": "לבנית",
+    "aliases": [
+      "ליבנית"
+    ]
+  },
+  {
+    "code": 504,
+    "nameHe": "מגלן",
+    "aliases": [
+      "המגלן"
+    ]
+  },
+  {
+    "code": 260,
+    "nameHe": "מגן",
+    "aliases": []
+  },
+  {
+    "code": 302,
+    "nameHe": "מורג",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "מיתר",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "ממשית",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "מצדה",
+    "aliases": []
+  },
+  {
+    "code": 259,
+    "nameHe": "משאבים",
+    "aliases": []
+  },
+  {
+    "code": 221,
+    "nameHe": "משמר",
+    "aliases": []
+  },
+  {
+    "code": 257,
+    "nameHe": "משעול יפתח",
+    "aliases": [
+      "יפתח"
+    ]
+  },
+  {
+    "code": 276,
+    "nameHe": "משעול לאה",
+    "aliases": [
+      "לאה"
+    ]
+  },
+  {
+    "code": 265,
+    "nameHe": "משעול פלמח",
+    "aliases": [
+      "הפלמח",
+      "משעול הפלמח",
+      "פלמח"
+    ]
+  },
+  {
+    "code": 262,
+    "nameHe": "נגבה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "נועם",
+    "aliases": []
+  },
+  {
+    "code": 331,
+    "nameHe": "נורית",
+    "aliases": []
+  },
+  {
+    "code": 296,
+    "nameHe": "נחליאלי",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "ניצנה",
+    "aliases": []
+  },
+  {
+    "code": 261,
+    "nameHe": "נירים",
+    "aliases": []
+  },
+  {
+    "code": 510,
+    "nameHe": "נשר",
+    "aliases": [
+      "הנשר"
+    ]
+  },
+  {
+    "code": 297,
+    "nameHe": "סלעית",
+    "aliases": []
+  },
+  {
+    "code": 289,
+    "nameHe": "סנונית",
+    "aliases": []
+  },
+  {
+    "code": 263,
+    "nameHe": "סעד",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "עבדת",
+    "aliases": []
+  },
+  {
+    "code": 324,
+    "nameHe": "עגור",
+    "aliases": []
+  },
+  {
+    "code": 304,
+    "nameHe": "עופרים",
+    "aliases": []
+  },
+  {
+    "code": 502,
+    "nameHe": "עורבני",
+    "aliases": [
+      "העורבני"
+    ]
+  },
+  {
+    "code": 511,
+    "nameHe": "עיט",
+    "aliases": [
+      "העיט"
+    ]
+  },
+  {
+    "code": 512,
+    "nameHe": "עיטם",
+    "aliases": [
+      "העיטם"
+    ]
+  },
+  {
+    "code": 309,
+    "nameHe": "עין בוקק",
+    "aliases": []
+  },
+  {
+    "code": 308,
+    "nameHe": "עין זיק",
+    "aliases": []
+  },
+  {
+    "code": 303,
+    "nameHe": "עין מור",
+    "aliases": []
+  },
+  {
+    "code": 313,
+    "nameHe": "עין נטפים",
+    "aliases": [
+      "עין נטיפים"
+    ]
+  },
+  {
+    "code": 209,
+    "nameHe": "עירית",
+    "aliases": []
+  },
+  {
+    "code": 264,
+    "nameHe": "עלומים",
+    "aliases": []
+  },
+  {
+    "code": 292,
+    "nameHe": "עפרוני",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "עציון גבר",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "עצמון",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "עקרב",
+    "aliases": []
+  },
+  {
+    "code": 282,
+    "nameHe": "ערוגות",
+    "aliases": []
+  },
+  {
+    "code": 286,
+    "nameHe": "ערוד",
+    "aliases": []
+  },
+  {
+    "code": 312,
+    "nameHe": "פארן",
+    "aliases": []
+  },
+  {
+    "code": 210,
+    "nameHe": "פרג",
+    "aliases": []
+  },
+  {
+    "code": 293,
+    "nameHe": "פשוש",
+    "aliases": []
+  },
+  {
+    "code": 202,
+    "nameHe": "צאלה",
+    "aliases": []
+  },
+  {
+    "code": 306,
+    "nameHe": "צאלים",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "צבאים",
+    "aliases": []
+  },
+  {
+    "code": 516,
+    "nameHe": "צבי",
+    "aliases": [
+      "הצבי"
+    ]
+  },
+  {
+    "code": 333,
+    "nameHe": "צבעוני",
+    "aliases": []
+  },
+  {
+    "code": 291,
+    "nameHe": "צופית",
+    "aliases": []
+  },
+  {
+    "code": 283,
+    "nameHe": "צופר",
+    "aliases": []
+  },
+  {
+    "code": 518,
+    "nameHe": "צוקית",
+    "aliases": [
+      "הצוקית"
+    ]
+  },
+  {
+    "code": 307,
+    "nameHe": "צין",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "צניפים",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "צקלג",
+    "aliases": [
+      "ציקלג"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "קדש ברנע",
+    "aliases": []
+  },
+  {
+    "code": 519,
+    "nameHe": "קורא",
+    "aliases": [
+      "הקורא"
+    ]
+  },
+  {
+    "code": 525,
+    "nameHe": "קטה",
+    "aliases": [
+      "הקטה"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "קטורה",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "קנאים",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "קציעות",
+    "aliases": []
+  },
+  {
+    "code": 513,
+    "nameHe": "קרקל",
+    "aliases": [
+      "הקרקל"
+    ]
+  },
+  {
+    "code": 514,
+    "nameHe": "ראם",
+    "aliases": [
+      "הראם"
+    ]
+  },
+  {
+    "code": 266,
+    "nameHe": "רביבים",
+    "aliases": []
+  },
+  {
+    "code": 273,
+    "nameHe": "רימון",
+    "aliases": [
+      "הרימון",
+      "הרמון",
+      "רמון"
+    ]
+  },
+  {
+    "code": 267,
+    "nameHe": "רמים",
+    "aliases": []
+  },
+  {
+    "code": 268,
+    "nameHe": "רעים",
+    "aliases": []
+  },
+  {
+    "code": 332,
+    "nameHe": "רקפת",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "שבטה",
+    "aliases": []
+  },
+  {
+    "code": 521,
+    "nameHe": "שדמית",
+    "aliases": [
+      "השדמית"
+    ]
+  },
+  {
+    "code": 288,
+    "nameHe": "שדרות הזמיר",
+    "aliases": [
+      "הזמיר",
+      "שד הזמיר"
+    ]
+  },
+  {
+    "code": 287,
+    "nameHe": "שדרות היונה",
+    "aliases": [
+      "היונה",
+      "שד היונה"
+    ]
+  },
+  {
+    "code": 214,
+    "nameHe": "שדרות המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 270,
+    "nameHe": "שדרות השלום",
+    "aliases": [
+      "דרך השלום",
+      "השלום",
+      "שד השלום"
+    ]
+  },
+  {
+    "code": 216,
+    "nameHe": "שדרות חברון",
+    "aliases": []
+  },
+  {
+    "code": 500,
+    "nameHe": "שדרות כרמית",
+    "aliases": [
+      "כרמית",
+      "שד כרמית",
+      "שד' כרמית"
+    ]
+  },
+  {
+    "code": 215,
+    "nameHe": "שדרות עומרים",
+    "aliases": []
+  },
+  {
+    "code": 269,
+    "nameHe": "שובל",
+    "aliases": []
+  },
+  {
+    "code": 323,
+    "nameHe": "שחף",
+    "aliases": []
+  },
+  {
+    "code": 207,
+    "nameHe": "שיזף",
+    "aliases": []
+  },
+  {
+    "code": 204,
+    "nameHe": "שיטה",
+    "aliases": [
+      "השיטה"
+    ]
+  },
+  {
+    "code": 6501,
+    "nameHe": "שכ הדרור",
+    "aliases": []
+  },
+  {
+    "code": 6502,
+    "nameHe": "שכ הכלניות",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ רבין",
+    "aliases": []
+  },
+  {
+    "code": 299,
+    "nameHe": "שלדג",
+    "aliases": []
+  },
+  {
+    "code": 501,
+    "nameHe": "שלו",
+    "aliases": [
+      "השלו",
+      "השליו",
+      "שליו"
+    ]
+  },
+  {
+    "code": 205,
+    "nameHe": "שקד",
+    "aliases": []
+  },
+  {
+    "code": 305,
+    "nameHe": "שקמה",
+    "aliases": []
+  },
+  {
+    "code": 523,
+    "nameHe": "שקנאי",
+    "aliases": [
+      "השקנאי"
+    ]
+  },
+  {
+    "code": 274,
+    "nameHe": "תאנה",
+    "aliases": [
+      "התאנה"
+    ]
+  },
+  {
+    "code": 524,
+    "nameHe": "תור",
+    "aliases": [
+      "התור"
+    ]
+  },
+  {
+    "code": 220,
+    "nameHe": "תמירון",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "תמנע",
+    "aliases": []
+  },
+  {
+    "code": 206,
+    "nameHe": "תמר",
+    "aliases": []
+  }
+]

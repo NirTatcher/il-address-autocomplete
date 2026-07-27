@@ -1,0 +1,46 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "גמזו",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הברוש",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הדס",
+    "aliases": [
+      "ההדס"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "מעלות יהונתן",
+    "aliases": []
+  }
+]

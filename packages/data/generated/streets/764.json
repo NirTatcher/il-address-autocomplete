@@ -1,0 +1,83 @@
+[
+  {
+    "code": 121,
+    "nameHe": "דפנה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הבוסתן",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הבריכה",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "הדס",
+    "aliases": [
+      "ההדס"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הכרם",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הלילך",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "המטע",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "השדה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר מרדכי",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "לבונה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "מעלה המייסדים",
+    "aliases": [
+      "המייסדים"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "מרווה",
+    "aliases": [
+      "מרוה"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "קורנית",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "ריחן",
+    "aliases": []
+  }
+]

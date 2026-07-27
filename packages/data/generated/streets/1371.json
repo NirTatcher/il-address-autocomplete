@@ -1,0 +1,86 @@
+[
+  {
+    "code": 105,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "גני טל",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "האגם",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "האשל",
+    "aliases": [
+      "חוף הדקלים"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "הדיונה",
+    "aliases": [
+      "נאות קטיף"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הורד",
+    "aliases": [
+      "ורד"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הים",
+    "aliases": [
+      "הפגודה"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "המדרשה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "השיטה",
+    "aliases": [
+      "החווה"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "התמר",
+    "aliases": [
+      "נוריה"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "יסמין",
+    "aliases": []
+  },
+  {
+    "code": 6001,
+    "nameHe": "ככר המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "תפוח",
+    "aliases": []
+  }
+]

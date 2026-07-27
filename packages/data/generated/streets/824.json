@@ -1,0 +1,102 @@
+[
+  {
+    "code": 101,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הכרם",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "העינב",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הצבר",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "התבואה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "זמורה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כוכב מיכאל",
+    "aliases": [
+      "כוכב",
+      "כוכב מכאל"
+    ]
+  },
+  {
+    "code": 6001,
+    "nameHe": "כיכר הראשונים",
+    "aliases": [
+      "ככר הראשונים"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "סמדר",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ הגפן",
+    "aliases": []
+  },
+  {
+    "code": 6501,
+    "nameHe": "שכ הרימון",
+    "aliases": []
+  },
+  {
+    "code": 6502,
+    "nameHe": "שכ התאנה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "שריג",
+    "aliases": []
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "אבני חפץ",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "אודם",
+    "aliases": [
+      "האודם"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "איבי הנחל",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "ארז",
+    "aliases": [
+      "הארז"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "גינת אגוז",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "גלבוע",
+    "aliases": [
+      "הגלבוע"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "גלעד",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "דרך הראה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "החרמון",
+    "aliases": [
+      "חרמון"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "הירדן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "המור",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "חושן",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "טופז",
+    "aliases": [
+      "הטופז"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "יהלום",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "כרמל",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "לבונה",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "לשם",
+    "aliases": []
+  },
+  {
+    "code": 6501,
+    "nameHe": "מצפה חפץ",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "שחר",
+    "aliases": [
+      "השחר"
+    ]
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ מעלה יעקב",
+    "aliases": [
+      "מעלה יעקב"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "שניר",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "שקד",
+    "aliases": [
+      "השקד"
+    ]
+  }
+]

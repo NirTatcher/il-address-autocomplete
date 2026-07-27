@@ -1,0 +1,230 @@
+[
+  {
+    "code": 103,
+    "nameHe": "האירוסים",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "האשכולית",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הברוש",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הדר",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "ההרדופים",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "החצב",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "החרצית",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "היערה",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "היקינטון",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הכלניות",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "הכרכום",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "המייסדים",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "המנגו",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "המעיין",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "הנורית",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "הסביון",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "הסחלב",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "הערבה",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "הצאלון",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "הצבעוני",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "הראשונים",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "הרותם",
+    "aliases": [
+      "רותם"
+    ]
+  },
+  {
+    "code": 139,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "הרקפת",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "השיזף",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "השיטה",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 7001,
+    "nameHe": "וילה מלצט",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "חרמון",
+    "aliases": []
+  },
+  {
+    "code": 7002,
+    "nameHe": "טבחה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "כפר נופש חוף הואי",
+    "aliases": []
+  },
+  {
+    "code": 7003,
+    "nameHe": "כרי דשא",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "מגדל",
+    "aliases": [
+      "מעב מגדל א",
+      "ש א",
+      "ש עמידר"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "מעון נופים",
+    "aliases": [
+      "נופים"
+    ]
+  },
+  {
+    "code": 135,
+    "nameHe": "נוף הארבל",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "נוף הגליל",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "נוף כנרת",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "עירית",
+    "aliases": []
+  }
+]

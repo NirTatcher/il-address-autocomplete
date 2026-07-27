@@ -1,0 +1,54 @@
+[
+  {
+    "code": 101,
+    "nameHe": "האורן",
+    "aliases": [
+      "אורן",
+      "האלון"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הגבעה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הגיא",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הראשונים",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "חניאל",
+    "aliases": []
+  },
+  {
+    "code": 6001,
+    "nameHe": "ככר אורנים",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "סמ הבאר",
+    "aliases": [
+      "הבאר"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "סמ הפרדס",
+    "aliases": [
+      "הפרדס"
+    ]
+  }
+]

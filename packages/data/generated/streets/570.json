@@ -1,0 +1,54 @@
+[
+  {
+    "code": 105,
+    "nameHe": "אלון",
+    "aliases": [
+      "האלון"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "הברוש",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הדולב",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הכרמל",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "כליל החורש",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "מעונה",
+    "aliases": [
+      "מעונה מושב",
+      "מעונה ש"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "תמר",
+    "aliases": [
+      "התמר"
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "code": 101,
+    "nameHe": "דרך השמורה",
+    "aliases": [
+      "השמורה"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "האגם",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "האילנות",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "האלונים",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "האשכולית",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הבוסתן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הורדים",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "החולה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "החלוצים",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הירדן",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "המגדל",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "המזח",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "המייסדים",
+    "aliases": [
+      "המיסדים"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "הפרדסים",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הרימונים",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "השזיף",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "התעשיה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "יסוד המעלה",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "ש האגם",
+    "aliases": []
+  }
+]

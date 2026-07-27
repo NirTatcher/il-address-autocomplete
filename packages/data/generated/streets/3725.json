@@ -1,0 +1,85 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אלוני ממרא",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "בריכות שלמה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "דרך אפרתה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "דרך האבות",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "המוריה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הרי יהודה",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "התקומה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "מגדל עדר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נווה דניאל",
+    "aliases": [
+      "דניאל",
+      "נוה דניאל"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "נווה נוף",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "נוף הרודיון",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "נחל אשכול",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "נחל המעיינות",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "עמק ברכה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "שדה המכפלה",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "שיבת רחל",
+    "aliases": []
+  }
+]

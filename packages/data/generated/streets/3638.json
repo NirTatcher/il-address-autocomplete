@@ -1,0 +1,355 @@
+[
+  {
+    "code": 116,
+    "nameHe": "ארץ בנימין",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "ארץ הצבי",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "ארץ חיטה",
+    "aliases": []
+  },
+  {
+    "code": 158,
+    "nameHe": "ארץ קדם",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "בורות המים",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "גבול יהודה",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "דבש התאנה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "דרך אלון",
+    "aliases": []
+  },
+  {
+    "code": 143,
+    "nameHe": "דרך החיים",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "דרך המדבר",
+    "aliases": [
+      "המדבר"
+    ]
+  },
+  {
+    "code": 133,
+    "nameHe": "דרך המשמר",
+    "aliases": [
+      "המשמר"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "דרך הצופים",
+    "aliases": [
+      "דרך צופים",
+      "הצופים",
+      "צופים"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "דרך פרת",
+    "aliases": [
+      "דרך נחל פרת"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "האוג",
+    "aliases": [
+      "אוג"
+    ]
+  },
+  {
+    "code": 152,
+    "nameHe": "האופק",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "האשל",
+    "aliases": [
+      "אשל"
+    ]
+  },
+  {
+    "code": 151,
+    "nameHe": "הבקעה",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הירדן",
+    "aliases": [
+      "ירדן"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "המייסדים",
+    "aliases": [
+      "המיסדים"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "המעיין",
+    "aliases": [
+      "המעין",
+      "מעיין"
+    ]
+  },
+  {
+    "code": 154,
+    "nameHe": "המצוק",
+    "aliases": []
+  },
+  {
+    "code": 150,
+    "nameHe": "הנחל",
+    "aliases": []
+  },
+  {
+    "code": 153,
+    "nameHe": "הסלע",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "הצבאים",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "הצור",
+    "aliases": [
+      "צור"
+    ]
+  },
+  {
+    "code": 156,
+    "nameHe": "הקשת",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "הרותם",
+    "aliases": [
+      "רותם"
+    ]
+  },
+  {
+    "code": 125,
+    "nameHe": "השיזף",
+    "aliases": [
+      "שיזף"
+    ]
+  },
+  {
+    "code": 130,
+    "nameHe": "השיטה",
+    "aliases": [
+      "שיטה"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "חגווי הסלע",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "חמדת השקד",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "כפות תמרים",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר אדומים",
+    "aliases": [
+      "כפר אדמים"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "מבוא ירושלים",
+    "aliases": []
+  },
+  {
+    "code": 162,
+    "nameHe": "מי באר",
+    "aliases": [
+      "מי הבאר"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "מי מבוע",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "מצפה כרמים",
+    "aliases": [
+      "מצפה הכרמים"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "מרכז קליטה",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "משכנות הרועים",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "משעול החלמיש",
+    "aliases": [
+      "החלמיש",
+      "משעול חלמיש"
+    ]
+  },
+  {
+    "code": 135,
+    "nameHe": "מתק חרוב",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "נוף בראשית",
+    "aliases": []
+  },
+  {
+    "code": 6501,
+    "nameHe": "נופי פרת",
+    "aliases": [
+      "ש נופי פרת",
+      "שכ נופי פרת"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "נחל אשלים",
+    "aliases": [
+      "אשלים"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "נחל ערוגות",
+    "aliases": [
+      "ערוגות"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "נחל צאלים",
+    "aliases": [
+      "צאלים"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "נחל קדם",
+    "aliases": [
+      "דרך נחל קדם",
+      "דרך קדם"
+    ]
+  },
+  {
+    "code": 159,
+    "nameHe": "ספר המדבר",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "סתר המדרגה",
+    "aliases": []
+  },
+  {
+    "code": 161,
+    "nameHe": "עיינות צוקים",
+    "aliases": [
+      "עיינות הצוקים"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "עם אחד",
+    "aliases": []
+  },
+  {
+    "code": 157,
+    "nameHe": "ערבות הנחל",
+    "aliases": [
+      "ערבות נחל"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "ערבות מואב",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "פלח הרימון",
+    "aliases": []
+  },
+  {
+    "code": 144,
+    "nameHe": "פרי הגפן",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "צמח בר",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "שירת העשבים",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ אלון",
+    "aliases": [
+      "אלון",
+      "ש אלון",
+      "שכונת אלון"
+    ]
+  },
+  {
+    "code": 141,
+    "nameHe": "שתילי הזית",
+    "aliases": []
+  }
+]

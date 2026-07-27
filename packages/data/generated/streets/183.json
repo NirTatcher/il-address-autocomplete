@@ -1,0 +1,87 @@
+[
+  {
+    "code": 114,
+    "nameHe": "בית העם",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "דרך הברוש",
+    "aliases": [
+      "הברוש"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "דרך הפקאן",
+    "aliases": [
+      "הפקאן"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "דרך מייסדי ירקונה",
+    "aliases": [
+      "מייסדי ירקונה"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "האקליפטוס",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הערבה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הצאלון",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "ירוק עד",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "ירקונה",
+    "aliases": [
+      "מושב ירקונה"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "סביונים",
+    "aliases": [
+      "הסביונים"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "שירת השחרור",
+    "aliases": []
+  }
+]

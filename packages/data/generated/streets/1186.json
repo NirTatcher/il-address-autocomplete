@@ -1,0 +1,81 @@
+[
+  {
+    "code": 101,
+    "nameHe": "בדולח",
+    "aliases": [
+      "הבדולח"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "גדיד",
+    "aliases": [
+      "הגדיד"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "גן-אור",
+    "aliases": [
+      "גן אור"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "גני טל",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "דוגית",
+    "aliases": [
+      "הדוגית"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "הושעיה",
+    "aliases": [
+      "צפורי ב"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "כפר דרום",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "מורג",
+    "aliases": [
+      "המורג"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "נצר חזני",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "נצרים",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "פאת השדה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "קטיף",
+    "aliases": [
+      "הקטיף"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "שירת הים",
+    "aliases": []
+  }
+]

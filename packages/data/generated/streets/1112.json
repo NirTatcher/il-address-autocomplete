@@ -1,0 +1,110 @@
+[
+  {
+    "code": 112,
+    "nameHe": "בית העלמין",
+    "aliases": [
+      "בית עלמין"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "האומנים",
+    "aliases": [
+      "אומנים"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "הבאר",
+    "aliases": [
+      "באר"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "הבוסתן",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "הברושים",
+    "aliases": [
+      "ברושים"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "הוורדים",
+    "aliases": [
+      "הורדים",
+      "וורדים",
+      "ורדים"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "המורה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "המעגל",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "המפעל",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "המצפה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "המרכז",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "העלייה",
+    "aliases": [
+      "העליה"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "הפרחים",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "הפרסה",
+    "aliases": [
+      "פרסה"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הר עצמון",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "התל",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "יודפת",
+    "aliases": [
+      "מצפה יודפת"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "משמרת מימין",
+    "aliases": []
+  }
+]

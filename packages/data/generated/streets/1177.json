@@ -1,0 +1,169 @@
+[
+  {
+    "code": 114,
+    "nameHe": "אטד",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "אירוס",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "אלה",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "אלון",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "אשחר",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "אשל",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "חבצלת",
+    "aliases": []
+  },
+  {
+    "code": 7002,
+    "nameHe": "חוות זוהר המדבר",
+    "aliases": []
+  },
+  {
+    "code": 7001,
+    "nameHe": "חוות מתנת מדבר",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "חלמית",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "חצב",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "חרוב",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "טללים",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "כוכב",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "לוטוס",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "לענה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "מחרוזת",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "מרווה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "מרכז קליטה",
+    "aliases": [
+      "מ ק טללים",
+      "מרכז קליטה טללים"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "משעול עירית",
+    "aliases": [
+      "עירית"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "נץ חלב",
+    "aliases": [
+      "נץ החלב"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "נרקיס",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "סביון",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "עדעד",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "צבעוני",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "קרקש",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "רותם",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "רכפתן",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "שיזף",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "שלח",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "תאנה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "תמר",
+    "aliases": []
+  }
+]

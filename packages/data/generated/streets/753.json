@@ -1,0 +1,123 @@
+[
+  {
+    "code": 102,
+    "nameHe": "דרך החיטה",
+    "aliases": [
+      "החיטה"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "דרך השעורה",
+    "aliases": [
+      "השעורה"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "האלון",
+    "aliases": [
+      "אלון"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "הארז",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "הדפנה",
+    "aliases": [
+      "דפנה"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הורדים",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הלוטם",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "הצאלון",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "השיזף",
+    "aliases": [
+      "שיזף"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "השיטה",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "השקמה",
+    "aliases": [
+      "השיקמה",
+      "שיקמה",
+      "שקמה"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "ינוב",
+    "aliases": [
+      "ינוב ב"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "מבוא הגפן",
+    "aliases": [
+      "הגפן"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "מורד התאנה",
+    "aliases": [
+      "התאנה"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "מעלה הרימון",
+    "aliases": [
+      "הרימון"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "נתיב הזית",
+    "aliases": [
+      "הזית"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "שד התמר",
+    "aliases": [
+      "התמר"
+    ]
+  }
+]

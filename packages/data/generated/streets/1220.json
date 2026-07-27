@@ -1,0 +1,69 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "אבירים",
+    "aliases": [
+      "אדר"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "גדרון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "דוכיפת",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "דרור",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "ינשוף",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "נחליאלי",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "סנונית",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "עורבני",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "עפרוני",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "צופית",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "שביל המכשפות",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "שביל הפיות",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "שחרור",
+    "aliases": []
+  }
+]

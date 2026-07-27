@@ -1,0 +1,49 @@
+[
+  {
+    "code": 108,
+    "nameHe": "גפן",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "זית",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "חיטה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "רימון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "שדרת שבעת המינים",
+    "aliases": [
+      "שד' שבעת המינים"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "שעורה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "תאנה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "תלמים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "תמר",
+    "aliases": []
+  }
+]

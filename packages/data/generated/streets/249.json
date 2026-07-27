@@ -1,0 +1,83 @@
+[
+  {
+    "code": 101,
+    "nameHe": "דרך אפק",
+    "aliases": [
+      "אפק דרך"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "דרך השדות",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "האילנות",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "האירוסים",
+    "aliases": [
+      "האיריסים"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הבנים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הגפנים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הדקלים",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "ההרדופים",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הורדים",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הכלניות",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "המרגניות",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הנרקיסים",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הסביונים",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "הקציר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר סירקין",
+    "aliases": [
+      "סירקין"
+    ]
+  }
+]

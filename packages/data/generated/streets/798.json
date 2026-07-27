@@ -1,0 +1,29 @@
+[
+  {
+    "code": 103,
+    "nameHe": "הגפן",
+    "aliases": [
+      "גפן"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הלימון",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "יגל",
+    "aliases": []
+  },
+  {
+    "code": 6001,
+    "nameHe": "ככר חוני",
+    "aliases": []
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "code": 108,
+    "nameHe": "אביטל",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "איתנים",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "ארבל",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "גולן",
+    "aliases": [
+      "הגולן"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "גלבוע",
+    "aliases": [
+      "הגלבוע"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "געש",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "הבריכה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הגליל",
+    "aliases": [
+      "גליל"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "החרמון",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הכרמל",
+    "aliases": [
+      "כרמל"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "העמק",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הפסגה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "התבור",
+    "aliases": [
+      "תבור"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "כנען",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "מירון",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "משעול אלונים",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "משעול האלה",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "משעול הגיא",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "משעול הרדוף",
+    "aliases": [
+      "הרדוף"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "משעול זבולון",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "משעול עדי",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "משעול רכסים",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נופית",
+    "aliases": [
+      "פי נר",
+      "פינר"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "סופה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "סער",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "עצמון",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "צפרירים",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "קדים",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "רמון",
+    "aliases": [
+      "רימון"
+    ]
+  }
+]

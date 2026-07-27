@@ -1,0 +1,299 @@
+[
+  {
+    "code": 109,
+    "nameHe": "אודם",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "אלמוג",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "אמנון ותמר",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "אננס",
+    "aliases": [
+      "האננס"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "ברקן",
+    "aliases": [
+      "בית אבא"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "ברקת",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "דרך ברקן",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "האגס",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 144,
+    "nameHe": "האירוסים",
+    "aliases": [
+      "אירוסים"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הארז",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "האשל",
+    "aliases": [
+      "אשל"
+    ]
+  },
+  {
+    "code": 134,
+    "nameHe": "הברוש",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "הדגנית",
+    "aliases": [
+      "דגנית"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "הורדים",
+    "aliases": [
+      "ורדים"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 149,
+    "nameHe": "החבצלת",
+    "aliases": [
+      "חבצלת"
+    ]
+  },
+  {
+    "code": 125,
+    "nameHe": "החצבים",
+    "aliases": []
+  },
+  {
+    "code": 129,
+    "nameHe": "היקינטון",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "הכלנית",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "הנורית",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "הנרקיס",
+    "aliases": []
+  },
+  {
+    "code": 146,
+    "nameHe": "הסביון",
+    "aliases": [
+      "סביון"
+    ]
+  },
+  {
+    "code": 148,
+    "nameHe": "הסחלב",
+    "aliases": [
+      "סחלב"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "הסיגלית",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "הסיוון",
+    "aliases": [
+      "סיוון"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "העירית",
+    "aliases": [
+      "האירית",
+      "עירית"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "הערבה",
+    "aliases": []
+  },
+  {
+    "code": 147,
+    "nameHe": "הצבעוני",
+    "aliases": [
+      "צבעוני"
+    ]
+  },
+  {
+    "code": 138,
+    "nameHe": "הרדוף",
+    "aliases": [
+      "ההרדוף"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "הרותם",
+    "aliases": []
+  },
+  {
+    "code": 145,
+    "nameHe": "הרקפת",
+    "aliases": [
+      "רקפת"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "השושנים",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "התפוח",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "חלמיש",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "יהלום",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "יסמין",
+    "aliases": [
+      "היסמין"
+    ]
+  },
+  {
+    "code": 140,
+    "nameHe": "יערה",
+    "aliases": [
+      "היערה"
+    ]
+  },
+  {
+    "code": 143,
+    "nameHe": "כרכום",
+    "aliases": [
+      "הכרכום"
+    ]
+  },
+  {
+    "code": 141,
+    "nameHe": "מורן",
+    "aliases": []
+  },
+  {
+    "code": 7001,
+    "nameHe": "מעלה ישראל",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "ענבר",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "רימון",
+    "aliases": [
+      "הרימון"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "שוהם",
+    "aliases": []
+  },
+  {
+    "code": 7002,
+    "nameHe": "שכ קרוואנים",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "שנהב",
+    "aliases": []
+  }
+]

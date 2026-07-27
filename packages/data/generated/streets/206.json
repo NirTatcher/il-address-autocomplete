@@ -1,0 +1,203 @@
+[
+  {
+    "code": 111,
+    "nameHe": "בית העם",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "דרך המלך",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "דרך הסולטן",
+    "aliases": [
+      "הסולטן"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "האלונים",
+    "aliases": [
+      "אלונים"
+    ]
+  },
+  {
+    "code": 132,
+    "nameHe": "האקליפטוס",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הבנים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הברושים",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הבריכה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "הגבעה",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "החורשה",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "החצב",
+    "aliases": [
+      "סמ החצב"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "הירקנים",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הכרם",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הלימון",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "המיסדים",
+    "aliases": [
+      "המייסדים"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "המעגל",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "המשאבים",
+    "aliases": [
+      "משאבים"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "הפקן",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הצבר",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "השמש העולה",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "התות",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "התרנגול",
+    "aliases": [
+      "תרנגול"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "מעלה הורדים",
+    "aliases": [
+      "הורדים",
+      "מעלה הוורדים",
+      "מעלה ורדים"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "נווה צאלים",
+    "aliases": [
+      "נוה צאלים"
+    ]
+  },
+  {
+    "code": 127,
+    "nameHe": "סמ אל על",
+    "aliases": [
+      "אל על"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "סמ השדה",
+    "aliases": [
+      "סמטת השדה"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "סמ מגן",
+    "aliases": [
+      "המגן"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "סמטת הנוער",
+    "aliases": [
+      "סמ הנוער"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "רמות השבים",
+    "aliases": [
+      "רמת השבים"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "שרת משה",
+    "aliases": [
+      "משה שרת",
+      "שרת"
+    ]
+  }
+]

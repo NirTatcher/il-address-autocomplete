@@ -1,0 +1,219 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "אירוס",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "דוכיפת",
+    "aliases": [
+      "הדוכיפת"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "הבזלת",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "הגרניט",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "הדולומיט",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "החצב",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "הכורכר",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "הכלנית",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "הנופר",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "הנורית",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "הנחליאלי",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "הנרקיס",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "הסביון",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "הסחלב",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "הסייפן",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "העגור",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "העירית",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "העפרוני",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "הפשוש",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "הצבעוני",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "הרותם",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "הרקפת",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "השחף",
+    "aliases": []
+  },
+  {
+    "code": 6001,
+    "nameHe": "כיכר יהדות בולגריה",
+    "aliases": [
+      "יהדות בולגריה"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "מאדים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "נגה",
+    "aliases": [
+      "נוגה"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "נחל איילון",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "נחל ברקן",
+    "aliases": [
+      "ברקן"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "נחל גלים",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "נחל דרגות",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "נחל האלה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "נחל הבשור",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "נחל הירדן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "נחל הירקון",
+    "aliases": [
+      "הירקון"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "נחל לכיש",
+    "aliases": [
+      "לכיש"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "נחל פארן",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "נחל ציפורי",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "נחל שורק",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "שבתאי",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שדרות גן רווה",
+    "aliases": []
+  }
+]

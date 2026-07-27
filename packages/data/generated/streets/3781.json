@@ -1,0 +1,105 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אור",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "אחדות",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "אחווה",
+    "aliases": [
+      "אחוה"
+    ]
+  },
+  {
+    "code": 302,
+    "nameHe": "אפיקי מים",
+    "aliases": []
+  },
+  {
+    "code": 303,
+    "nameHe": "דור ודור",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "השחר",
+    "aliases": []
+  },
+  {
+    "code": 304,
+    "nameHe": "זמרת",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "זריחה",
+    "aliases": []
+  },
+  {
+    "code": 306,
+    "nameHe": "כרמים",
+    "aliases": []
+  },
+  {
+    "code": 301,
+    "nameHe": "מקור חיים",
+    "aliases": []
+  },
+  {
+    "code": 308,
+    "nameHe": "סמטת איילת השחר",
+    "aliases": [
+      "איילת השחר",
+      "סמטת אילת השחר"
+    ]
+  },
+  {
+    "code": 305,
+    "nameHe": "סמטת מעלות",
+    "aliases": [
+      "סמטת המעלות"
+    ]
+  },
+  {
+    "code": 307,
+    "nameHe": "סמטת מרחב יה",
+    "aliases": [
+      "מרחב יה",
+      "סמטת מרחביה"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "עדן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "קדר",
+    "aliases": [
+      "נאות אדומים",
+      "קידר"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "קשת",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "רעות",
+    "aliases": []
+  }
+]

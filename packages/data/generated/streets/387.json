@@ -1,0 +1,45 @@
+[
+  {
+    "code": 101,
+    "nameHe": "דרך הטרקטור",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הפרדסים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "הפרחים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הקורא",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר מונש",
+    "aliases": [
+      "חוות הנוי",
+      "כפר מונאש"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "סמטת הברוש",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "שביל החלב",
+    "aliases": []
+  }
+]

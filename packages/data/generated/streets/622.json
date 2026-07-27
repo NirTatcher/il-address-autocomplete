@@ -1,0 +1,56 @@
+[
+  {
+    "code": 110,
+    "nameHe": "בירייה",
+    "aliases": [
+      "ביריה"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "גוש עציון",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "הגלבוע",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "להגשמה",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "מגשימים",
+    "aliases": [
+      "מגשמים"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "מרחבים",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "נחשון",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "נתיבות",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "עין צורים",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "שחל",
+    "aliases": []
+  }
+]

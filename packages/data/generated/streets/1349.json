@@ -1,0 +1,134 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "דריג'את",
+    "aliases": [
+      "דריגאת"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "רח 1",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "רח 10",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "רח 12",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "רח 14",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "רח 16",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "רח 18",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "רח 2",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "רח 20",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "רח 22",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "רח 24",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "רח 26",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "רח 28",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "רח 3",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "רח 30",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "רח 32",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "רח 34",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "רח 36",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "רח 38",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "רח 4",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "רח 5",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "רח 6",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "רח 7",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "רח 8",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "רח 9",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ ב",
+    "aliases": []
+  }
+]

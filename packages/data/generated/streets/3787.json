@@ -1,0 +1,110 @@
+[
+  {
+    "code": 108,
+    "nameHe": "אודם",
+    "aliases": [
+      "האודם"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "בדולח",
+    "aliases": [
+      "הבדולח"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "ברקת",
+    "aliases": [
+      "הברקת"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "חושן",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "טופז",
+    "aliases": [
+      "הטופז"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "טורקיז",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "יהלום",
+    "aliases": [
+      "היהלום"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "לשם",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "מעלה מודיעין",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נעלה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "נפך",
+    "aliases": [
+      "נופך"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "ספיר",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "ענבר",
+    "aliases": [
+      "הענבר"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "פנינה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "קרית חינוך",
+    "aliases": [
+      "קרית החינוך"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "שוהם",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "שחם",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "תרשיש",
+    "aliases": [
+      "התרשיש"
+    ]
+  }
+]

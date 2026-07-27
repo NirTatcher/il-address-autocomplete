@@ -1,0 +1,132 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "אודים",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "האזדרכת",
+    "aliases": [
+      "אזדרכת"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "האיריס",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הברוש",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "הגבעה",
+    "aliases": [
+      "גבעה"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "הדגן",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "ההדרים",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "החצב",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "היקינטון",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "הכלנית",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הנרקיס",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "העירית",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הפקאן",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הרימון",
+    "aliases": [
+      "הרמון"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "הרקפת",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "השומר",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "השיטה",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "התלתן",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "סמ המגדל",
+    "aliases": [
+      "המגדל"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "צאלון",
+    "aliases": [
+      "הצאלון"
+    ]
+  }
+]

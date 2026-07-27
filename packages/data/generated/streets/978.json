@@ -1,0 +1,905 @@
+[
+  {
+    "code": 105,
+    "nameHe": "אבו בכר אלסדיק",
+    "aliases": [
+      "אבו בכר אלצאדיק"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "אבו-נסור",
+    "aliases": [
+      "אבו - נסור",
+      "אבו נסור"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "אלבוטמה",
+    "aliases": [
+      "אל - בוטמה",
+      "אל - בטמה",
+      "אל בוטמה",
+      "אל-בוטמה",
+      "אל-בטמה",
+      "אלבטמה"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "אלג'אמע",
+    "aliases": [
+      "אל - ג'אמע",
+      "אל ג'אמע",
+      "אל-ג'אמע"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "אלזהור",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "אלזייתון",
+    "aliases": [
+      "אל-זייתון",
+      "אל-זיתון",
+      "אלזיתון"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "אלחנוה",
+    "aliases": [
+      "אל - חנוה",
+      "אל-חנוה"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "אלטואחין",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "אלטף",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "אליאסמין",
+    "aliases": [
+      "אל - יאסמין",
+      "אל - יסמין",
+      "אל יסמין",
+      "אל-יאסמין",
+      "אל-יסמין",
+      "אליסמין"
+    ]
+  },
+  {
+    "code": 123,
+    "nameHe": "אלכלה",
+    "aliases": [
+      "אל - כלה",
+      "אל כלה",
+      "אל-כלה"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "אלמלעב",
+    "aliases": [
+      "אל - מלעב",
+      "אל מלעב",
+      "אל-מלעב"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "אלנח'יל",
+    "aliases": [
+      "אל - נח'יל",
+      "אל נח'יל",
+      "אל-נח'יל"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "אלנרג'ס",
+    "aliases": [
+      "אל - נרג'ס",
+      "אל-נרג'ס"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "אלסדרה",
+    "aliases": [
+      "אל סדרה",
+      "אל-סדרה"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "אלסודאני",
+    "aliases": [
+      "אל - סודאני",
+      "אל - סודני",
+      "אל סודאני",
+      "אל סודני",
+      "אל-סודאני",
+      "אל-סודני",
+      "אלסודני"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "אלסנובר",
+    "aliases": [
+      "אל - סנובר",
+      "אל סנובר",
+      "אל-סנובר"
+    ]
+  },
+  {
+    "code": 125,
+    "nameHe": "אלסריס",
+    "aliases": [
+      "אל - סריס",
+      "אל-סריס"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "אלעאסי",
+    "aliases": [
+      "אל - עאסי",
+      "אל עאסי",
+      "אל-עאסי"
+    ]
+  },
+  {
+    "code": 127,
+    "nameHe": "אלעין",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "אלראס",
+    "aliases": [
+      "אל - ארס",
+      "אל ראס",
+      "אל-ראס"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "אלרחמה",
+    "aliases": [
+      "אל - רחמה",
+      "אל-רחמה"
+    ]
+  },
+  {
+    "code": 130,
+    "nameHe": "אלתלה",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "ח'ראמה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "חג'אג'רה",
+    "aliases": [
+      "חג'אגרה",
+      "חגאג'רה",
+      "חגאגרה"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "טבאש",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "כעביה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כעביה-טבאש-חג'אג'רה",
+    "aliases": [
+      "כעאביה",
+      "כעאבייה",
+      "כעביה טבאש",
+      "כעביה טבאש חג'אג'רה",
+      "כעביה-טבאש",
+      "כעביה-טבאש-חגאגרה",
+      "כעבייה"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "עין אם עלי",
+    "aliases": [
+      "עין אום עלי"
+    ]
+  },
+  {
+    "code": 151,
+    "nameHe": "רח 1",
+    "aliases": []
+  },
+  {
+    "code": 152,
+    "nameHe": "רח 10",
+    "aliases": []
+  },
+  {
+    "code": 153,
+    "nameHe": "רח 100",
+    "aliases": []
+  },
+  {
+    "code": 154,
+    "nameHe": "רח 101",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "רח 102",
+    "aliases": []
+  },
+  {
+    "code": 156,
+    "nameHe": "רח 103",
+    "aliases": []
+  },
+  {
+    "code": 157,
+    "nameHe": "רח 104",
+    "aliases": []
+  },
+  {
+    "code": 158,
+    "nameHe": "רח 105",
+    "aliases": []
+  },
+  {
+    "code": 159,
+    "nameHe": "רח 106",
+    "aliases": []
+  },
+  {
+    "code": 160,
+    "nameHe": "רח 107",
+    "aliases": []
+  },
+  {
+    "code": 161,
+    "nameHe": "רח 108",
+    "aliases": []
+  },
+  {
+    "code": 162,
+    "nameHe": "רח 109",
+    "aliases": []
+  },
+  {
+    "code": 163,
+    "nameHe": "רח 11",
+    "aliases": []
+  },
+  {
+    "code": 164,
+    "nameHe": "רח 110",
+    "aliases": []
+  },
+  {
+    "code": 165,
+    "nameHe": "רח 111",
+    "aliases": []
+  },
+  {
+    "code": 166,
+    "nameHe": "רח 112",
+    "aliases": []
+  },
+  {
+    "code": 167,
+    "nameHe": "רח 113",
+    "aliases": []
+  },
+  {
+    "code": 168,
+    "nameHe": "רח 114",
+    "aliases": []
+  },
+  {
+    "code": 169,
+    "nameHe": "רח 115",
+    "aliases": []
+  },
+  {
+    "code": 170,
+    "nameHe": "רח 116",
+    "aliases": []
+  },
+  {
+    "code": 171,
+    "nameHe": "רח 117",
+    "aliases": []
+  },
+  {
+    "code": 172,
+    "nameHe": "רח 118",
+    "aliases": []
+  },
+  {
+    "code": 173,
+    "nameHe": "רח 119",
+    "aliases": []
+  },
+  {
+    "code": 174,
+    "nameHe": "רח 12",
+    "aliases": []
+  },
+  {
+    "code": 175,
+    "nameHe": "רח 120",
+    "aliases": []
+  },
+  {
+    "code": 176,
+    "nameHe": "רח 121",
+    "aliases": []
+  },
+  {
+    "code": 177,
+    "nameHe": "רח 122",
+    "aliases": []
+  },
+  {
+    "code": 178,
+    "nameHe": "רח 123",
+    "aliases": []
+  },
+  {
+    "code": 179,
+    "nameHe": "רח 124",
+    "aliases": []
+  },
+  {
+    "code": 180,
+    "nameHe": "רח 125",
+    "aliases": []
+  },
+  {
+    "code": 181,
+    "nameHe": "רח 126",
+    "aliases": []
+  },
+  {
+    "code": 182,
+    "nameHe": "רח 127",
+    "aliases": []
+  },
+  {
+    "code": 183,
+    "nameHe": "רח 128",
+    "aliases": []
+  },
+  {
+    "code": 184,
+    "nameHe": "רח 129",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "רח 13",
+    "aliases": []
+  },
+  {
+    "code": 185,
+    "nameHe": "רח 130",
+    "aliases": []
+  },
+  {
+    "code": 186,
+    "nameHe": "רח 131",
+    "aliases": []
+  },
+  {
+    "code": 187,
+    "nameHe": "רח 132",
+    "aliases": []
+  },
+  {
+    "code": 188,
+    "nameHe": "רח 133",
+    "aliases": []
+  },
+  {
+    "code": 189,
+    "nameHe": "רח 134",
+    "aliases": []
+  },
+  {
+    "code": 190,
+    "nameHe": "רח 135",
+    "aliases": []
+  },
+  {
+    "code": 191,
+    "nameHe": "רח 136",
+    "aliases": []
+  },
+  {
+    "code": 192,
+    "nameHe": "רח 137",
+    "aliases": []
+  },
+  {
+    "code": 193,
+    "nameHe": "רח 138",
+    "aliases": []
+  },
+  {
+    "code": 194,
+    "nameHe": "רח 139",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "רח 14",
+    "aliases": []
+  },
+  {
+    "code": 195,
+    "nameHe": "רח 140",
+    "aliases": []
+  },
+  {
+    "code": 196,
+    "nameHe": "רח 141",
+    "aliases": []
+  },
+  {
+    "code": 197,
+    "nameHe": "רח 142",
+    "aliases": []
+  },
+  {
+    "code": 198,
+    "nameHe": "רח 143",
+    "aliases": []
+  },
+  {
+    "code": 200,
+    "nameHe": "רח 145",
+    "aliases": []
+  },
+  {
+    "code": 201,
+    "nameHe": "רח 146",
+    "aliases": []
+  },
+  {
+    "code": 202,
+    "nameHe": "רח 147",
+    "aliases": []
+  },
+  {
+    "code": 203,
+    "nameHe": "רח 148",
+    "aliases": []
+  },
+  {
+    "code": 204,
+    "nameHe": "רח 149",
+    "aliases": []
+  },
+  {
+    "code": 205,
+    "nameHe": "רח 15",
+    "aliases": []
+  },
+  {
+    "code": 206,
+    "nameHe": "רח 150",
+    "aliases": []
+  },
+  {
+    "code": 207,
+    "nameHe": "רח 151",
+    "aliases": []
+  },
+  {
+    "code": 208,
+    "nameHe": "רח 152",
+    "aliases": []
+  },
+  {
+    "code": 209,
+    "nameHe": "רח 153",
+    "aliases": []
+  },
+  {
+    "code": 210,
+    "nameHe": "רח 154",
+    "aliases": []
+  },
+  {
+    "code": 212,
+    "nameHe": "רח 156",
+    "aliases": []
+  },
+  {
+    "code": 213,
+    "nameHe": "רח 157",
+    "aliases": []
+  },
+  {
+    "code": 214,
+    "nameHe": "רח 158",
+    "aliases": []
+  },
+  {
+    "code": 215,
+    "nameHe": "רח 159",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "רח 16",
+    "aliases": []
+  },
+  {
+    "code": 216,
+    "nameHe": "רח 160",
+    "aliases": []
+  },
+  {
+    "code": 217,
+    "nameHe": "רח 161",
+    "aliases": []
+  },
+  {
+    "code": 219,
+    "nameHe": "רח 163",
+    "aliases": []
+  },
+  {
+    "code": 220,
+    "nameHe": "רח 164",
+    "aliases": []
+  },
+  {
+    "code": 221,
+    "nameHe": "רח 165",
+    "aliases": []
+  },
+  {
+    "code": 222,
+    "nameHe": "רח 167",
+    "aliases": []
+  },
+  {
+    "code": 223,
+    "nameHe": "רח 168",
+    "aliases": []
+  },
+  {
+    "code": 224,
+    "nameHe": "רח 169",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "רח 17",
+    "aliases": []
+  },
+  {
+    "code": 226,
+    "nameHe": "רח 171",
+    "aliases": []
+  },
+  {
+    "code": 227,
+    "nameHe": "רח 172",
+    "aliases": []
+  },
+  {
+    "code": 228,
+    "nameHe": "רח 173",
+    "aliases": []
+  },
+  {
+    "code": 229,
+    "nameHe": "רח 174",
+    "aliases": []
+  },
+  {
+    "code": 230,
+    "nameHe": "רח 175",
+    "aliases": []
+  },
+  {
+    "code": 231,
+    "nameHe": "רח 176",
+    "aliases": []
+  },
+  {
+    "code": 232,
+    "nameHe": "רח 177",
+    "aliases": []
+  },
+  {
+    "code": 233,
+    "nameHe": "רח 178",
+    "aliases": []
+  },
+  {
+    "code": 234,
+    "nameHe": "רח 179",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "רח 18",
+    "aliases": []
+  },
+  {
+    "code": 235,
+    "nameHe": "רח 180",
+    "aliases": []
+  },
+  {
+    "code": 236,
+    "nameHe": "רח 181",
+    "aliases": []
+  },
+  {
+    "code": 237,
+    "nameHe": "רח 182",
+    "aliases": []
+  },
+  {
+    "code": 238,
+    "nameHe": "רח 19",
+    "aliases": []
+  },
+  {
+    "code": 199,
+    "nameHe": "רח 199",
+    "aliases": []
+  },
+  {
+    "code": 239,
+    "nameHe": "רח 2",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "רח 20",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "רח 21",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "רח 22",
+    "aliases": []
+  },
+  {
+    "code": 225,
+    "nameHe": "רח 270",
+    "aliases": []
+  },
+  {
+    "code": 240,
+    "nameHe": "רח 3",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "רח 4",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "רח 50",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "רח 51",
+    "aliases": []
+  },
+  {
+    "code": 143,
+    "nameHe": "רח 52",
+    "aliases": []
+  },
+  {
+    "code": 144,
+    "nameHe": "רח 53",
+    "aliases": []
+  },
+  {
+    "code": 145,
+    "nameHe": "רח 55",
+    "aliases": []
+  },
+  {
+    "code": 241,
+    "nameHe": "רח 56",
+    "aliases": []
+  },
+  {
+    "code": 242,
+    "nameHe": "רח 57",
+    "aliases": []
+  },
+  {
+    "code": 243,
+    "nameHe": "רח 58",
+    "aliases": []
+  },
+  {
+    "code": 244,
+    "nameHe": "רח 59",
+    "aliases": []
+  },
+  {
+    "code": 245,
+    "nameHe": "רח 60",
+    "aliases": []
+  },
+  {
+    "code": 246,
+    "nameHe": "רח 61",
+    "aliases": []
+  },
+  {
+    "code": 247,
+    "nameHe": "רח 62",
+    "aliases": []
+  },
+  {
+    "code": 248,
+    "nameHe": "רח 64",
+    "aliases": []
+  },
+  {
+    "code": 249,
+    "nameHe": "רח 65",
+    "aliases": []
+  },
+  {
+    "code": 250,
+    "nameHe": "רח 66",
+    "aliases": []
+  },
+  {
+    "code": 251,
+    "nameHe": "רח 67",
+    "aliases": []
+  },
+  {
+    "code": 252,
+    "nameHe": "רח 68",
+    "aliases": []
+  },
+  {
+    "code": 253,
+    "nameHe": "רח 69",
+    "aliases": []
+  },
+  {
+    "code": 254,
+    "nameHe": "רח 7",
+    "aliases": []
+  },
+  {
+    "code": 255,
+    "nameHe": "רח 70",
+    "aliases": []
+  },
+  {
+    "code": 256,
+    "nameHe": "רח 71",
+    "aliases": []
+  },
+  {
+    "code": 257,
+    "nameHe": "רח 72",
+    "aliases": []
+  },
+  {
+    "code": 258,
+    "nameHe": "רח 73",
+    "aliases": []
+  },
+  {
+    "code": 259,
+    "nameHe": "רח 74",
+    "aliases": []
+  },
+  {
+    "code": 260,
+    "nameHe": "רח 75",
+    "aliases": []
+  },
+  {
+    "code": 261,
+    "nameHe": "רח 76",
+    "aliases": []
+  },
+  {
+    "code": 262,
+    "nameHe": "רח 77",
+    "aliases": []
+  },
+  {
+    "code": 263,
+    "nameHe": "רח 78",
+    "aliases": []
+  },
+  {
+    "code": 264,
+    "nameHe": "רח 79",
+    "aliases": []
+  },
+  {
+    "code": 265,
+    "nameHe": "רח 8",
+    "aliases": []
+  },
+  {
+    "code": 146,
+    "nameHe": "רח 80",
+    "aliases": []
+  },
+  {
+    "code": 267,
+    "nameHe": "רח 81",
+    "aliases": []
+  },
+  {
+    "code": 147,
+    "nameHe": "רח 82",
+    "aliases": []
+  },
+  {
+    "code": 148,
+    "nameHe": "רח 83",
+    "aliases": []
+  },
+  {
+    "code": 149,
+    "nameHe": "רח 84",
+    "aliases": []
+  },
+  {
+    "code": 150,
+    "nameHe": "רח 86",
+    "aliases": []
+  },
+  {
+    "code": 268,
+    "nameHe": "רח 9",
+    "aliases": []
+  }
+]

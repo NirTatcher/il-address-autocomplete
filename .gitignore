@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.pnpm-store/
+*.tsbuildinfo
+.DS_Store
+apps/playground/node_modules/.vite/
+packages/data/raw/cities.json
+packages/data/raw/streets.json
+packages/data/raw/*.meta.json
+packages/data/generated/street-loader.ts
+.env
+.env.*

@@ -1,0 +1,51 @@
+[
+  {
+    "code": 103,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "ההדרים",
+    "aliases": [
+      "הדרים"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "החרוב",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הרותם",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "השיטה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "השלום",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר נטר",
+    "aliases": [
+      "נטר"
+    ]
+  }
+]

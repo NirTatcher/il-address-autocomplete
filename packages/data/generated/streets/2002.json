@@ -1,0 +1,116 @@
+[
+  {
+    "code": 122,
+    "nameHe": "אלומים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "גלבוע",
+    "aliases": [
+      "הגלבוע"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "הגולן",
+    "aliases": [
+      "גולן"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הגלעד",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "החרמון",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הכרמל",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "המוריה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הצופים",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "השומרון",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "התבור",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "חורב",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "יבולים",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "כנען",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "מצדה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "נבו",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "נירים",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "עומר",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "עצמון",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "ציון",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "שיבולים",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "תלמים",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "תנובות",
+    "aliases": []
+  }
+]

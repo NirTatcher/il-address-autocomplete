@@ -1,0 +1,97 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "בצרה",
+    "aliases": [
+      "ש צריפים"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "האורנים",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הבאר",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הגן",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הנחלים",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "הנרקיס",
+    "aliases": [
+      "נרקיס"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "העליה",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הפרדס",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הפרחים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הצופית",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הראשונים",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "יונק הדבש",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "כלנית",
+    "aliases": [
+      "הכלנית"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "מגדל המים",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "נורית",
+    "aliases": [
+      "הנורית"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "קבוץ גלויות",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "רקפת",
+    "aliases": [
+      "הרקפת"
+    ]
+  }
+]

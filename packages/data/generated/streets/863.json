@@ -1,0 +1,107 @@
+[
+  {
+    "code": 9000,
+    "nameHe": "גינתון",
+    "aliases": [
+      "גנתון"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "האגוז",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "האורן",
+    "aliases": [
+      "דרך האורן"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הארז",
+    "aliases": [
+      "דרך הארז"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הברוש",
+    "aliases": [
+      "דרך הברוש"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הגנים",
+    "aliases": [
+      "דרך הגנים"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "הדולב",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הזית",
+    "aliases": [
+      "דרך הזית"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "החרוב",
+    "aliases": [
+      "דרך החרוב"
+    ]
+  },
+  {
+    "code": 116,
+    "nameHe": "הפקאן",
+    "aliases": [
+      "הפקן"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "הצאלון",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הרימון",
+    "aliases": [
+      "דרך הרימון"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "השקמה",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "התאנה",
+    "aliases": [
+      "דרך התאנה"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "התמר",
+    "aliases": []
+  }
+]

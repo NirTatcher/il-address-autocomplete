@@ -1,0 +1,180 @@
+[
+  {
+    "code": 116,
+    "nameHe": "אל ההר",
+    "aliases": [
+      "אל-ההר"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "אלון שבות",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "גבעת החיש",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "האגוז",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "האלה",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הארז",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "החורש",
+    "aliases": [
+      "דרך המשתלות"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "הישיבה",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "הלה",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הרקפת",
+    "aliases": [
+      "רקפת"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "השיירות",
+    "aliases": [
+      "השירות"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "ישיבת הר עציון",
+    "aliases": [
+      "הר עציון ישיבה",
+      "ישיבת הר ציון"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "כח באייר",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "מגדל עדר",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "מגיני הגוש",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "מעלה מיכאל",
+    "aliases": [
+      "מיכאל",
+      "מעלה מיכל"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "משעול הגפן",
+    "aliases": [
+      "הגפן"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "משעול הדקלים",
+    "aliases": [
+      "הדקלים"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "משעול הורד",
+    "aliases": [
+      "הורד"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "נצח ירושלים",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "קבוצת אברהם",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "שכ גבעות",
+    "aliases": [
+      "גבעות"
+    ]
+  },
+  {
+    "code": 6502,
+    "nameHe": "שכ גבעת הברכה",
+    "aliases": [
+      "גבעת הברכה"
+    ]
+  },
+  {
+    "code": 6501,
+    "nameHe": "שכ גבעת העץ",
+    "aliases": [
+      "גבעת העץ"
+    ]
+  },
+  {
+    "code": 6503,
+    "nameHe": "שכ משתלות",
+    "aliases": [
+      "שכ המשתלות"
+    ]
+  }
+]

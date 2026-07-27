@@ -1,0 +1,23 @@
+{
+  "name": "il-address-autocomplete",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "pnpm --filter @il-address/data build && pnpm --filter @il-address/core build && pnpm --filter @il-address/react build",
+    "dev": "pnpm --filter playground dev",
+    "data:fetch": "pnpm --filter @il-address/data fetch:gov",
+    "data:build": "pnpm --filter @il-address/data build",
+    "data:sync": "pnpm data:fetch && pnpm data:build",
+    "data:validate": "pnpm --filter @il-address/data validate",
+    "test": "pnpm --filter @il-address/core test",
+    "typecheck": "pnpm -r typecheck",
+    "prepublishOnly": "pnpm build && pnpm test"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "packageManager": "pnpm@9.15.4",
+  "engines": {
+    "node": ">=18"
+  }
+}

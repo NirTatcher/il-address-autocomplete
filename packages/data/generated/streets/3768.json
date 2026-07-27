@@ -1,0 +1,66 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אור עולם",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "בית אל",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "גבעת הלבונה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "גלעד",
+    "aliases": [
+      "הגלעד"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הר המור",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הראל",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "לבנון",
+    "aliases": [
+      "הלבנון"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "משעול העוז",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "עיר דוד",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "פדואל",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "ציון",
+    "aliases": []
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "code": 101,
+    "nameHe": "ברק",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "ורדית",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "ערבה",
+    "aliases": [
+      "הערבה"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "עשת",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "פארן",
+    "aliases": [
+      "פאראן"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "ציחור",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "רעים",
+    "aliases": []
+  }
+]

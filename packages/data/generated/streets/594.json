@@ -1,0 +1,44 @@
+[
+  {
+    "code": 106,
+    "nameHe": "דרך החיטה",
+    "aliases": [
+      "החיטה"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "הארז",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "צפריה",
+    "aliases": []
+  }
+]

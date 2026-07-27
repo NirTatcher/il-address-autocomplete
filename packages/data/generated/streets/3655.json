@@ -1,0 +1,134 @@
+[
+  {
+    "code": 113,
+    "nameHe": "אודם",
+    "aliases": [
+      "האודם"
+    ]
+  },
+  {
+    "code": 104,
+    "nameHe": "אורן",
+    "aliases": [
+      "האורן"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "בזלת",
+    "aliases": [
+      "הבזלת"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "ברוש",
+    "aliases": [
+      "הברוש"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "דרך המייסדים",
+    "aliases": [
+      "המייסדים"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "הבוסתן",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הדקל",
+    "aliases": [
+      "דקל"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "הדר",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "השיטה",
+    "aliases": [
+      "שיטה"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "זית",
+    "aliases": [
+      "הזית"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "מעלה ההר",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "נוף ים",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "נחל געתון",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "נחל דן",
+    "aliases": [
+      "דן"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "נחל הבשור",
+    "aliases": []
+  },
+  {
+    "code": 114,
+    "nameHe": "נחל מודיעין",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "נחל מירון",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "נחל נטוף",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "נחל פארן",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נילי",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שיזף",
+    "aliases": [
+      "השיזף"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "תדהר",
+    "aliases": [
+      "התדהר"
+    ]
+  }
+]

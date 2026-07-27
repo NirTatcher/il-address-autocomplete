@@ -1,0 +1,162 @@
+[
+  {
+    "code": 101,
+    "nameHe": "אכסנית נוער",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "דרך האי",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "דרך הבאר",
+    "aliases": [
+      "הבאר"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "דרך החול",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "דרך הכפר",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "דרך הנחל",
+    "aliases": [
+      "הנחל"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "דרך מול הים",
+    "aliases": [
+      "דרך נוף הים",
+      "מול הים",
+      "נוף הים"
+    ]
+  },
+  {
+    "code": 126,
+    "nameHe": "הדואר",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הדוגית",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "הזנב",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הלגונה",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "המגדלור",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "המזח",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "המחלבה",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "המפרש",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הסיפון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "הסירה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "העוגן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הצדף",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "הקונכיה",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "הראשונים",
+    "aliases": [
+      "דרך בית הראשונים"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "השונית",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "כביש עוקף דרום",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר ויתקין",
+    "aliases": [
+      "מרכז קליטה"
+    ]
+  },
+  {
+    "code": 128,
+    "nameHe": "משעול גנים",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "משעול הפרדסים",
+    "aliases": [
+      "הפרדסים"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "סמ המרפאה",
+    "aliases": [
+      "המרפאה"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "סמטת הכד",
+    "aliases": [
+      "הכג",
+      "סמ הכג",
+      "סמ הכד"
+    ]
+  }
+]

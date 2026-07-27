@@ -1,0 +1,386 @@
+[
+  {
+    "code": 154,
+    "nameHe": "אורן",
+    "aliases": []
+  },
+  {
+    "code": 153,
+    "nameHe": "אלה",
+    "aliases": []
+  },
+  {
+    "code": 152,
+    "nameHe": "אלון",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "אריאל",
+    "aliases": []
+  },
+  {
+    "code": 146,
+    "nameHe": "ארץ ימיני",
+    "aliases": []
+  },
+  {
+    "code": 148,
+    "nameHe": "ארץ צוף",
+    "aliases": []
+  },
+  {
+    "code": 143,
+    "nameHe": "ארץ שלישה",
+    "aliases": []
+  },
+  {
+    "code": 144,
+    "nameHe": "ארץ שעלים",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "אשכול",
+    "aliases": []
+  },
+  {
+    "code": 122,
+    "nameHe": "אשת לפידות",
+    "aliases": []
+  },
+  {
+    "code": 150,
+    "nameHe": "ברוש",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "ברכת הבנים",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "ברכת שמים",
+    "aliases": [
+      "ברכת שמיים"
+    ]
+  },
+  {
+    "code": 129,
+    "nameHe": "גפן",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "דולב",
+    "aliases": []
+  },
+  {
+    "code": 155,
+    "nameHe": "דרך אביה",
+    "aliases": [
+      "אביה"
+    ]
+  },
+  {
+    "code": 160,
+    "nameHe": "דרך הרי בשמים",
+    "aliases": [
+      "דרך הר הבשמים",
+      "הרי בשמים"
+    ]
+  },
+  {
+    "code": 131,
+    "nameHe": "דרך שילה",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "האופניים",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הגולן",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "הגליל",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "הגלעד",
+    "aliases": []
+  },
+  {
+    "code": 151,
+    "nameHe": "היער",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הירדן",
+    "aliases": []
+  },
+  {
+    "code": 170,
+    "nameHe": "הניצנים",
+    "aliases": [
+      "ניצנים"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הערבה",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "הר אפרים",
+    "aliases": [
+      "הר אפריים"
+    ]
+  },
+  {
+    "code": 163,
+    "nameHe": "הר המור",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הר כרכום",
+    "aliases": []
+  },
+  {
+    "code": 115,
+    "nameHe": "הראל",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "הרואה",
+    "aliases": []
+  },
+  {
+    "code": 167,
+    "nameHe": "הרימון",
+    "aliases": []
+  },
+  {
+    "code": 166,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "התבור",
+    "aliases": []
+  },
+  {
+    "code": 164,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 128,
+    "nameHe": "זית",
+    "aliases": [
+      "הזית",
+      "פרי זית"
+    ]
+  },
+  {
+    "code": 140,
+    "nameHe": "חצב",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "טלמון",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "יהושע בן נון",
+    "aliases": [
+      "יהושוע בן נון"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "ירושלים",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "לבנה",
+    "aliases": []
+  },
+  {
+    "code": 117,
+    "nameHe": "לבנון",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "לוז",
+    "aliases": []
+  },
+  {
+    "code": 145,
+    "nameHe": "לוטם",
+    "aliases": []
+  },
+  {
+    "code": 119,
+    "nameHe": "מוריה",
+    "aliases": []
+  },
+  {
+    "code": 169,
+    "nameHe": "מים חיים",
+    "aliases": []
+  },
+  {
+    "code": 147,
+    "nameHe": "מרוה",
+    "aliases": [
+      "מרווה"
+    ]
+  },
+  {
+    "code": 165,
+    "nameHe": "משעול הכרמים",
+    "aliases": []
+  },
+  {
+    "code": 162,
+    "nameHe": "משעול צרור המור",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "נווה",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "נחל פרת",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "נחל צין",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "נחל שניר",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "נחלי געש",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "נריה",
+    "aliases": [
+      "שכ נריה",
+      "שכונת נריה"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "סיני",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "עירית",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "ערמון",
+    "aliases": []
+  },
+  {
+    "code": 168,
+    "nameHe": "פרי מגדים",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "קידה",
+    "aliases": []
+  },
+  {
+    "code": 127,
+    "nameHe": "רמתיים צופים",
+    "aliases": [
+      "רמתיים"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "שאול המלך",
+    "aliases": []
+  },
+  {
+    "code": 161,
+    "nameHe": "שיר השירים",
+    "aliases": []
+  },
+  {
+    "code": 6501,
+    "nameHe": "שכונת חרשה",
+    "aliases": [
+      "חרשה",
+      "שכ חרשה"
+    ]
+  },
+  {
+    "code": 6504,
+    "nameHe": "שכונת טלמון א'",
+    "aliases": [
+      "שכ א'",
+      "שכ טלמון א",
+      "שכונת טלמון א"
+    ]
+  },
+  {
+    "code": 6502,
+    "nameHe": "שכונת כרם רעים",
+    "aliases": []
+  },
+  {
+    "code": 6503,
+    "nameHe": "שכונת נוה טלמון",
+    "aliases": [
+      "נוה טלמון",
+      "שכ נוה טלמון",
+      "שכונת נווה טלמון"
+    ]
+  },
+  {
+    "code": 149,
+    "nameHe": "שקד",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "תומר דבורה",
+    "aliases": []
+  },
+  {
+    "code": 126,
+    "nameHe": "תמנה",
+    "aliases": []
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "code": 111,
+    "nameHe": "גפן",
+    "aliases": [
+      "הגפן"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "דובדבן",
+    "aliases": [
+      "הדובדבן"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "האגוז",
+    "aliases": [
+      "אגוז"
+    ]
+  },
+  {
+    "code": 118,
+    "nameHe": "האלה",
+    "aliases": [
+      "אלה"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "האסיף",
+    "aliases": [
+      "אסיף"
+    ]
+  },
+  {
+    "code": 106,
+    "nameHe": "הדקל",
+    "aliases": [
+      "דקל"
+    ]
+  },
+  {
+    "code": 107,
+    "nameHe": "הזית",
+    "aliases": [
+      "זית"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "החיטה",
+    "aliases": [
+      "חיטה"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "החמניה",
+    "aliases": [
+      "חמניה"
+    ]
+  },
+  {
+    "code": 124,
+    "nameHe": "המגל",
+    "aliases": [
+      "מגל"
+    ]
+  },
+  {
+    "code": 102,
+    "nameHe": "הקוצר",
+    "aliases": [
+      "קוצר"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "השדה",
+    "aliases": [
+      "שדה"
+    ]
+  },
+  {
+    "code": 125,
+    "nameHe": "השיזף",
+    "aliases": [
+      "שיזף"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "חרוב",
+    "aliases": [
+      "החרוב"
+    ]
+  },
+  {
+    "code": 9000,
+    "nameHe": "כפר חיטים",
+    "aliases": [
+      "כפר חטים"
+    ]
+  },
+  {
+    "code": 121,
+    "nameHe": "מגדל המים",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "נבטים",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "נביעות",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "רימונים",
+    "aliases": [
+      "הרימונים"
+    ]
+  },
+  {
+    "code": 120,
+    "nameHe": "שיבולים",
+    "aliases": [
+      "השיבולים"
+    ]
+  },
+  {
+    "code": 108,
+    "nameHe": "שעורה",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "שקד",
+    "aliases": [
+      "השקד"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "שקדיה",
+    "aliases": [
+      "השקדיה"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "תאנה",
+    "aliases": [
+      "התאנה"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "תמר",
+    "aliases": [
+      "התמר"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "תנובת השדה",
+    "aliases": []
+  }
+]

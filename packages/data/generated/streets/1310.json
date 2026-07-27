@@ -1,0 +1,80 @@
+[
+  {
+    "code": 108,
+    "nameHe": "אגוז",
+    "aliases": [
+      "האגוז"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "אורנים",
+    "aliases": [
+      "האורנים"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "אלונים",
+    "aliases": [
+      "האלונים"
+    ]
+  },
+  {
+    "code": 111,
+    "nameHe": "ארזים",
+    "aliases": [
+      "הארזים"
+    ]
+  },
+  {
+    "code": 105,
+    "nameHe": "הגולן",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "הגליל",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הירדן",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הרי ירושלים",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "השקמה",
+    "aliases": []
+  },
+  {
+    "code": 113,
+    "nameHe": "ים המלח",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "ים כנרת",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "לפיד",
+    "aliases": []
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "code": 149,
+    "nameHe": "דרך הבאר",
+    "aliases": [
+      "הבאר"
+    ]
+  },
+  {
+    "code": 150,
+    "nameHe": "דרך הפרדס",
+    "aliases": [
+      "הפרדס"
+    ]
+  },
+  {
+    "code": 115,
+    "nameHe": "האגוז",
+    "aliases": []
+  },
+  {
+    "code": 121,
+    "nameHe": "האורן",
+    "aliases": []
+  },
+  {
+    "code": 116,
+    "nameHe": "האלון",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "האלונים",
+    "aliases": []
+  },
+  {
+    "code": 125,
+    "nameHe": "האתרוג",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "הבוסתן",
+    "aliases": []
+  },
+  {
+    "code": 141,
+    "nameHe": "הבנים",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "הגפן",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "ההדס",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "הורד",
+    "aliases": [
+      "סמ הורד"
+    ]
+  },
+  {
+    "code": 117,
+    "nameHe": "הזית",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "החבצלת",
+    "aliases": [
+      "סמ החבצלת"
+    ]
+  },
+  {
+    "code": 147,
+    "nameHe": "החירות",
+    "aliases": [
+      "החרות"
+    ]
+  },
+  {
+    "code": 109,
+    "nameHe": "הכלנית",
+    "aliases": [
+      "סמ הכלנית",
+      "סמטת הכלנית"
+    ]
+  },
+  {
+    "code": 148,
+    "nameHe": "המייסדים",
+    "aliases": [
+      "המיסדים"
+    ]
+  },
+  {
+    "code": 143,
+    "nameHe": "המנורה",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "המרגנית",
+    "aliases": [
+      "סמ המרגניות"
+    ]
+  },
+  {
+    "code": 114,
+    "nameHe": "הסביון",
+    "aliases": [
+      "סביון"
+    ]
+  },
+  {
+    "code": 113,
+    "nameHe": "הערבה",
+    "aliases": [
+      "ערבה"
+    ]
+  },
+  {
+    "code": 122,
+    "nameHe": "הצאלון",
+    "aliases": [
+      "צאלון"
+    ]
+  },
+  {
+    "code": 119,
+    "nameHe": "הרימון",
+    "aliases": [
+      "הרמון",
+      "רימון"
+    ]
+  },
+  {
+    "code": 103,
+    "nameHe": "השדות",
+    "aliases": []
+  },
+  {
+    "code": 120,
+    "nameHe": "השיטה",
+    "aliases": []
+  },
+  {
+    "code": 123,
+    "nameHe": "השקד",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "התאנה",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "התדהר",
+    "aliases": []
+  },
+  {
+    "code": 124,
+    "nameHe": "התמר",
+    "aliases": []
+  },
+  {
+    "code": 146,
+    "nameHe": "ווג'ווד",
+    "aliases": [
+      "וג'ווד",
+      "וגווד",
+      "ווגווד"
+    ]
+  },
+  {
+    "code": 6501,
+    "nameHe": "כפר הגמלאים",
+    "aliases": []
+  },
+  {
+    "code": 130,
+    "nameHe": "מגדלי הים התיכון",
+    "aliases": [
+      "מגדלי ים התיכון",
+      "מגדלי ים תיכון"
+    ]
+  },
+  {
+    "code": 101,
+    "nameHe": "מלון נורדיה",
+    "aliases": [
+      "אולפן",
+      "מרכז קליטה"
+    ]
+  },
+  {
+    "code": 145,
+    "nameHe": "מרגולין",
+    "aliases": []
+  },
+  {
+    "code": 6500,
+    "nameHe": "נאות נורדיה",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "נורדיה",
+    "aliases": []
+  },
+  {
+    "code": 6502,
+    "nameHe": "קרוונים",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "שד נורדיה",
+    "aliases": [
+      "שדרות נורדיה"
+    ]
+  },
+  {
+    "code": 144,
+    "nameHe": "תל חי",
+    "aliases": []
+  }
+]

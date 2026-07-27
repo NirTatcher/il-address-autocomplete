@@ -1,0 +1,72 @@
+[
+  {
+    "code": 111,
+    "nameHe": "אתרוג",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "ביער",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "בית העם",
+    "aliases": []
+  },
+  {
+    "code": 9000,
+    "nameHe": "גני עם",
+    "aliases": [
+      "גניעם",
+      "מוסד אהבה"
+    ]
+  },
+  {
+    "code": 110,
+    "nameHe": "דרך הים",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "האקליפטוס",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "הבנים",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "הצבעוני",
+    "aliases": [
+      "צבעוני"
+    ]
+  },
+  {
+    "code": 112,
+    "nameHe": "התות",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "יפה נוף",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "ירוק עד",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "סביונים",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "שירת השחרור",
+    "aliases": []
+  }
+]
