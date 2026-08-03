@@ -4,8 +4,8 @@
 #   1. Fetches latest cities + streets from the government CKAN API
 #   2. Rebuilds packages/data/generated/ (skips writes if content unchanged)
 #   3. Validates record counts against live CKAN
-#   4. Opens a PR only when city/street/source data actually changed
-#      (generatedAt-only diffs do not create a PR)
+#   4. Opens a PR only when city/street JSON actually changed
+#      (CKAN lastModified / generatedAt-only diffs do not create a PR)
 #
 # Schedule: every Monday at 06:00 UTC
 # Manual run: Actions tab → Data Sync → Run workflow
@@ -52,8 +52,8 @@ jobs:
           pnpm test
           pnpm build
 
-      # Only creates a PR when city/street/source content changed.
-      # generatedAt-only rebuilds leave the tree clean — no PR.
+      # Only creates a PR when city/street JSON content changed.
+      # CKAN lastModified or generatedAt-only refreshes leave the tree clean — no PR.
       # Review and merge manually — no auto-deploy.
       - name: Create PR if data changed
         uses: peter-evans/create-pull-request@v7

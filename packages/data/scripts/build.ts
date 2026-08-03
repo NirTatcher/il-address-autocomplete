@@ -111,33 +111,21 @@ async function loadSourceMeta(
 
 type BuiltWithoutTimestamp = Omit<DataManifest["built"], "generatedAt">;
 
-/** Stable fingerprint of published data — excludes generatedAt so rebuilds don't dirty git. */
+/**
+ * Fingerprint of shipped address data only (cities + streets).
+ * Excludes generatedAt and CKAN lastModified so metadata-only refreshes
+ * do not rewrite files or open empty data-sync PRs.
+ */
 function contentFingerprint(
   cities: BuiltCity[],
   streetsByCity: Map<number, BuiltStreet[]>,
-  sources: DataManifest["sources"],
-  built: BuiltWithoutTimestamp,
 ): string {
   const streets: Record<string, BuiltStreet[]> = {};
   for (const cityCode of [...streetsByCity.keys()].sort((a, b) => a - b)) {
     streets[String(cityCode)] = streetsByCity.get(cityCode) ?? [];
   }
 
-  const streetCountByCity: Record<string, number> = {};
-  for (const key of Object.keys(built.streetCountByCity).sort(
-    (a, b) => Number(a) - Number(b),
-  )) {
-    streetCountByCity[key] = built.streetCountByCity[key]!;
-  }
-
-  return sha256(
-    JSON.stringify({
-      cities,
-      streets,
-      sources,
-      built: { ...built, streetCountByCity },
-    }),
-  );
+  return sha256(JSON.stringify({ cities, streets }));
 }
 
 async function existingContentFingerprint(): Promise<string | null> {
@@ -156,8 +144,7 @@ async function existingContentFingerprint(): Promise<string | null> {
       streetsByCity.set(cityCode, streets);
     }
 
-    const { generatedAt: _ignored, ...built } = manifest.built;
-    return contentFingerprint(cities, streetsByCity, manifest.sources, built);
+    return contentFingerprint(cities, streetsByCity);
   } catch {
     return null;
   }
@@ -254,11 +241,13 @@ async function main(): Promise<void> {
     streetCountByCity,
   };
 
-  const nextFingerprint = contentFingerprint(cities, streetsByCity, sources, built);
+  const nextFingerprint = contentFingerprint(cities, streetsByCity);
   const previousFingerprint = await existingContentFingerprint();
 
   if (previousFingerprint === nextFingerprint) {
-    console.log("No data changes (cities/streets/sources unchanged); keeping existing generated/");
+    console.log(
+      "No city/street data changes; keeping existing generated/ (ignoring CKAN lastModified)",
+    );
     console.log(`  cities: ${cities.length}`);
     console.log(`  streets: ${uniqueStreetCount} unique across ${streetsByCity.size} cities`);
     return;

@@ -38,7 +38,7 @@ The `data-sync` GitHub Action runs every Monday. It:
 1. Fetches fresh data from data.gov.il
 2. Rebuilds generated JSON
 3. Runs validation and tests
-4. Opens a PR **only if city/street/source content changed** (not for `generatedAt`-only rebuilds)
+4. Opens a PR **only if city/street JSON changed** (not for `lastModified` / `generatedAt`-only updates)
 
 Review and merge the PR — nothing is auto-deployed or auto-published.
 

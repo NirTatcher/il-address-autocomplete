@@ -121,7 +121,7 @@ Example:
 }
 ```
 
-`sources.*.lastModified` comes from the government CKAN metadata (when gov.il last updated the file). `built.generatedAt` is when we last wrote a **content** change (cities/streets/sources). Rebuilds that only refresh the clock do not rewrite files, so the weekly sync does not open empty PRs.
+`sources.*.lastModified` comes from the government CKAN metadata (when gov.il last touched the resource). `built.generatedAt` is when we last wrote a **content** change (cities/streets JSON). Rebuilds that only see a newer CKAN `lastModified` (same records) do not rewrite files, so the weekly sync does not open empty PRs.
 
 ## Transform notes
 
