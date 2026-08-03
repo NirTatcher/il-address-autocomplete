@@ -2,12 +2,12 @@
   "sources": {
     "cities": {
       "resourceId": "8f714b6f-c35c-4b40-a0e7-547b675eee0e",
-      "lastModified": "2026-07-26T00:30:42.854452",
+      "lastModified": "2026-08-02T00:30:46.457463",
       "recordCount": 1310
     },
     "streets": {
       "resourceId": "bf185c7f-1a4e-4662-88c5-fa118a244bda",
-      "lastModified": "2026-07-26T00:30:58.612421",
+      "lastModified": "2026-08-02T00:31:06.445142",
       "recordCount": 152130
     }
   },
@@ -1329,6 +1329,6 @@
       "9700": 471,
       "9800": 235
     },
-    "generatedAt": "2026-07-27T13:32:20.167Z"
+    "generatedAt": "2026-08-03T09:46:38.655Z"
   }
 }
