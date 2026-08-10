@@ -152,6 +152,7 @@ pnpm data:validate
 
 - **Every PR/push:** `ci.yml` runs build, test, typecheck
 - **Weekly (Mondays):** `data-sync.yml` fetches fresh gov data, validates, opens a PR only if city/street content changed
+- **Demo (Netlify):** not auto-deployed on every `main` push — run **Actions → Deploy Demo**, or Netlify → **Trigger deploy** (requires `NETLIFY_BUILD_HOOK` secret for the GitHub workflow)
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 

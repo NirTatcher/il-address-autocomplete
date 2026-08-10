@@ -40,7 +40,16 @@ The `data-sync` GitHub Action runs every Monday. It:
 3. Runs validation and tests
 4. Opens a PR **only if city/street JSON changed** (not for `lastModified` / `generatedAt`-only updates)
 
-Review and merge the PR — nothing is auto-deployed or auto-published.
+Review and merge the PR — nothing is auto-published to npm.
+
+### Demo deploy (Netlify)
+
+Git pushes do **not** auto-deploy the playground. To update the live demo:
+
+1. **Netlify UI:** Site → Deploys → **Trigger deploy**, or
+2. **GitHub:** Actions → **Deploy Demo** → Run workflow (needs repo secret `NETLIFY_BUILD_HOOK`)
+
+Create the hook under Netlify → Site configuration → Build & deploy → Build hooks.
 
 ### Validation
 

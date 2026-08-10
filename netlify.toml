@@ -1,6 +1,10 @@
 [build]
   command = "pnpm install --frozen-lockfile && pnpm build && pnpm --filter playground build"
   publish = "apps/playground/dist"
+  # Skip git-triggered builds (push/PR). Still build when a Build Hook fires
+  # (GitHub "Deploy Demo" workflow) or Netlify UI Trigger deploy / CLI.
+  # exit 0 = cancel build, exit 1 = continue
+  ignore = "if [ -z \"$INCOMING_HOOK_URL\" ]; then exit 0; else exit 1; fi"
 
 [build.environment]
   NODE_VERSION = "20"

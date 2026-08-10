@@ -47,17 +47,37 @@ async function ckanGetOnce<T>(action: string, params: Record<string, string>): P
     url.searchParams.set(key, value);
   }
 
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`CKAN request failed (${response.status}): ${url}`);
-  }
+  const started = Date.now();
+  const label =
+    params.offset != null
+      ? `${action} offset=${params.offset}`
+      : action;
 
-  const data = (await response.json()) as CkanResponse<T>;
-  if (!data.success) {
-    throw new Error(`CKAN action ${action} returned success=false`);
-  }
+  try {
+    const response = await fetch(url);
+    const elapsedMs = Date.now() - started;
 
-  return data.result;
+    if (!response.ok) {
+      console.warn(`  ${label} failed in ${elapsedMs}ms (HTTP ${response.status})`);
+      throw new Error(`CKAN request failed (${response.status}): ${url}`);
+    }
+
+    const data = (await response.json()) as CkanResponse<T>;
+    if (!data.success) {
+      console.warn(`  ${label} failed in ${elapsedMs}ms (success=false)`);
+      throw new Error(`CKAN action ${action} returned success=false`);
+    }
+
+    console.log(`  ${label} ok in ${elapsedMs}ms`);
+    return data.result;
+  } catch (error) {
+    const elapsedMs = Date.now() - started;
+    // Avoid double-logging HTTP failures already logged above
+    if (!(error instanceof Error && error.message.startsWith("CKAN request failed"))) {
+      console.warn(`  ${label} failed in ${elapsedMs}ms (${error instanceof Error ? error.message : "unknown"})`);
+    }
+    throw error;
+  }
 }
 
 async function ckanGet<T>(action: string, params: Record<string, string>): Promise<T> {
@@ -85,7 +105,7 @@ async function ckanGet<T>(action: string, params: Record<string, string>): Promi
           : "unknown error";
 
       console.warn(
-        `\n  retry ${attempt}/${FETCH_MAX_ATTEMPTS} for ${action}` +
+        `  retry ${attempt}/${FETCH_MAX_ATTEMPTS} for ${action}` +
           (params.offset != null ? ` offset=${params.offset}` : "") +
           ` after ${label}; waiting ${delay}ms`,
       );
@@ -126,7 +146,7 @@ async function fetchAllRecords<T>(resourceId: string): Promise<{
     records.push(...result.records);
     offset += result.records.length;
 
-    process.stdout.write(`\r  fetched ${records.length}/${total}`);
+    console.log(`  progress ${records.length}/${total}`);
 
     if (records.length >= total) break;
 
@@ -135,7 +155,6 @@ async function fetchAllRecords<T>(resourceId: string): Promise<{
     }
   }
 
-  process.stdout.write("\n");
   return { records, total, meta };
 }
 

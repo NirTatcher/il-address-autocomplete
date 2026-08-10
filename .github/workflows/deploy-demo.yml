@@ -1,0 +1,30 @@
+# Demo site (apps/playground) is built on Netlify.
+#
+# Auto-builds from git are disabled via netlify.toml `ignore = "exit 0"`.
+# Deploy manually:
+#   - Netlify UI → Deploys → Trigger deploy, or
+#   - This workflow (needs repo secret NETLIFY_BUILD_HOOK)
+#
+# Create the hook: Netlify → Site configuration → Build & deploy → Build hooks
+# → Add build hook → copy URL → GitHub repo Settings → Secrets → NETLIFY_BUILD_HOOK
+name: Deploy Demo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-netlify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Netlify build hook
+        env:
+          NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+        run: |
+          if [ -z "$NETLIFY_BUILD_HOOK" ]; then
+            echo "Missing secret NETLIFY_BUILD_HOOK."
+            echo "Add a Netlify Build Hook URL as a repository secret, or use Trigger deploy in the Netlify UI."
+            exit 1
+          fi
+          curl -fsS -X POST -d '{}' "$NETLIFY_BUILD_HOOK"
+          echo
+          echo "Netlify build triggered."
