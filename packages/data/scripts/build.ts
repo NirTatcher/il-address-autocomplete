@@ -150,6 +150,56 @@ async function existingContentFingerprint(): Promise<string | null> {
   }
 }
 
+/**
+ * Street city_codes that are not in the official cities list (and vice versa).
+ * Names for orphans come from the first matching raw street row when available.
+ */
+function logCityStreetCoverage(
+  cities: BuiltCity[],
+  streetsByCity: Map<number, BuiltStreet[]>,
+  rawStreets: RawStreetRecord[],
+): void {
+  const cityCodes = new Set(cities.map((city) => city.code));
+  const streetCityCodes = [...streetsByCity.keys()];
+
+  const orphanStreetCities = streetCityCodes
+    .filter((code) => !cityCodes.has(code))
+    .sort((a, b) => a - b);
+  const orphanSet = new Set(orphanStreetCities);
+
+  const citiesWithoutStreets = cities
+    .filter((city) => !streetsByCity.has(city.code))
+    .map((city) => city.code)
+    .sort((a, b) => a - b);
+
+  if (orphanStreetCities.length > 0) {
+    const namesByCode = new Map<number, string>();
+    for (const record of rawStreets) {
+      const code = parseIntField(record.city_code);
+      if (!orphanSet.has(code) || namesByCode.has(code)) continue;
+      const name = trimOrNull(record.city_name);
+      if (name) namesByCode.set(code, name);
+    }
+
+    const details = orphanStreetCities
+      .map((code) => {
+        const name = namesByCode.get(code);
+        return name ? `${code} (${name})` : String(code);
+      })
+      .join(", ");
+
+    console.log(
+      `  orphan street city codes (in streets, not in cities.json): ${details}`,
+    );
+  }
+
+  if (citiesWithoutStreets.length > 0) {
+    console.log(
+      `  cities without streets: ${citiesWithoutStreets.join(", ")}`,
+    );
+  }
+}
+
 function buildStreetLoader(cityCodes: number[]): { js: string; dts: string } {
   const loaderEntries = cityCodes.map(
     (cityCode) => `  ${cityCode}: () => import("./streets/${cityCode}.json"),`,
@@ -250,6 +300,7 @@ async function main(): Promise<void> {
     );
     console.log(`  cities: ${cities.length}`);
     console.log(`  streets: ${uniqueStreetCount} unique across ${streetsByCity.size} cities`);
+    logCityStreetCoverage(cities, streetsByCity, rawStreets);
     return;
   }
 
@@ -282,6 +333,7 @@ async function main(): Promise<void> {
   console.log(`  data changed — wrote new generated/ + manifest`);
   console.log(`  cities: ${cities.length} (${citiesChecksum.slice(0, 8)}…)`);
   console.log(`  streets: ${uniqueStreetCount} unique across ${streetsByCity.size} cities`);
+  logCityStreetCoverage(cities, streetsByCity, rawStreets);
   console.log(`  manifest: ${MANIFEST_PATH}`);
 }
 

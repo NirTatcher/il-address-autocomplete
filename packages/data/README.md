@@ -13,6 +13,8 @@ Data is sourced from the official [data.gov.il](https://data.gov.il) CKAN API (P
 | Cities (ישובים) | [`8f714b6f-c35c-4b40-a0e7-547b675eee0e`](https://data.gov.il/api/3/action/datastore_search?resource_id=8f714b6f-c35c-4b40-a0e7-547b675eee0e&limit=1) | ~1,310 records |
 | Streets + synonyms (רחובות עם שמות נרדפים) | [`bf185c7f-1a4e-4662-88c5-fa118a244bda`](https://data.gov.il/api/3/action/datastore_search?resource_id=bf185c7f-1a4e-4662-88c5-fa118a244bda&limit=1) | ~152k raw rows → ~63k unique streets |
 
+City count in `cities.json` and “cities with streets” in the build log can differ by a few codes: the streets file sometimes lists a locality (small farm / settlement) that isn’t in the official ישובים list. City autocomplete uses `cities.json` only; orphan street files may still exist under `generated/streets/{cityCode}.json`. The build prints any orphan codes (with names from the streets file) when that happens.
+
 Fetched via:
 
 ```
