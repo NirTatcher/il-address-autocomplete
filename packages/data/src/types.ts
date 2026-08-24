@@ -64,7 +64,10 @@ export interface DataManifest {
     uniqueStreetCount: number;
     rawStreetRecordCount: number;
     streetCountByCity: Record<string, number>;
+    /** ISO timestamp of last content write */
     generatedAt: string;
+    /** Calendar date (YYYY-MM-DD) for README badges */
+    generatedAtDate: string;
   };
 }
 

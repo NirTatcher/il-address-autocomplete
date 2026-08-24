@@ -36,6 +36,7 @@ export interface DataManifest {
     rawStreetRecordCount: number;
     streetCountByCity: Record<string, number>;
     generatedAt: string;
+    generatedAtDate: string;
   };
 }
 

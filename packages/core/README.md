@@ -102,7 +102,8 @@ import { getDataManifest } from "@il-address/core";
 const manifest = getDataManifest();
 manifest.sources.cities.lastModified;  // gov.il cities file date
 manifest.sources.streets.lastModified; // gov.il streets file date
-manifest.built.generatedAt;            // when we last built the JSON
+manifest.built.generatedAt;            // when we last wrote a content change
+manifest.built.generatedAtDate;        // YYYY-MM-DD (for badges)
 ```
 
 ## Data

@@ -109,11 +109,14 @@ async function loadSourceMeta(
   }
 }
 
-type BuiltWithoutTimestamp = Omit<DataManifest["built"], "generatedAt">;
+type BuiltWithoutTimestamp = Omit<
+  DataManifest["built"],
+  "generatedAt" | "generatedAtDate"
+>;
 
 /**
  * Fingerprint of shipped address data only (cities + streets).
- * Excludes generatedAt and CKAN lastModified so metadata-only refreshes
+ * Excludes generatedAt / generatedAtDate and CKAN lastModified so metadata-only refreshes
  * do not rewrite files or open empty data-sync PRs.
  */
 function contentFingerprint(
@@ -313,11 +316,13 @@ async function main(): Promise<void> {
     await writeJsonFile(path.join(STREETS_DIR, `${cityCode}.json`), streets);
   }
 
+  const generatedAt = new Date().toISOString();
   const manifest: DataManifest = {
     sources,
     built: {
       ...built,
-      generatedAt: new Date().toISOString(),
+      generatedAt,
+      generatedAtDate: generatedAt.slice(0, 10),
     },
   };
 

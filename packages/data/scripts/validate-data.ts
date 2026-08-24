@@ -92,7 +92,7 @@ async function main(): Promise<void> {
   console.log("Data validation passed.");
   console.log(`  cities: ${manifest.built.cityCount}`);
   console.log(`  unique streets: ${manifest.built.uniqueStreetCount}`);
-  console.log(`  generated: ${manifest.built.generatedAt}`);
+  console.log(`  generated: ${manifest.built.generatedAt} (${manifest.built.generatedAtDate})`);
 }
 
 main().catch((error: unknown) => {
