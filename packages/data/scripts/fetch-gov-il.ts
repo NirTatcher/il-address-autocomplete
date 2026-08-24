@@ -35,7 +35,9 @@ function retryDelayMs(attempt: number): number {
 function isRetryableError(error: unknown): boolean {
   if (!(error instanceof Error)) return false;
   const message = error.message;
-  if (/CKAN request failed \((502|503|504)\)/.test(message)) return true;
+  // 404/429: data.gov.il sometimes returns these transiently from cloud IPs
+  // even when the same URL succeeds in a browser moments later.
+  if (/CKAN request failed \((404|429|502|503|504)\)/.test(message)) return true;
   if (error.name === "AbortError" || error.name === "TimeoutError") return true;
   if (/fetch failed|ECONNRESET|ETIMEDOUT|EAI_AGAIN|socket/i.test(message)) return true;
   return false;

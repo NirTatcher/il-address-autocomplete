@@ -16,7 +16,7 @@ export const FETCH_BATCH_SIZE = 500;
 /** Pause between successful datastore pages to ease load on data.gov.il */
 export const FETCH_PAGE_DELAY_MS = 150;
 
-/** Retries for transient CKAN failures (502/503/504, network errors) */
+/** Retries for transient CKAN failures (404/429/502/503/504, network errors) */
 export const FETCH_MAX_ATTEMPTS = 5;
 
 /** Base delay for exponential backoff: 1s, 2s, 4s, 8s… */
