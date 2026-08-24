@@ -21,7 +21,7 @@ GET https://data.gov.il/api/3/action/datastore_search?resource_id=<id>
 
 No API key required. See [data.gov.il](https://data.gov.il) for the full catalog.
 
-Fetches use paginated `datastore_search` with retries (404/429/502/503/504 + network errors, exponential backoff) and a short delay between pages to tolerate flaky CKAN responses.
+Fetches use paginated `datastore_search` (32k page size — CKAN’s cap) with `User-Agent: datagov-external-client`, retries (404/429/502/503/504 + network errors, exponential backoff), and a short delay between pages. Cloud CI IPs sometimes get edge/WAF 404s on the same URL that works in a browser; fewer pages + the community UA reduces that.
 
 ## Contents (published)
 

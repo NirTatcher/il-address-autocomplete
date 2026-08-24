@@ -2,6 +2,7 @@ import { writeFile } from "node:fs/promises";
 import path from "node:path";
 import {
   CKAN_BASE,
+  CKAN_USER_AGENT,
   FETCH_BATCH_SIZE,
   FETCH_MAX_ATTEMPTS,
   FETCH_PAGE_DELAY_MS,
@@ -26,21 +27,27 @@ function sleep(ms: number): Promise<void> {
 }
 
 function retryDelayMs(attempt: number): number {
-  // attempt 1 → 1s, 2 → 2s, 3 → 4s… plus small jitter
+  // attempt 1 → 2s, 2 → 4s, 3 → 8s… plus small jitter
   const base = FETCH_RETRY_BASE_MS * 2 ** (attempt - 1);
-  const jitter = Math.floor(Math.random() * 250);
+  const jitter = Math.floor(Math.random() * 500);
   return base + jitter;
 }
 
 function isRetryableError(error: unknown): boolean {
   if (!(error instanceof Error)) return false;
   const message = error.message;
-  // 404/429: data.gov.il sometimes returns these transiently from cloud IPs
+  // 404/429: data.gov.il WAF sometimes returns these from cloud IPs
   // even when the same URL succeeds in a browser moments later.
   if (/CKAN request failed \((404|429|502|503|504)\)/.test(message)) return true;
   if (error.name === "AbortError" || error.name === "TimeoutError") return true;
   if (/fetch failed|ECONNRESET|ETIMEDOUT|EAI_AGAIN|socket/i.test(message)) return true;
   return false;
+}
+
+function truncateBody(body: string, max = 240): string {
+  const compact = body.replace(/\s+/g, " ").trim();
+  if (compact.length <= max) return compact;
+  return `${compact.slice(0, max)}…`;
 }
 
 async function ckanGetOnce<T>(action: string, params: Record<string, string>): Promise<T> {
@@ -56,11 +63,21 @@ async function ckanGetOnce<T>(action: string, params: Record<string, string>): P
       : action;
 
   try {
-    const response = await fetch(url);
+    const response = await fetch(url, {
+      headers: {
+        Accept: "application/json",
+        "User-Agent": CKAN_USER_AGENT,
+      },
+    });
     const elapsedMs = Date.now() - started;
 
     if (!response.ok) {
-      console.warn(`  ${label} failed in ${elapsedMs}ms (HTTP ${response.status})`);
+      const body = truncateBody(await response.text().catch(() => ""));
+      console.warn(
+        `  ${label} failed in ${elapsedMs}ms (HTTP ${response.status}` +
+          (body ? `; body=${body}` : "") +
+          ")",
+      );
       throw new Error(`CKAN request failed (${response.status}): ${url}`);
     }
 
