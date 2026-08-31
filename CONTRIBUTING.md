@@ -33,7 +33,7 @@ This fetches from CKAN into `packages/data/raw/` and rebuilds `packages/data/gen
 
 ### Automated weekly sync
 
-The `data-sync` GitHub Action runs every Monday. It:
+The `data-sync` GitHub Action runs every Sunday (~05:17 UTC). It:
 
 1. Fetches fresh data from data.gov.il
 2. Rebuilds generated JSON

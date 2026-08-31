@@ -8,7 +8,7 @@
 [![license](https://img.shields.io/npm/l/@il-address/core)](https://github.com/NirTatcher/il-address-autocomplete/blob/main/LICENSE)
 [![cities](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.cityCount&label=cities&color=0ea5e9)](./packages/data/manifest.json)
 [![streets](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.uniqueStreetCount&label=streets&color=0ea5e9)](./packages/data/manifest.json)
-[![data updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.generatedAtDate&label=data%20updated&color=8b5cf6)](./packages/data/manifest.json)
+[![gov.il data](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.generatedAtDate&label=gov.il%20data&color=8b5cf6)](./packages/data/manifest.json)
 
 Headless Israeli city & street autocomplete for JavaScript and React. Data sourced from the official [data.gov.il](https://data.gov.il) CKAN API (Population & Immigration Authority).
 
@@ -154,7 +154,7 @@ pnpm data:validate
 ## CI / data freshness
 
 - **Every PR/push:** `ci.yml` runs build, test, typecheck
-- **Weekly (Mondays):** `data-sync.yml` fetches fresh gov data, validates, opens a PR only if city/street content changed
+- **Weekly (Sundays ~05:17 UTC):** `data-sync.yml` fetches fresh gov data, validates, opens a PR only if city/street content changed
 - **Demo (Netlify):** not auto-deployed on every `main` push — run **Actions → Deploy Demo**, or Netlify → **Trigger deploy** (requires `NETLIFY_BUILD_HOOK` secret for the GitHub workflow)
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.

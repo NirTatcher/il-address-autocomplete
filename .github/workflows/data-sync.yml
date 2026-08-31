@@ -7,13 +7,13 @@
 #   4. Opens a PR only when city/street JSON actually changed
 #      (CKAN lastModified / generatedAt-only diffs do not create a PR)
 #
-# Schedule: every Monday at 06:00 UTC
+# Schedule: every Sunday at 05:17 UTC (off-peak; GitHub often drops :00 Monday cron)
 # Manual run: Actions tab → Data Sync → Run workflow
 name: Data Sync
 
 on:
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "17 5 * * 0"
   workflow_dispatch:
 
 # Required for create-pull-request to open a PR with the updated data
