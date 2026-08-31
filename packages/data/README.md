@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@il-address/data)](https://www.npmjs.com/package/@il-address/data)
 [![cities](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.cityCount&label=cities&color=0ea5e9)](./manifest.json)
 [![streets](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.uniqueStreetCount&label=streets&color=0ea5e9)](./manifest.json)
-[![gov.il data](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.generatedAtDate&label=gov.il%20data&color=8b5cf6)](./manifest.json)
+[![last gov.il change](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.generatedAtDate&label=last%20gov.il%20change&color=8b5cf6)](./manifest.json)
 
 Israeli city and street data for `@il-address/core`. Typically installed automatically as a transitive dependency — you usually don't import this package directly.
 
@@ -124,12 +124,12 @@ Example:
     rawStreetRecordCount: number;
     streetCountByCity: Record<string, number>;
     generatedAt: string;      // ISO timestamp of last content write
-    generatedAtDate: string;  // YYYY-MM-DD — date gov.il data last changed (README badge)
+    generatedAtDate: string;  // YYYY-MM-DD — last gov.il data change (README badge)
   };
 }
 ```
 
-`sources.*.lastModified` comes from the government CKAN metadata (when gov.il last touched the resource). `built.generatedAt` / `generatedAtDate` are when we last synced **changed** city/street content from gov.il into `generated/` (the **gov.il data** badge shows `generatedAtDate`). Rebuilds that only see a newer CKAN `lastModified` (same records) do not rewrite files, so the weekly sync does not open empty PRs. The cities / streets badges read counts from `manifest.json` on `main`.
+`sources.*.lastModified` comes from the government CKAN metadata (when gov.il last touched the resource). `built.generatedAt` / `generatedAtDate` are when we last synced **changed** city/street content from gov.il into `generated/` (the **last gov.il change** badge shows `generatedAtDate`). Rebuilds that only see a newer CKAN `lastModified` (same records) do not rewrite files, so the weekly sync does not open empty PRs. The cities / streets badges read counts from `manifest.json` on `main`.
 
 ## Transform notes
 
