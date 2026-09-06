@@ -145,8 +145,10 @@
   },
   {
     "code": 113,
-    "nameHe": "ראם",
-    "aliases": []
+    "nameHe": "רא\"ם",
+    "aliases": [
+      "ראם"
+    ]
   },
   {
     "code": 101,
