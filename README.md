@@ -1,6 +1,7 @@
 # IL Address Autocomplete
 
 [![CI](https://github.com/NirTatcher/il-address-autocomplete/actions/workflows/ci.yml/badge.svg)](https://github.com/NirTatcher/il-address-autocomplete/actions/workflows/ci.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/798062b8-bf26-46ad-8741-99d42ffecb00/deploy-status)](https://app.netlify.com/projects/il-address-autocomplete/deploys)
 [![npm version](https://img.shields.io/npm/v/@il-address/core)](https://www.npmjs.com/package/@il-address/core)
 ![npm](https://img.shields.io/npm/dw/@il-address/core)
 ![npm](https://img.shields.io/npm/dm/@il-address/core)
