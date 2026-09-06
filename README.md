@@ -168,7 +168,7 @@ pnpm build && pnpm test
 pnpm --filter @il-address/data pack
 pnpm --filter @il-address/core pack
 pnpm --filter @il-address/react pack
-# In a new folder: npm install react react-dom && npm install ./il-address-data-1.0.0.tgz ./il-address-core-1.0.0.tgz ./il-address-react-1.0.0.tgz
+# In a new folder: npm install react react-dom && npm install ./il-address-data-1.0.1.tgz ./il-address-core-1.0.1.tgz ./il-address-react-1.0.1.tgz
 ```
 
 2. **Publish** (order matters — data first):
