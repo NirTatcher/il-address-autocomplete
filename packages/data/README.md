@@ -1,9 +1,9 @@
 # @il-address/data
 
 [![npm version](https://img.shields.io/npm/v/@il-address/data)](https://www.npmjs.com/package/@il-address/data)
-[![cities](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.cityCount&label=cities&color=0ea5e9)](./manifest.json)
-[![streets](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.uniqueStreetCount&label=streets&color=0ea5e9)](./manifest.json)
-[![last gov.il change](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNirTatcher%2Fil-address-autocomplete%2Fmain%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.generatedAtDate&label=last%20gov.il%20change&color=8b5cf6)](./manifest.json)
+[![cities](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNirTatcher%2Fil-address-autocomplete%40main%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.cityCount&label=cities&color=0ea5e9)](./manifest.json)
+[![streets](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNirTatcher%2Fil-address-autocomplete%40main%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.uniqueStreetCount&label=streets&color=0ea5e9)](./manifest.json)
+[![last gov.il change](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNirTatcher%2Fil-address-autocomplete%40main%2Fpackages%2Fdata%2Fmanifest.json&query=%24.built.generatedAtDate&label=last%20gov.il%20change&color=8b5cf6)](./manifest.json)
 
 Israeli city and street data for `@il-address/core`. Typically installed automatically as a transitive dependency — you usually don't import this package directly.
 
