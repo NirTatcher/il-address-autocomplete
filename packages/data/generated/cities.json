@@ -1569,7 +1569,7 @@
   },
   {
     "code": 1066,
-    "nameHe": "בני עיש",
+    "nameHe": "בני עי\"ש",
     "nameEn": "BENE AYISH",
     "regionCode": 44,
     "regionName": "רחובות"
@@ -1604,7 +1604,7 @@
   },
   {
     "code": 1326,
-    "nameHe": "בסמה",
+    "nameHe": "בסמ\"ה",
     "nameEn": "BASMA",
     "regionCode": 32,
     "regionName": "חדרה"
@@ -1981,6 +1981,13 @@
     "regionName": "ראמאללה"
   },
   {
+    "code": 207,
+    "nameHe": "גבעת ח\"ן",
+    "nameEn": "GIV'AT HEN",
+    "regionCode": 42,
+    "regionName": "פתח תקווה"
+  },
+  {
     "code": 2018,
     "nameHe": "גבעת חיים (איחוד)",
     "nameEn": "GIV'AT HAYYIM (IHUD)",
@@ -1993,13 +2000,6 @@
     "nameEn": "GIV'AT HAYYIM(ME'UHA",
     "regionCode": 41,
     "regionName": "השרון"
-  },
-  {
-    "code": 207,
-    "nameHe": "גבעת חן",
-    "nameEn": "GIV'AT HEN",
-    "regionCode": 42,
-    "regionName": "פתח תקווה"
   },
   {
     "code": 4021,
@@ -2024,14 +2024,14 @@
   },
   {
     "code": 802,
-    "nameHe": "גבעת כח",
+    "nameHe": "גבעת כ\"ח",
     "nameEn": "GIV'AT KOAH",
     "regionCode": 42,
     "regionName": "פתח תקווה"
   },
   {
     "code": 360,
-    "nameHe": "גבעת נילי",
+    "nameHe": "גבעת ניל\"י",
     "nameEn": "GIV'AT NILI",
     "regionCode": 32,
     "regionName": "חדרה"
@@ -2507,7 +2507,7 @@
   },
   {
     "code": 1067,
-    "nameHe": "דובב",
+    "nameHe": "דוב\"ב",
     "nameEn": "DOVEV",
     "regionCode": 21,
     "regionName": "צפת"
@@ -2756,6 +2756,13 @@
     "nameEn": "HAR ADAR",
     "regionCode": 74,
     "regionName": "ראמאללה"
+  },
+  {
+    "code": 3907,
+    "nameHe": "הר בזק",
+    "nameEn": "HAR BEZEK",
+    "regionCode": 71,
+    "regionName": "ג'נין"
   },
   {
     "code": 3603,
@@ -3487,7 +3494,7 @@
   },
   {
     "code": 64,
-    "nameHe": "יד רמבם",
+    "nameHe": "יד רמב\"ם",
     "nameEn": "YAD RAMBAM",
     "regionCode": 43,
     "regionName": "רמלה"
@@ -3578,7 +3585,7 @@
   },
   {
     "code": 3607,
-    "nameHe": "ייטב",
+    "nameHe": "ייט\"ב",
     "nameEn": "YITAV",
     "regionCode": 75,
     "regionName": "ירדן )יריחו("
@@ -4040,7 +4047,7 @@
   },
   {
     "code": 177,
-    "nameHe": "כפר בילו",
+    "nameHe": "כפר ביל\"ו",
     "nameEn": "KEFAR BILU",
     "regionCode": 44,
     "regionName": "רחובות"
@@ -4159,14 +4166,14 @@
   },
   {
     "code": 217,
-    "nameHe": "כפר הראה",
+    "nameHe": "כפר הרא\"ה",
     "nameEn": "KEFAR HARO'E",
     "regionCode": 41,
     "regionName": "השרון"
   },
   {
     "code": 888,
-    "nameHe": "כפר הריף",
+    "nameHe": "כפר הרי\"ף",
     "nameEn": "KEFAR HARIF",
     "regionCode": 61,
     "regionName": "אשקלון"
@@ -4208,7 +4215,7 @@
   },
   {
     "code": 696,
-    "nameHe": "כפר חבד",
+    "nameHe": "כפר חב\"ד",
     "nameEn": "KEFAR HABAD",
     "regionCode": 43,
     "regionName": "רמלה"
@@ -4341,7 +4348,7 @@
   },
   {
     "code": 98,
-    "nameHe": "כפר מלל",
+    "nameHe": "כפר מל\"ל",
     "nameEn": "KEFAR MALAL",
     "regionCode": 42,
     "regionName": "פתח תקווה"
@@ -4558,7 +4565,7 @@
   },
   {
     "code": 580,
-    "nameHe": "כרם מהרל",
+    "nameHe": "כרם מהר\"ל",
     "nameEn": "KEREM MAHARAL",
     "regionCode": 32,
     "regionName": "חדרה"
@@ -4583,6 +4590,13 @@
     "nameEn": "KARME YOSEF",
     "regionCode": 43,
     "regionName": "רמלה"
+  },
+  {
+    "code": 3909,
+    "nameHe": "כרמי עוז",
+    "nameEn": "KARME OZ",
+    "regionCode": 74,
+    "regionName": "ראמאללה"
   },
   {
     "code": 3766,
@@ -4712,7 +4726,7 @@
   },
   {
     "code": 3901,
-    "nameHe": "לחי",
+    "nameHe": "לח\"י",
     "nameEn": "LEHI",
     "regionCode": 73,
     "regionName": "טול כרם"
@@ -5545,7 +5559,7 @@
   },
   {
     "code": 1222,
-    "nameHe": "מצפה אביב",
+    "nameHe": "מצפה אבי\"ב",
     "nameEn": "MIZPE AVIV",
     "regionCode": 24,
     "regionName": "עכו"
@@ -5916,7 +5930,7 @@
   },
   {
     "code": 4303,
-    "nameHe": "נווה אטיב",
+    "nameHe": "נווה אטי\"ב",
     "nameEn": "NEWE ATIV",
     "regionCode": 29,
     "regionName": "גולן"
@@ -6203,7 +6217,7 @@
   },
   {
     "code": 3655,
-    "nameHe": "נילי",
+    "nameHe": "ניל\"י",
     "nameEn": "NILI",
     "regionCode": 74,
     "regionName": "ראמאללה"
@@ -6280,7 +6294,7 @@
   },
   {
     "code": 11,
-    "nameHe": "ניר חן",
+    "nameHe": "ניר ח\"ן",
     "nameEn": "NIR HEN",
     "regionCode": 61,
     "regionName": "אשקלון"
@@ -6406,7 +6420,7 @@
   },
   {
     "code": 3713,
-    "nameHe": "נעמה",
+    "nameHe": "נעמ\"ה",
     "nameEn": "NAAMA",
     "regionCode": 75,
     "regionName": "ירדן )יריחו("
@@ -6476,7 +6490,7 @@
   },
   {
     "code": 693,
-    "nameHe": "נתיב הלה",
+    "nameHe": "נתיב הל\"ה",
     "nameEn": "NETIV HALAMED-HE",
     "regionCode": 11,
     "regionName": "ירושלים"
@@ -6578,6 +6592,13 @@
     "nameEn": "SAKHNIN",
     "regionCode": 24,
     "regionName": "עכו"
+  },
+  {
+    "code": 3908,
+    "nameHe": "סחלב",
+    "nameEn": "SAHLAV",
+    "regionCode": 71,
+    "regionName": "ג'נין"
   },
   {
     "code": 1170,
@@ -6903,7 +6924,7 @@
   },
   {
     "code": 383,
-    "nameHe": "עין הנציב",
+    "nameHe": "עין הנצי\"ב",
     "nameEn": "EN HANAZIV",
     "regionCode": 23,
     "regionName": "עפולה"
@@ -6980,7 +7001,7 @@
   },
   {
     "code": 3904,
-    "nameHe": "עין ייטב",
+    "nameHe": "עין ייט\"ב",
     "nameEn": "EN YITAV",
     "regionCode": 75,
     "regionName": "ירדן )יריחו("
@@ -6994,7 +7015,7 @@
   },
   {
     "code": 1056,
-    "nameHe": "עין כרם-ביס חקלאי",
+    "nameHe": "עין כרם-בי\"ס חקלאי",
     "nameEn": "EN KAREM-B.S.HAQLA'I",
     "regionCode": 11,
     "regionName": "ירושלים"
@@ -7385,6 +7406,13 @@
     "regionName": "חברון"
   },
   {
+    "code": 3922,
+    "nameHe": "פני קדם",
+    "nameEn": "PNE KEDEM",
+    "regionCode": 77,
+    "regionName": "חברון"
+  },
+  {
     "code": 3659,
     "nameHe": "פסגות",
     "nameEn": "PESAGOT",
@@ -7400,7 +7428,7 @@
   },
   {
     "code": 2059,
-    "nameHe": "פעמי תשז",
+    "nameHe": "פעמי תש\"ז",
     "nameEn": "PA'AME TASHAZ",
     "regionCode": 62,
     "regionName": "באר שבע"
@@ -7929,6 +7957,13 @@
     "nameEn": "QIRYAT SHEMONA",
     "regionCode": 21,
     "regionName": "צפת"
+  },
+  {
+    "code": 3923,
+    "nameHe": "קרן יער",
+    "nameEn": "KEREN YA'AR",
+    "regionCode": 77,
+    "regionName": "חברון"
   },
   {
     "code": 3640,
@@ -8708,6 +8743,13 @@
     "regionName": "רמלה"
   },
   {
+    "code": 3910,
+    "nameHe": "שירה",
+    "nameEn": "SHIRA",
+    "regionCode": 73,
+    "regionName": "טול כרם"
+  },
+  {
     "code": 1160,
     "nameHe": "שכניה",
     "nameEn": "SHEKHANYA",
@@ -9066,7 +9108,7 @@
   },
   {
     "code": 2050,
-    "nameHe": "תלמי בילו",
+    "nameHe": "תלמי ביל\"ו",
     "nameEn": "TALME BILU",
     "regionCode": 62,
     "regionName": "באר שבע"
