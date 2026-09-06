@@ -124,7 +124,7 @@ Example:
     rawStreetRecordCount: number;
     streetCountByCity: Record<string, number>;
     generatedAt: string;      // ISO timestamp of last content write
-    generatedAtDate: string;  // YYYY-MM-DD — last gov.il data change (README badge)
+    generatedAtDate: string;  // DD-MM-YYYY — last gov.il data change (README badge)
   };
 }
 ```

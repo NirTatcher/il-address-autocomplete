@@ -66,7 +66,7 @@ export interface DataManifest {
     streetCountByCity: Record<string, number>;
     /** ISO timestamp of last content write */
     generatedAt: string;
-    /** Calendar date (YYYY-MM-DD) for README badges */
+    /** Calendar date (DD-MM-YYYY) for README badges */
     generatedAtDate: string;
   };
 }

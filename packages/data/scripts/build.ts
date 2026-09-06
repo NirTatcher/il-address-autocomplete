@@ -114,6 +114,12 @@ type BuiltWithoutTimestamp = Omit<
   "generatedAt" | "generatedAtDate"
 >;
 
+/** Badge-friendly date: DD-MM-YYYY (from an ISO timestamp). */
+function formatGeneratedAtDate(isoTimestamp: string): string {
+  const [year, month, day] = isoTimestamp.slice(0, 10).split("-");
+  return `${day}-${month}-${year}`;
+}
+
 /**
  * Fingerprint of shipped address data only (cities + streets).
  * Excludes generatedAt / generatedAtDate and CKAN lastModified so metadata-only refreshes
@@ -322,7 +328,7 @@ async function main(): Promise<void> {
     built: {
       ...built,
       generatedAt,
-      generatedAtDate: generatedAt.slice(0, 10),
+      generatedAtDate: formatGeneratedAtDate(generatedAt),
     },
   };
 

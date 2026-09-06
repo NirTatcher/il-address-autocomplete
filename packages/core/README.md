@@ -103,7 +103,7 @@ const manifest = getDataManifest();
 manifest.sources.cities.lastModified;  // gov.il cities file date
 manifest.sources.streets.lastModified; // gov.il streets file date
 manifest.built.generatedAt;            // when we last wrote a content change
-manifest.built.generatedAtDate;        // YYYY-MM-DD — last gov.il data change (README badge)
+manifest.built.generatedAtDate;        // DD-MM-YYYY — last gov.il data change (README badge)
 ```
 
 ## Data
