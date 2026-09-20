@@ -2,19 +2,19 @@
   "sources": {
     "cities": {
       "resourceId": "8f714b6f-c35c-4b40-a0e7-547b675eee0e",
-      "lastModified": "2026-09-06T07:17:34.297713",
+      "lastModified": "2026-09-20T00:30:31.916696",
       "recordCount": 1316
     },
     "streets": {
       "resourceId": "bf185c7f-1a4e-4662-88c5-fa118a244bda",
-      "lastModified": "2026-09-01T11:51:04.226209",
-      "recordCount": 152132
+      "lastModified": "2026-09-20T00:30:47.182796",
+      "recordCount": 152136
     }
   },
   "built": {
     "cityCount": 1316,
-    "uniqueStreetCount": 63576,
-    "rawStreetRecordCount": 152132,
+    "uniqueStreetCount": 63580,
+    "rawStreetRecordCount": 152136,
     "streetCountByCity": {
       "7": 8,
       "10": 1,
@@ -1248,8 +1248,12 @@
       "3904": 1,
       "3905": 1,
       "3906": 1,
+      "3907": 1,
       "3908": 1,
       "3909": 1,
+      "3910": 1,
+      "3922": 1,
+      "3923": 1,
       "3987": 1,
       "4000": 1439,
       "4001": 1,
@@ -1331,7 +1335,7 @@
       "9700": 471,
       "9800": 235
     },
-    "generatedAt": "2026-09-06T09:29:15.582Z",
-    "generatedAtDate": "06-09-2026"
+    "generatedAt": "2026-09-20T08:32:34.008Z",
+    "generatedAtDate": "20-09-2026"
   }
 }
