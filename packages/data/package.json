@@ -26,6 +26,7 @@
   "files": [
     "generated",
     "manifest.json",
+    "CHANGELOG.md",
     "README.md"
   ],
   "scripts": {

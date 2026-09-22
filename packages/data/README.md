@@ -36,6 +36,7 @@ Fetches use paginated `datastore_search` (32k page size — CKAN’s cap) with `
 | `generated/streets/{cityCode}.json` | Streets for one city |
 | `generated/street-loader.js` | Lazy loader map (`cityCode → import(...)`) |
 | `manifest.json` | CKAN `lastModified`, record counts, build timestamp |
+| `CHANGELOG.md` | Append-only log of what each sync changed (cities/streets) |
 
 ## Data shapes
 
@@ -130,6 +131,8 @@ Example:
 ```
 
 `sources.*.lastModified` comes from the government CKAN metadata (when gov.il last touched the resource). `built.generatedAt` / `generatedAtDate` are when we last synced **changed** city/street content from gov.il into `generated/` (the **last gov.il change** badge shows `generatedAtDate`). Rebuilds that only see a newer CKAN `lastModified` (same records) do not rewrite files, so the weekly sync does not open empty PRs. The cities / streets badges read counts from `manifest.json` on `main`.
+
+When content does change, the build appends a dated section to `CHANGELOG.md` and writes a gitignored `sync-summary.md` used as the automated PR body (cities added/removed, street-file coverage, count deltas).
 
 ## Transform notes
 

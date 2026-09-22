@@ -9,6 +9,8 @@ export const RAW_DIR = path.join(DATA_ROOT, "raw");
 export const GENERATED_DIR = path.join(DATA_ROOT, "generated");
 export const STREETS_DIR = path.join(GENERATED_DIR, "streets");
 export const MANIFEST_PATH = path.join(DATA_ROOT, "manifest.json");
+export const CHANGELOG_PATH = path.join(DATA_ROOT, "CHANGELOG.md");
+export const SYNC_SUMMARY_PATH = path.join(DATA_ROOT, "sync-summary.md");
 
 export function trimOrNull(value: string | null | undefined): string | null {
   if (value == null) return null;

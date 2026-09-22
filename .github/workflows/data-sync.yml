@@ -6,6 +6,7 @@
 #   3. Validates record counts against live CKAN
 #   4. Opens a PR only when city/street JSON actually changed
 #      (CKAN lastModified / generatedAt-only diffs do not create a PR)
+#   5. PR body + packages/data/CHANGELOG.md summarize cities/streets deltas
 #
 # Schedule: Sunday + Wednesday at 03:17 UTC (same hour band as car-check's
 # reliable daily cron; dual weekly slots so one GitHub drop does not miss the week).
@@ -57,15 +58,23 @@ jobs:
       # Only creates a PR when city/street JSON content changed.
       # CKAN lastModified or generatedAt-only refreshes leave the tree clean — no PR.
       # Review and merge manually — no auto-deploy.
+      # Build writes packages/data/sync-summary.md (gitignored) + appends CHANGELOG.md.
+      - name: Prepare PR body
+        run: |
+          SUMMARY="packages/data/sync-summary.md"
+          if [ ! -f "$SUMMARY" ]; then
+            printf '%s\n' \
+              'Automated weekly sync from [data.gov.il](https://data.gov.il).' \
+              '' \
+              'No city/street content changes detected (metadata-only or empty run).' \
+              > "$SUMMARY"
+          fi
+
       - name: Create PR if data changed
         uses: peter-evans/create-pull-request@v7
         with:
           title: "chore(data): sync from data.gov.il"
           commit-message: "chore(data): sync from data.gov.il"
-          body: |
-            Automated weekly sync from [data.gov.il](https://data.gov.il).
-
-            - [ ] Review city/street count changes in `packages/data/manifest.json`
-            - [ ] CI passes
+          body-path: packages/data/sync-summary.md
           branch: chore/data-sync
           delete-branch: true

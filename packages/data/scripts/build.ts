@@ -9,6 +9,11 @@ import type {
   SourceMeta,
 } from "../src/types.ts";
 import {
+  writeSyncSummaryFiles,
+  type PreviousBuiltState,
+} from "./sync-summary.ts";
+import {
+  CHANGELOG_PATH,
   ensureDir,
   GENERATED_DIR,
   MANIFEST_PATH,
@@ -135,6 +140,22 @@ function contentFingerprint(
   }
 
   return sha256(JSON.stringify({ cities, streets }));
+}
+
+async function loadPreviousBuiltState(): Promise<PreviousBuiltState | null> {
+  try {
+    const manifest = await readJsonFile<DataManifest>(MANIFEST_PATH);
+    const cities = await readJsonFile<BuiltCity[]>(
+      path.join(GENERATED_DIR, "cities.json"),
+    );
+    return {
+      cities,
+      streetCountByCity: manifest.built.streetCountByCity,
+      uniqueStreetCount: manifest.built.uniqueStreetCount,
+    };
+  } catch {
+    return null;
+  }
 }
 
 async function existingContentFingerprint(): Promise<string | null> {
@@ -302,6 +323,7 @@ async function main(): Promise<void> {
 
   const nextFingerprint = contentFingerprint(cities, streetsByCity);
   const previousFingerprint = await existingContentFingerprint();
+  const previousBuilt = await loadPreviousBuiltState();
 
   if (previousFingerprint === nextFingerprint) {
     console.log(
@@ -323,12 +345,13 @@ async function main(): Promise<void> {
   }
 
   const generatedAt = new Date().toISOString();
+  const generatedAtDate = formatGeneratedAtDate(generatedAt);
   const manifest: DataManifest = {
     sources,
     built: {
       ...built,
       generatedAt,
-      generatedAtDate: formatGeneratedAtDate(generatedAt),
+      generatedAtDate,
     },
   };
 
@@ -340,12 +363,21 @@ async function main(): Promise<void> {
   await writeFile(path.join(GENERATED_DIR, "street-loader.js"), loaderJs, "utf8");
   await writeFile(path.join(GENERATED_DIR, "street-loader.d.ts"), loaderDts, "utf8");
 
+  await writeSyncSummaryFiles({
+    previous: previousBuilt,
+    nextCities: cities,
+    nextStreetCountByCity: streetCountByCity,
+    nextUniqueStreetCount: uniqueStreetCount,
+    generatedAtDate,
+  });
+
   const citiesChecksum = sha256(JSON.stringify(cities));
   console.log(`  data changed — wrote new generated/ + manifest`);
   console.log(`  cities: ${cities.length} (${citiesChecksum.slice(0, 8)}…)`);
   console.log(`  streets: ${uniqueStreetCount} unique across ${streetsByCity.size} cities`);
   logCityStreetCoverage(cities, streetsByCity, rawStreets);
   console.log(`  manifest: ${MANIFEST_PATH}`);
+  console.log(`  changelog: ${CHANGELOG_PATH}`);
 }
 
 main().catch((error: unknown) => {
