@@ -12,11 +12,21 @@
     ]
   },
   {
+    "code": 155,
+    "nameHe": "אלה",
+    "aliases": []
+  },
+  {
     "code": 118,
     "nameHe": "אפרוח",
     "aliases": [
       "האפרוח"
     ]
+  },
+  {
+    "code": 158,
+    "nameHe": "אשבל",
+    "aliases": []
   },
   {
     "code": 101,
@@ -142,6 +152,11 @@
     ]
   },
   {
+    "code": 159,
+    "nameHe": "כוכב",
+    "aliases": []
+  },
+  {
     "code": 152,
     "nameHe": "לאה גולדברג",
     "aliases": [
@@ -206,6 +221,11 @@
   {
     "code": 103,
     "nameHe": "משעול חצב",
+    "aliases": []
+  },
+  {
+    "code": 161,
+    "nameHe": "משעול מרווה",
     "aliases": []
   },
   {
@@ -277,6 +297,11 @@
     "aliases": []
   },
   {
+    "code": 160,
+    "nameHe": "עדעד",
+    "aliases": []
+  },
+  {
     "code": 145,
     "nameHe": "עין אורחות",
     "aliases": []
@@ -322,6 +347,11 @@
     ]
   },
   {
+    "code": 156,
+    "nameHe": "רותם",
+    "aliases": []
+  },
+  {
     "code": 131,
     "nameHe": "רחל המשוררת",
     "aliases": [
@@ -341,6 +371,16 @@
   {
     "code": 142,
     "nameHe": "שדה צין",
+    "aliases": []
+  },
+  {
+    "code": 157,
+    "nameHe": "שיזף",
+    "aliases": []
+  },
+  {
+    "code": 154,
+    "nameHe": "שיטה",
     "aliases": []
   },
   {

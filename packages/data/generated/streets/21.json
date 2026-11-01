@@ -10,6 +10,51 @@
     "aliases": []
   },
   {
+    "code": 117,
+    "nameHe": "בולבוס",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "בזלת",
+    "aliases": []
+  },
+  {
+    "code": 118,
+    "nameHe": "גיר",
+    "aliases": []
+  },
+  {
+    "code": 133,
+    "nameHe": "גרניט",
+    "aliases": []
+  },
+  {
+    "code": 140,
+    "nameHe": "דרך האבנים",
+    "aliases": []
+  },
+  {
+    "code": 137,
+    "nameHe": "חולית",
+    "aliases": []
+  },
+  {
+    "code": 132,
+    "nameHe": "חרסית",
+    "aliases": []
+  },
+  {
+    "code": 136,
+    "nameHe": "טורקיז",
+    "aliases": []
+  },
+  {
+    "code": 142,
+    "nameHe": "מלכיט",
+    "aliases": []
+  },
+  {
     "code": 106,
     "nameHe": "משעול אוכם",
     "aliases": [
@@ -131,6 +176,11 @@
     ]
   },
   {
+    "code": 119,
+    "nameHe": "נציץ",
+    "aliases": []
+  },
+  {
     "code": 104,
     "nameHe": "סמ דקל דום",
     "aliases": [
@@ -186,8 +236,28 @@
     "aliases": []
   },
   {
+    "code": 141,
+    "nameHe": "צור",
+    "aliases": []
+  },
+  {
+    "code": 139,
+    "nameHe": "צפחה",
+    "aliases": []
+  },
+  {
+    "code": 138,
+    "nameHe": "קוורץ",
+    "aliases": []
+  },
+  {
     "code": 116,
     "nameHe": "רותם המדבר",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "שחם",
     "aliases": []
   },
   {
