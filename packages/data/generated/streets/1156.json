@@ -1,9 +1,74 @@
 [
   {
+    "code": 113,
+    "nameHe": "זנבן",
+    "aliases": []
+  },
+  {
+    "code": 112,
+    "nameHe": "חמרייה",
+    "aliases": []
+  },
+  {
+    "code": 111,
+    "nameHe": "חנקן",
+    "aliases": []
+  },
+  {
+    "code": 110,
+    "nameHe": "יעלון",
+    "aliases": []
+  },
+  {
+    "code": 109,
+    "nameHe": "לב הקיבוץ",
+    "aliases": []
+  },
+  {
+    "code": 108,
+    "nameHe": "מדברון",
+    "aliases": []
+  },
+  {
+    "code": 107,
+    "nameHe": "משק",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "סבכי",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "סיס",
+    "aliases": []
+  },
+  {
+    "code": 104,
+    "nameHe": "סיקסק",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "סלעית",
+    "aliases": []
+  },
+  {
     "code": 9000,
     "nameHe": "סמר",
     "aliases": [
       "חות סמר"
     ]
+  },
+  {
+    "code": 102,
+    "nameHe": "צופית",
+    "aliases": []
+  },
+  {
+    "code": 101,
+    "nameHe": "שרקרק",
+    "aliases": []
   }
 ]

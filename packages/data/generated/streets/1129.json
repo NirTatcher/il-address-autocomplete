@@ -1,7 +1,32 @@
 [
   {
+    "code": 101,
+    "nameHe": "אשל",
+    "aliases": []
+  },
+  {
+    "code": 105,
+    "nameHe": "בז",
+    "aliases": []
+  },
+  {
     "code": 9000,
     "nameHe": "גרופית",
+    "aliases": []
+  },
+  {
+    "code": 102,
+    "nameHe": "ורדית",
+    "aliases": []
+  },
+  {
+    "code": 106,
+    "nameHe": "כלנית",
+    "aliases": []
+  },
+  {
+    "code": 103,
+    "nameHe": "ציחור",
     "aliases": []
   }
 ]

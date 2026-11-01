@@ -75,6 +75,11 @@
     "aliases": []
   },
   {
+    "code": 144,
+    "nameHe": "דרך כנפי הרוח",
+    "aliases": []
+  },
+  {
     "code": 130,
     "nameHe": "דרך מדבר יהודה",
     "aliases": [
@@ -89,6 +94,11 @@
       "ישיבת ברכת משה",
       "מצפה נבו"
     ]
+  },
+  {
+    "code": 143,
+    "nameHe": "דרך ציפור מדבר",
+    "aliases": []
   },
   {
     "code": 141,
@@ -145,6 +155,11 @@
     "aliases": []
   },
   {
+    "code": 147,
+    "nameHe": "הבז",
+    "aliases": []
+  },
+  {
     "code": 244,
     "nameHe": "הבזלת",
     "aliases": []
@@ -197,8 +212,23 @@
     ]
   },
   {
+    "code": 148,
+    "nameHe": "הדוכיפת",
+    "aliases": []
+  },
+  {
+    "code": 168,
+    "nameHe": "הדיה",
+    "aliases": []
+  },
+  {
     "code": 186,
     "nameHe": "הדקל",
+    "aliases": []
+  },
+  {
+    "code": 169,
+    "nameHe": "הדרור",
     "aliases": []
   },
   {
@@ -212,6 +242,11 @@
     "aliases": [
       "משעול הזיתים"
     ]
+  },
+  {
+    "code": 170,
+    "nameHe": "החוגלה",
+    "aliases": []
   },
   {
     "code": 252,
@@ -331,8 +366,28 @@
     ]
   },
   {
+    "code": 171,
+    "nameHe": "הנשר",
+    "aliases": []
+  },
+  {
+    "code": 266,
+    "nameHe": "העגור",
+    "aliases": []
+  },
+  {
     "code": 116,
     "nameHe": "העוגב",
+    "aliases": []
+  },
+  {
+    "code": 267,
+    "nameHe": "העורבני",
+    "aliases": []
+  },
+  {
+    "code": 268,
+    "nameHe": "העיט",
     "aliases": []
   },
   {

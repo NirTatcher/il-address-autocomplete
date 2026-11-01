@@ -45,6 +45,11 @@
     "aliases": []
   },
   {
+    "code": 132,
+    "nameHe": "חלמונית",
+    "aliases": []
+  },
+  {
     "code": 116,
     "nameHe": "חלמית",
     "aliases": []
@@ -57,6 +62,11 @@
   {
     "code": 106,
     "nameHe": "חרוב",
+    "aliases": []
+  },
+  {
+    "code": 131,
+    "nameHe": "חרצית",
     "aliases": []
   },
   {
@@ -122,8 +132,18 @@
     "aliases": []
   },
   {
+    "code": 133,
+    "nameHe": "סמר",
+    "aliases": []
+  },
+  {
     "code": 121,
     "nameHe": "עדעד",
+    "aliases": []
+  },
+  {
+    "code": 134,
+    "nameHe": "פרג",
     "aliases": []
   },
   {
@@ -149,6 +169,11 @@
   {
     "code": 123,
     "nameHe": "שיזף",
+    "aliases": []
+  },
+  {
+    "code": 135,
+    "nameHe": "שיטה",
     "aliases": []
   },
   {
